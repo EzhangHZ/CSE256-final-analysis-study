@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"5\nabca\n2\nabca\n6\ncodeforces\n1\ncodeforces\n10\ncodeforces\n100\n",
+		"1\nvdjisjifreo\n39\n"
+	],
+	"outputs": [
+		"aa\naba\n\ncdc\ncodeforces\n",
+		"diife\n"
+	]
+}

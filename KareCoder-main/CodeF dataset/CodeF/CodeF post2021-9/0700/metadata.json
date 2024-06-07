@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2500",
+    "url": "https://codeforces.com/problemset/problem/1710/C",
+    "tag": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jul/24/2022"
+}

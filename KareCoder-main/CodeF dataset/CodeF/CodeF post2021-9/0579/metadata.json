@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1635/D",
+    "tag": [
+        "bitmasks",
+        "dp",
+        "math",
+        "matrices",
+        "number theory",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/20/2022"
+}

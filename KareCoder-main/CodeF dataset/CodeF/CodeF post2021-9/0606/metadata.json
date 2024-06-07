@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1601/B",
+    "tag": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Oct/25/2021"
+}

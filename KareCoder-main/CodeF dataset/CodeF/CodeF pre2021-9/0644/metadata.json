@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1444/B",
+    "tag": [
+        "combinatorics",
+        "math",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Nov/01/2020"
+}

@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"6\naabbdabdccc\nzyx\naaababbb\naabbcc\noaoaaaoo\nbmefbmuyw\n"
+	],
+	"outputs": [
+		"3\n3\n2\n0\n2\n7\n"
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"inputs": [
+		"4\nb\naabbbabaa\nabbb\nabbaab\n",
+		"1\naaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbab\n",
+		"1\nabbabababbabababbababbbabbbbabbbabaabaabba\n"
+	],
+	"outputs": [
+		"b\naabbbabaa\nbbbb\nbbbaab\n",
+		"baaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbab\n",
+		"abbabababbabababbababbbabbbbabbbabaabaabba\n"
+	]
+}

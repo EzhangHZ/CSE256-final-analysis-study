@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1548/B",
+    "tag": [
+        "binary search",
+        "data structures",
+        "divide and conquer",
+        "math",
+        "number theory",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/01/2021"
+}

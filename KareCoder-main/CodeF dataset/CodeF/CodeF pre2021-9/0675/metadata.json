@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1385/E",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/17/2020"
+}

@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"7\nabacaba\nabc\ncccba\nacb\ndbsic\nbac\nabracadabra\nabc\ndddddddddddd\ncba\nbbc\nabc\nac\nabc\n"
+	],
+	"outputs": [
+		"aaaacbb\nabccc\nbcdis\naaaaacbbdrr\ndddddddddddd\nbbc\nac\n"
+	]
+}

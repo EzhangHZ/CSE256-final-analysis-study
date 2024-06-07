@@ -1,0 +1,12 @@
+{
+    "difficulty": "*900",
+    "url": "https://codeforces.com/problemset/problem/1612/B",
+    "tag": [
+        "constructive algorithms",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Nov/22/2021"
+}

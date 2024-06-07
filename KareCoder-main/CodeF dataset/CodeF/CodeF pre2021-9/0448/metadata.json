@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1304/C",
+    "tag": [
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/15/2020"
+}

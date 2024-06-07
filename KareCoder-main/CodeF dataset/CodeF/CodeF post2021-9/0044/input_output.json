@@ -1,0 +1,12 @@
+{
+	"inputs": [
+		"3\noelhl\nabcdcba\nac\n",
+		"1\nf\n",
+		"1\nabdogaber\n"
+	],
+	"outputs": [
+		"ehllo\naabbccd\nac\n",
+		"f\n",
+		"aabbdegor\n"
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1359/D",
+    "tag": [
+        "data structures",
+        "dp",
+        "implementation",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1.5 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "May/28/2020"
+}

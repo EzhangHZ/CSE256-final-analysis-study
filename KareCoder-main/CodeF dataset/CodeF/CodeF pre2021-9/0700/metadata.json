@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1343/E",
+    "tag": [
+        "brute force",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/21/2020"
+}

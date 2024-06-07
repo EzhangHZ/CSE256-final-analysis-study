@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1594/D",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "dsu",
+        "graphs"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/08/2021"
+}

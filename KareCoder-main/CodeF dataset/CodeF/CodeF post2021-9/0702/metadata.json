@@ -1,0 +1,12 @@
+{
+    "difficulty": "*2500",
+    "url": "https://codeforces.com/problemset/problem/1677/D",
+    "tag": [
+        "dp",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/08/2022"
+}

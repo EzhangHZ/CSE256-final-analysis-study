@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1491/C",
+    "tag": [
+        "brute force",
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/28/2021"
+}

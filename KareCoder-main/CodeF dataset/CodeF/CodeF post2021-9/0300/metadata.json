@@ -1,0 +1,12 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1722/D",
+    "tag": [
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/30/2022"
+}

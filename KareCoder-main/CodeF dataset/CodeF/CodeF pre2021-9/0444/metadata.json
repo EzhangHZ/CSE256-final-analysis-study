@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1400/C",
+    "tag": [
+        "2-sat",
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/25/2020"
+}

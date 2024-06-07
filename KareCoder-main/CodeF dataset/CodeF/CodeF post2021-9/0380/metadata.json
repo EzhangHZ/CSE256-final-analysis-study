@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1200",
+    "url": "https://codeforces.com/problemset/problem/1582/C",
+    "tag": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "strings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/24/2021"
+}

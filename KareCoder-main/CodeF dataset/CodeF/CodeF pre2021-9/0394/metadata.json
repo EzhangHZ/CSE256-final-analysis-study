@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1475/C",
+    "tag": [
+        "combinatorics",
+        "graphs",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/25/2021"
+}

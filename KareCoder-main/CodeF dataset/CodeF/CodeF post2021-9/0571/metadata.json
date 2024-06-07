@@ -1,0 +1,17 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1572/A",
+    "tag": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "graphs",
+        "implementation",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/18/2021"
+}

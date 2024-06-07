@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1569/D",
+    "tag": [
+        "binary search",
+        "data structures",
+        "implementation",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/08/2021"
+}

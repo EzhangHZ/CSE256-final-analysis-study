@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"4\n3 2\ncba\n4 5\nfgde\n7 5\ngndcafb\n4 19\nekyv\n",
+		"1\n15 1\nwaterwaterwater\n"
+	],
+	"outputs": [
+		"aaa\nagaa\nbnbbabb\naapp\n",
+		"vatervatervater\n"
+	]
+}

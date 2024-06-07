@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2900",
+    "url": "https://codeforces.com/problemset/problem/1487/F",
+    "tag": [
+        "dp",
+        "greedy",
+        "shortest paths"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/15/2021"
+}

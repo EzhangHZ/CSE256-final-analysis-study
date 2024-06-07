@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2900",
+    "url": "https://codeforces.com/problemset/problem/1644/F",
+    "tag": [
+        "combinatorics",
+        "fft",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "6 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Feb/22/2022"
+}

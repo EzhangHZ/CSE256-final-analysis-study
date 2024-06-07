@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1542/B",
+    "tag": [
+        "constructive algorithms",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jul/03/2021"
+}

@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"5\n7\n?R???BR\n7\n???R???\n1\n?\n1\nB\n10\n?R??RB??B?\n",
+		"1\n2\n??\n"
+	],
+	"outputs": [
+		"BRBRBBR\nBRBRBRB\nR\nB\nBRBRRBRBBR\n",
+		"RB\n"
+	]
+}

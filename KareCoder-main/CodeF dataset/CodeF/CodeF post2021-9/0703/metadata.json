@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2500",
+    "url": "https://codeforces.com/problemset/problem/1734/F",
+    "tag": [
+        "bitmasks",
+        "divide and conquer",
+        "dp",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/23/2022"
+}

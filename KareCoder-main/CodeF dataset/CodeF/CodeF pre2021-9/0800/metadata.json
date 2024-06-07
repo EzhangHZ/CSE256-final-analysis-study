@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2800",
+    "url": "https://codeforces.com/problemset/problem/1375/G",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "graph matchings",
+        "graphs",
+        "trees"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/04/2020"
+}

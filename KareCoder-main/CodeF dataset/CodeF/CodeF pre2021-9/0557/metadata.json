@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1335/E1",
+    "tag": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dp",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/13/2020"
+}

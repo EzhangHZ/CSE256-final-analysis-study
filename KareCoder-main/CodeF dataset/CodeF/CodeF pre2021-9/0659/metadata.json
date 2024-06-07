@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1367/E",
+    "tag": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "number theory"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/16/2020"
+}

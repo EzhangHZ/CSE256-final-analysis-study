@@ -1,0 +1,17 @@
+{
+    "difficulty": "*2300",
+    "url": "https://codeforces.com/problemset/problem/1550/D",
+    "tag": [
+        "binary search",
+        "combinatorics",
+        "constructive algorithms",
+        "implementation",
+        "math",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/14/2021"
+}

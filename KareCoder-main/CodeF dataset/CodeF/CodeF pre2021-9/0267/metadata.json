@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1288/A",
+    "tag": [
+        "binary search",
+        "brute force",
+        "math",
+        "ternary search"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/14/2020"
+}

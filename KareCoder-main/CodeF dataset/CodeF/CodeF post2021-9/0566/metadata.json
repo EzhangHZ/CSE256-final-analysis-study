@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1792/D",
+    "tag": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "hashing",
+        "math",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/24/2023"
+}

@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1566/E",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+    ],
+    "picture_num": "4",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/12/2021"
+}

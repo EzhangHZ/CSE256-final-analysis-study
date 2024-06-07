@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"3\nfc\naaaa\nthebrightboiler\n",
+		"5\nkbxiahaosfyclumgnaczggrnljumplxknibxmeedvnefh\ndkqosshpegwunnzsohmxxumnnhckwyczaowpoxezqlovukcuuqgrsbrtifngthlquuqdjvyltgjbrmwoefypvdyzqwlainjoqx\nwktnblvszfndrjodikurlytsayblhpdnrytxnhfejtjfzeeamtt\ngkffwelozvmyosbmoufjpjzbeohbulotcinspqmyurolxwlwloobkszpnddxhrkbxoytmdsqxaetqzmufc\npdhelid\n"
+	],
+	"outputs": [
+		"c f\na aaa\nb therightboiler\n",
+		"a kbxihaosfyclumgnaczggrnljumplxknibxmeedvnefh\na dkqosshpegwunnzsohmxxumnnhckwyczowpoxezqlovukcuuqgrsbrtifngthlquuqdjvyltgjbrmwoefypvdyzqwlainjoqx\na wktnblvszfndrjodikurlytsyblhpdnrytxnhfejtjfzeeamtt\na gkffwelozvmyosbmoufjpjzbeohbulotcinspqmyurolxwlwloobkszpnddxhrkbxoytmdsqxetqzmufc\nd phelid\n"
+	]
+}

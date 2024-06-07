@@ -1,0 +1,12 @@
+{
+	"inputs": [
+		"3\na\nbbbb\naz\n",
+		"5\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz\nazazazazazazazazazazazazazazazazazazazazazazazazaz\nzazazazazazazazazazazazazazazazazazazazazazazazaza\nzzazzazzazzazzazzazzazzazzazzazzazzazzazzazza\n",
+		"1\na\n"
+	],
+	"outputs": [
+		"b\nazaz\nby\n",
+		"bzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbzbz\nayayayayayayayayayayayayayayayayayayayayayayayayay\nbybybybybybybybybybybybybybybybybybybybybybybybyby\nazazazazazazazazazazazazazazazazazazazazazazazazaz\naybyazaybyazaybyazaybyazaybyazaybyazaybyazayb\n",
+		"b\n"
+	]
+}

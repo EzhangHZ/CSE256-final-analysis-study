@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1735/D",
+    "tag": [
+        "brute force",
+        "combinatorics",
+        "data structures",
+        "hashing",
+        "math"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/02/2022"
+}

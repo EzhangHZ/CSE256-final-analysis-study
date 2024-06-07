@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1327/E",
+    "tag": [
+        "combinatorics",
+        "dp",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/23/2020"
+}

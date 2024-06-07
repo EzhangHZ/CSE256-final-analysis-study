@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1700/D",
+    "tag": [
+        "binary search",
+        "dp",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/19/2022"
+}

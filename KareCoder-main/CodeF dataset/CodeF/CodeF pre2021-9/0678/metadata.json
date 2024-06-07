@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1344/B",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs"
+    ],
+    "picture_num": "4",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/06/2020"
+}

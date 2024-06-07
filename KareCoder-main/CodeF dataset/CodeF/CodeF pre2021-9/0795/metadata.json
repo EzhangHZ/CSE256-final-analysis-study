@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2700",
+    "url": "https://codeforces.com/problemset/problem/1338/D",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "math",
+        "trees"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/12/2020"
+}

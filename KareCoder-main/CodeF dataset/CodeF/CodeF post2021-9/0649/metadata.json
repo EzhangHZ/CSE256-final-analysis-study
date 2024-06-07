@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1718/B",
+    "tag": [
+        "greedy",
+        "implementation",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/16/2022"
+}

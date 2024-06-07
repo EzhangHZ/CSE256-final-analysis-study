@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1311/F",
+    "tag": [
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/24/2020"
+}

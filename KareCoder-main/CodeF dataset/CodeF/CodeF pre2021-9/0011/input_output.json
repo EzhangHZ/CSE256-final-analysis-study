@@ -1,0 +1,40 @@
+{
+	"inputs": [
+		"5\n3\nABA\n11\nDDBBCCCBBEZ\n7\nFFGZZZY\n1\nZ\n2\nAB\n",
+		"1\n10\nAAAAAAAAAA\n",
+		"1\n10\nAAAAAAAAAB\n",
+		"1\n10\nAAAAAAAAAC\n",
+		"1\n10\nAAAAAAAAAD\n",
+		"1\n10\nAAAAAAAAAE\n",
+		"1\n10\nAAAAAAAAAF\n",
+		"1\n10\nAAAAAAAAAG\n",
+		"1\n10\nAAAAAAAAAH\n",
+		"1\n10\nAAAAAAAAAI\n",
+		"1\n10\nAAAAAAAAAJ\n",
+		"1\n10\nAAAAAAAABB\n",
+		"1\n10\nILOVEELINA\n",
+		"1\n14\nELINALOVEVORIS\n",
+		"1\n14\nVORISLOVEELINA\n",
+		"3\n1\nZ\n1\nZ\n2\nZY\n",
+		"1\n24\nDEBOOFORCEDMETODOTHISSMH\n"
+	],
+	"outputs": [
+		"NO\nNO\nYES\nYES\nYES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"YES\n",
+		"NO\n",
+		"NO\n",
+		"NO\n",
+		"YES\nYES\nYES\n",
+		"NO\n"
+	]
+}

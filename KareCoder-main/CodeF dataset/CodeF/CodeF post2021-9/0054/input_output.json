@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"6\n2 4\nbest\ncost\n6 3\nabb\nzba\nbef\ncdu\nooo\nzzz\n2 7\naaabbbc\nbbaezfe\n3 2\nab\nab\nab\n2 8\naaaaaaaa\nzzzzzzzz\n3 1\na\nu\ny\n",
+		"1\n2 7\nabcdefg\naaaaaaa\n"
+	],
+	"outputs": [
+		"11\n8\n35\n0\n200\n4\n",
+		"21\n"
+	]
+}

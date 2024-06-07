@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1468/F",
+    "tag": [
+        "geometry",
+        "hashing",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Dec/25/2020"
+}

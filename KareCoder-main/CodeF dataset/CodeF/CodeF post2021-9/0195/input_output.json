@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"4\nAABAB\nABB\nAAAAAAAAB\nA\n"
+	],
+	"outputs": [
+		"YES\nNO\nYES\nNO\n"
+	]
+}

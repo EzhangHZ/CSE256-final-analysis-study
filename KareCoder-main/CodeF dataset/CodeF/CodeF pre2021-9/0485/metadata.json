@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1466/D",
+    "tag": [
+        "data structures",
+        "greedy",
+        "sortings",
+        "trees"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/30/2020"
+}

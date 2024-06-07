@@ -1,0 +1,13 @@
+{
+    "difficulty": "*900",
+    "url": "https://codeforces.com/problemset/problem/1795/B",
+    "tag": [
+        "brute force",
+        "geometry",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/16/2023"
+}

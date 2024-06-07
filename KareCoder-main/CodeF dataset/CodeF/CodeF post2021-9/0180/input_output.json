@@ -1,0 +1,34 @@
+{
+	"inputs": [
+		"4\n4 3\nBRBB\nRBR\n4 7\nBRBR\nRRBRBRB\n3 4\nRBR\nBRBR\n5 4\nBRBRR\nBRBR\n",
+		"23\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n",
+		"5\n4 3\nBRBB\nRBR\n4 7\nBRBR\nRRBRBRB\n3 4\nRBR\nBRBR\n5 4\nBRBRR\nBRBR\n4 5\nBRBR\nRBRBR\n",
+		"9\n4 3\nBRBB\nRBR\n4 7\nBRBR\nRRBRBRB\n3 4\nRBR\nBRBR\n5 4\nBRBRR\nBRBR\n4 3\nBRBB\nRBR\n4 7\nBRBR\nRRBRBRB\n3 4\nRBR\nBRBR\n5 4\nBRBRR\nBRBR\n4 3\nBRBB\nRBR\n",
+		"5\n4 3\nBRBB\nRBR\n4 7\nBRBR\nRRBRBRB\n3 4\nRBR\nBRBR\n5 4\nBRBRR\nBRBR\n4 3\nBRBB\nRBR\n",
+		"5\n1 1\nB\nB\n1 1\nB\nB\n1 1\nB\nB\n1 1\nB\nB\n1 1\nB\nB\n",
+		"5\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n",
+		"5\n4 4\nBBBB\nRRBB\n4 4\nBBBB\nRRBB\n4 4\nBBBB\nRRBB\n4 5\nBBBB\nRRBBR\n4 5\nBBBB\nRRBBR\n",
+		"5\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n1 1\nR\nB\n",
+		"5\n4 3\nBRBB\nRBR\n4 7\nBRBR\nRRBRBRB\n3 4\nRBR\nBRBR\n5 4\nBRBRR\nBRBR\n1 1\nB\nB\n",
+		"1\n1 1\nR\nB\n",
+		"10\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n",
+		"7\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n1 1\nR\nR\n",
+		"2\n1 2\nR\nRB\n1 2\nR\nRB\n"
+	],
+	"outputs": [
+		"YES\nYES\nYES\nNO\n",
+		"YES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\n",
+		"YES\nYES\nYES\nNO\nYES\n",
+		"YES\nYES\nYES\nNO\nYES\nYES\nYES\nNO\nYES\n",
+		"YES\nYES\nYES\nNO\nYES\n",
+		"YES\nYES\nYES\nYES\nYES\n",
+		"YES\nYES\nYES\nYES\nYES\n",
+		"NO\nNO\nNO\nNO\nNO\n",
+		"YES\nYES\nYES\nYES\nYES\n",
+		"YES\nYES\nYES\nNO\nYES\n",
+		"YES\n",
+		"YES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\n",
+		"YES\nYES\nYES\nYES\nYES\nYES\nYES\n",
+		"YES\nYES\n"
+	]
+}

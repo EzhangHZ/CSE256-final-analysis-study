@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1373/E",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jun/25/2020"
+}

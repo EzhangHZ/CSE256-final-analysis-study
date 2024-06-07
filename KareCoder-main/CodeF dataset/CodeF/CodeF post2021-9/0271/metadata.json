@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1791/D",
+    "tag": [
+        "brute force",
+        "greedy",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/03/2023"
+}

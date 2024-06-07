@@ -1,0 +1,12 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1786/B",
+    "tag": [
+        "brute force",
+        "sortings"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/05/2023"
+}

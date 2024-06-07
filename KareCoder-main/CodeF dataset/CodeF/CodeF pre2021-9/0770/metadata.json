@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1348/E",
+    "tag": [
+        "brute force",
+        "dp",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/01/2020"
+}

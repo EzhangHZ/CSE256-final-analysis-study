@@ -1,0 +1,14 @@
+{
+    "difficulty": "*800",
+    "url": "https://codeforces.com/problemset/problem/1728/A",
+    "tag": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/08/2022"
+}

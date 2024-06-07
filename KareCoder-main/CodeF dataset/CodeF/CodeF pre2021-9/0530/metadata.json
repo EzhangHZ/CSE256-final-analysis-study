@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1539/D",
+    "tag": [
+        "binary search",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/20/2021"
+}

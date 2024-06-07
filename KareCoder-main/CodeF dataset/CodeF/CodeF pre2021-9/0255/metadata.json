@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1511/C",
+    "tag": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "trees"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/12/2021"
+}

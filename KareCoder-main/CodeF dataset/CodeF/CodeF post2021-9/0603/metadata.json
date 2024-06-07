@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1696/D",
+    "tag": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "greedy",
+        "shortest paths"
+    ],
+    "picture_num": "5",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jun/25/2022"
+}

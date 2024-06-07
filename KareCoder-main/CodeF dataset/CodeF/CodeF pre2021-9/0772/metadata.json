@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1469/E",
+    "tag": [
+        "bitmasks",
+        "brute force",
+        "hashing",
+        "string suffix structures",
+        "strings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "1024 megabytes",
+    "date": "Dec/28/2020"
+}

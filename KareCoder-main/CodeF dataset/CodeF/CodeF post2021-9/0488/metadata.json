@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1742/G",
+    "tag": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "math",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/13/2022"
+}

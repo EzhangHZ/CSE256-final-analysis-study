@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2600",
+    "url": "https://codeforces.com/problemset/problem/1469/F",
+    "tag": [
+        "binary search",
+        "data structures",
+        "greedy"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/28/2020"
+}

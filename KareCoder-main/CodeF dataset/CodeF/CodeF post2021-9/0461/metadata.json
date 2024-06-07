@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1735/C",
+    "tag": [
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "implementation",
+        "strings"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/02/2022"
+}

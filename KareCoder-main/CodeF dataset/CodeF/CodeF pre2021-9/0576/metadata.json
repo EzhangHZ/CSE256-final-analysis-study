@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1340/B",
+    "tag": [
+        "bitmasks",
+        "dp",
+        "graphs",
+        "greedy"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/23/2020"
+}

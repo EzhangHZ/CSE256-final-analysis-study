@@ -1,0 +1,14 @@
+{
+    "difficulty": "*800",
+    "url": "https://codeforces.com/problemset/problem/1598/A",
+    "tag": [
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "implementation"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/10/2021"
+}

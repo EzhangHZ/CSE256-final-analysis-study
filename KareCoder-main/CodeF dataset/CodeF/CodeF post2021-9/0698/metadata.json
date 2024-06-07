@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1585/F",
+    "tag": [
+        "combinatorics",
+        "dp",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Dec/12/2021"
+}

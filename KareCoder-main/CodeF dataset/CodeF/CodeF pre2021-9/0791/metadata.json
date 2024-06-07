@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2600",
+    "url": "https://codeforces.com/problemset/problem/1493/E",
+    "tag": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "math",
+        "strings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/06/2021"
+}

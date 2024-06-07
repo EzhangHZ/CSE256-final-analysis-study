@@ -1,0 +1,18 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1455/E",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "flows",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math",
+        "ternary search"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/30/2020"
+}

@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"3\n3\n.X.\nXXX\n.X.\n6\nXX.XXX\nXXXXXX\nXXX.XX\nXXXXXX\nXX.X.X\nXXXXXX\n5\nXXX.X\n.X..X\nXXX.X\n..X..\n..X..\n",
+		"1\n6\nXXXXXX\nXXXXXX\nXX..XX\nXX..XX\nXXXXXX\nXXXXXX\n"
+	],
+	"outputs": [
+		".X.\nXOX\n.X.\nXX.XXO\nXOXXOX\nOXX.XX\nXXOXXO\nXO.X.X\nOXXOXX\nXOX.O\n.X..X\nXXO.X\n..X..\n..X..\n",
+		"XXOXXO\nXOXXOX\nOX..XX\nXX..XO\nXOXXOX\nOXXOXX\n"
+	]
+}

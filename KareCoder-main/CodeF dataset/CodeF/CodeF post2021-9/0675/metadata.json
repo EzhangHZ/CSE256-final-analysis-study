@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1704/E",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "implementation",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/31/2022"
+}

@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1462/E2",
+    "tag": [
+        "binary search",
+        "combinatorics",
+        "implementation",
+        "math",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/15/2020"
+}

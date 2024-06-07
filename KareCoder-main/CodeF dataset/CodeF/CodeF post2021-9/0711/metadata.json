@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2700",
+    "url": "https://codeforces.com/problemset/problem/1792/F1",
+    "tag": [
+        "combinatorics",
+        "dp",
+        "graphs"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "5.5 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jan/24/2023"
+}

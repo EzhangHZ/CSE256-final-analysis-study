@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1482/D",
+    "tag": [
+        "data structures",
+        "dsu",
+        "implementation",
+        "shortest paths"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/21/2021"
+}

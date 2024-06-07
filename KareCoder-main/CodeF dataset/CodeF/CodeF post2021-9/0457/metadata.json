@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1609/C",
+    "tag": [
+        "binary search",
+        "dp",
+        "implementation",
+        "number theory",
+        "schedules",
+        "two pointers"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/28/2021"
+}

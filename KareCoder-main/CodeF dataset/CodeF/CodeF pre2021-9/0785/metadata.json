@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2500",
+    "url": "https://codeforces.com/problemset/problem/1481/E",
+    "tag": [
+        "data structures",
+        "dp",
+        "greedy"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/05/2021"
+}

@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1675/D",
+    "tag": [
+        "graphs",
+        "implementation",
+        "trees"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/05/2022"
+}

@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1776/F",
+    "tag": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/19/2023"
+}

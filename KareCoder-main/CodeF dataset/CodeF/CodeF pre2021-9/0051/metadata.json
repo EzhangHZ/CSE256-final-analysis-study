@@ -1,0 +1,12 @@
+{
+    "difficulty": "*800",
+    "url": "https://codeforces.com/problemset/problem/1547/A",
+    "tag": [
+        "implementation",
+        "math"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jul/10/2021"
+}

@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2300",
+    "url": "https://codeforces.com/problemset/problem/1371/E2",
+    "tag": [
+        "binary search",
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/01/2020"
+}

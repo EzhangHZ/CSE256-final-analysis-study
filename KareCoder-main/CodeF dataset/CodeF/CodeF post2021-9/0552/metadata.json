@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1706/D1",
+    "tag": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "64 megabytes",
+    "date": "Jul/18/2022"
+}

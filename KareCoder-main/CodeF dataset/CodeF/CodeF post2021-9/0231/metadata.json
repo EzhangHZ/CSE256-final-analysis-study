@@ -1,0 +1,13 @@
+{
+    "difficulty": "*900",
+    "url": "https://codeforces.com/problemset/problem/1699/B",
+    "tag": [
+        "bitmasks",
+        "constructive algorithms",
+        "matrices"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/04/2022"
+}

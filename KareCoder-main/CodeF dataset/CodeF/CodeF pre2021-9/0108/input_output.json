@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"6\ncbabc\nab\nzza\nba\na\nnutforajaroftuna\n"
+	],
+	"outputs": [
+		"YES\ncbabca\nYES\naab\nYES\nzzaa\nYES\nbaa\nNO\nYES\nnutforajaroftunaa\n"
+	]
+}

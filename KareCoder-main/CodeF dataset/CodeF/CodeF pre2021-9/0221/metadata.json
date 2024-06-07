@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1419/D1",
+    "tag": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/19/2020"
+}

@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1473/D",
+    "tag": [
+        "data structures",
+        "dp",
+        "implementation",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/14/2021"
+}

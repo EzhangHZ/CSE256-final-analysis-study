@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1200",
+    "url": "https://codeforces.com/problemset/problem/1495/A",
+    "tag": [
+        "geometry",
+        "greedy",
+        "math",
+        "sortings"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/10/2021"
+}

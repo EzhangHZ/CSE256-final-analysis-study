@@ -1,0 +1,17 @@
+{
+    "difficulty": "*800",
+    "url": "https://codeforces.com/problemset/problem/1549/B",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "flows",
+        "graph matchings",
+        "graphs",
+        "greedy",
+        "implementation"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/01/2021"
+}

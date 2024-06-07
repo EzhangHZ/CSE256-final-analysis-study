@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1407/D",
+    "tag": [
+        "data structures",
+        "dp",
+        "graphs"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/08/2020"
+}

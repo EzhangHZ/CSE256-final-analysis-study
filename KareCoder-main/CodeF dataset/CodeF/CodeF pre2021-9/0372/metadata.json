@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1553/B",
+    "tag": [
+        "brute force",
+        "dp",
+        "hashing",
+        "implementation",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/22/2021"
+}

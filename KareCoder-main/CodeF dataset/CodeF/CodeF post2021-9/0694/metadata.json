@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1709/E",
+    "tag": [
+        "bitmasks",
+        "data structures",
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "trees"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/21/2022"
+}

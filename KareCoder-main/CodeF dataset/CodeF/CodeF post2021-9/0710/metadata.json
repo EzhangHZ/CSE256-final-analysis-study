@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2600",
+    "url": "https://codeforces.com/problemset/problem/1599/A",
+    "tag": [
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/09/2021"
+}

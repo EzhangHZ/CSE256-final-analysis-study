@@ -1,0 +1,14 @@
+{
+	"inputs": [
+		"2\n2 2\n1 2\n2 1\n3 1\n2 2\n",
+		"17\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n8 1\n1 1\n",
+		"17\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n",
+		"3\n1 1\n1 1\n1 1\n1 1\n1 1\n1 1\n"
+	],
+	"outputs": [
+		"NO\nYES\n",
+		"YES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\n",
+		"NO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\n",
+		"NO\nNO\nNO\n"
+	]
+}

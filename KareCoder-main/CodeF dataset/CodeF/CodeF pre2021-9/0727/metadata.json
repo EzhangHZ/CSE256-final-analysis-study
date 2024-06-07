@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1400/E",
+    "tag": [
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/25/2020"
+}

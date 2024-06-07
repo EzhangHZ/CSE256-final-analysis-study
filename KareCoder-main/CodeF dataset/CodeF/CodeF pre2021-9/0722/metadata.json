@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1547/G",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "trees"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jul/10/2021"
+}

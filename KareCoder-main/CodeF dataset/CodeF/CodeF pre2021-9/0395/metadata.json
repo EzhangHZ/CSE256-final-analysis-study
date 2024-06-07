@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1369/C",
+    "tag": [
+        "greedy",
+        "math",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/23/2020"
+}

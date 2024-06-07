@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1475/F",
+    "tag": [
+        "2-sat",
+        "brute force",
+        "constructive algorithms"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/25/2021"
+}

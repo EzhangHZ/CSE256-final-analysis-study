@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1779/D",
+    "tag": [
+        "constructive algorithms",
+        "data structures",
+        "dp",
+        "dsu",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/03/2023"
+}

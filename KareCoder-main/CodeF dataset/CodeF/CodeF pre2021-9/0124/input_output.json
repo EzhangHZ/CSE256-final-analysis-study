@@ -1,0 +1,16 @@
+{
+	"inputs": [
+		"2\n3 2\n4 1\n",
+		"10\n1 1\n2 1\n3 1\n4 1\n5 1\n6 1\n7 1\n8 1\n9 1\n10 1\n",
+		"10\n123 23\n4 4\n5 1\n5 2\n5 3\n7 2\n7 1\n7 7\n10 9\n10 1\n",
+		"10\n11 1\n12 1\n13 1\n14 1\n15 1\n16 1\n17 1\n18 1\n19 1\n20 1\n",
+		"10\n21 1\n22 1\n23 1\n24 1\n25 1\n26 1\n27 1\n28 1\n29 1\n30 1\n"
+	],
+	"outputs": [
+		"abc\nabca\n",
+		"a\nab\nabc\nabca\nabcab\nabcabc\nabcabca\nabcabcab\nabcabcabc\nabcabcabca\n",
+		"abcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabcabc\nabca\nabcab\nabcab\nabcab\nabcabca\nabcabca\nabcabca\nabcabcabca\nabcabcabca\n",
+		"abcabcabcab\nabcabcabcabc\nabcabcabcabca\nabcabcabcabcab\nabcabcabcabcabc\nabcabcabcabcabca\nabcabcabcabcabcab\nabcabcabcabcabcabc\nabcabcabcabcabcabca\nabcabcabcabcabcabcab\n",
+		"abcabcabcabcabcabcabc\nabcabcabcabcabcabcabca\nabcabcabcabcabcabcabcab\nabcabcabcabcabcabcabcabc\nabcabcabcabcabcabcabcabca\nabcabcabcabcabcabcabcabcab\nabcabcabcabcabcabcabcabcabc\nabcabcabcabcabcabcabcabcabca\nabcabcabcabcabcabcabcabcabcab\nabcabcabcabcabcabcabcabcabcabc\n"
+	]
+}

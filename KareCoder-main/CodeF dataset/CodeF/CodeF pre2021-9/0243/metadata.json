@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1324/C",
+    "tag": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "greedy",
+        "implementation"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/12/2020"
+}

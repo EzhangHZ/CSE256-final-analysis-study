@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1574/B",
+    "tag": [
+        "combinatorics",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/20/2021"
+}

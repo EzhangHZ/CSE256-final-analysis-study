@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1690/F",
+    "tag": [
+        "graphs",
+        "math",
+        "number theory",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/07/2022"
+}

@@ -1,0 +1,30 @@
+{
+	"inputs": [
+		"5\na\nabcdfdcecba\nabbaxyzyx\ncodeforces\nacbba\n",
+		"10\nu\nxqpczgnzazxyrvx\ncfjgfhxmzqmjgzzjthziuomldylspyfuxvjlgdc\nooydbldio\nyvaamavy\nrzjjebcgotjffuzr\nhtfkwvihzuwxczopzqujdnaorgxibjfcmlzntskawxhyoymwynitukttewfpajuph\nfactnjajntcaf\nywowyovhrgradhtrqkgurkjpudnrrqhmmwiaqicfxnoyejdsmmurusdzqgjjntocryhqsgr\nqq\n",
+		"1\nqjprjjjjrpjquiytxjjxtyiu\n",
+		"1\nzsrfqaaqfrszkgzgrxxrgzgk\n",
+		"1\nabczdunbqlckfpyktalxycba\n",
+		"1\ncaszenpxwt\n",
+		"1\ngsfhsddshfsgpxzaaffaazxp\n",
+		"1\nbjxxcwxaaaaaaa\n",
+		"2\nbyklvkupcupkhibyklvkupcupkhibyklvkupcupkhiihkpucpukvlkybihkpucpukvlkybihkpucpukvlkybbyklvkupcupkhibyklvkupcupkhiihkpucpukvlkybihkpucpukvlkybihkpucpukvlkybbyklvkupcupkhibyklvkupcupkhiihkpucpukvlkybihkpucpukvlkybihkpucpukvlkybihkpucpukvlkybihkpucpukvlkybihkpucpukvlkybihkpucpukvlkybbyklvkupcupkhiihkpucpukvlkybihkpucpukvlkybbyklvkupcupkhibyklvkupcupkhiihkpucpukvlkybihkpucpukvlkybihkpucpukvlkybbyklvkupcupkhibyklvkupcupkhibyklvkupcupkhi\nnlzrpjtbffovc\n",
+		"1\nitxsssxvjffckdnrjzsxti\n",
+		"1\natacafaadcbaaaaamghaoaaafihahyaafakaafaaaaaafdlnaaaieaeaafdkaaaaagnpaamjaaaagdfaaaacaagaaejaaaaagfdadmabiaaalfaacaaabkaafaaaffbanaaaiaakaeav\n",
+		"1\ngaaoyaaabafaaapaajaaxaanaabaacaagacaelisabaymakahaaakaraaaacacaemaaanacaafaamapajaaahgaaaaaaaagaaaaaaaaangofaaaaksaaankahnapaoaaahcrdahcygkahaaaaaiaaaarjgaqadaalaatkxaanospaaaaeeboojrreafodldskgaabfvadakaufafeakaxjbaanatahjlvanahkjaiaiaafaeaaaaeadaefafmahdawdasoabuahlhataljgaauga\n"
+	],
+	"outputs": [
+		"a\nabcdfdcba\nxyzyx\nc\nabba\n",
+		"u\nxqx\ncfc\nooo\nyvaaavy\nrzjjzr\nhth\nfactnjajntcaf\nywowy\nqq\n",
+		"qjprjjjjrpjq\n",
+		"zsrfqaaqfrsz\n",
+		"abczcba\n",
+		"c\n",
+		"gsfhsddshfsg\n",
+		"aaaaaaa\n",
+		"byklvkupcupkhibyklvkupcupkhibyklvkupcupkhiihkpucpukvlkybihkpucpukvlkybihkpucpukvlkyb\nn\n",
+		"itxssssxti\n",
+		"ata\n",
+		"g\n"
+	]
+}

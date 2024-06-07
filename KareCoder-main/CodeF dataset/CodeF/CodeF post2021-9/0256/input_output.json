@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"3\naaaa\na\naa\nabc\na\nb\n"
+	],
+	"outputs": [
+		"1\n-1\n2\n"
+	]
+}

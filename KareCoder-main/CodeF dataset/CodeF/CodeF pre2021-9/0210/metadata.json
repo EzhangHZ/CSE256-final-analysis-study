@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1490/B",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/16/2021"
+}

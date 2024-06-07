@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1793/D",
+    "tag": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/12/2023"
+}

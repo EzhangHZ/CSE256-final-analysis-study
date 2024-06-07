@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1512/F",
+    "tag": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/10/2021"
+}

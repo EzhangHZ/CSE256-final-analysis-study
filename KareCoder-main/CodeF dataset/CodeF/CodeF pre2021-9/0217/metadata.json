@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1515/B",
+    "tag": [
+        "brute force",
+        "geometry",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/02/2021"
+}

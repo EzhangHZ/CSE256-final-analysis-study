@@ -1,0 +1,17 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1487/E",
+    "tag": [
+        "brute force",
+        "data structures",
+        "graphs",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Feb/15/2021"
+}

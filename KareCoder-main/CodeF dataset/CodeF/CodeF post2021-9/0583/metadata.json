@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1721/D",
+    "tag": [
+        "bitmasks",
+        "dfs and similar",
+        "divide and conquer",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/27/2022"
+}

@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1360/F",
+    "tag": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "hashing",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/24/2020"
+}

@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1742/D",
+    "tag": [
+        "brute force",
+        "greedy",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/13/2022"
+}

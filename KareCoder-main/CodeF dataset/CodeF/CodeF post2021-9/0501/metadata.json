@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1702/E",
+    "tag": [
+        "dfs and similar",
+        "dsu",
+        "graphs"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/10/2022"
+}

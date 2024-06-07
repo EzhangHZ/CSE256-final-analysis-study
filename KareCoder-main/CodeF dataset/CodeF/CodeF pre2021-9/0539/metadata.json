@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1523/C",
+    "tag": [
+        "brute force",
+        "data structures",
+        "greedy",
+        "implementation",
+        "trees"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/30/2021"
+}

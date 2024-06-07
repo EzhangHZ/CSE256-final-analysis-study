@@ -1,0 +1,22 @@
+{
+	"inputs": [
+		"5\nabcde\nc\nabcde\nb\nx\ny\naaaaaaaaaaaaaaa\na\ncontest\nt\n",
+		"5\nabcde\nc\nabcde\nb\nx\ny\nabobobussss\ns\ncontest\nt\n",
+		"1\nwabalabadubdu\nw\n",
+		"1\nasdfghjklqwertyuiop\ne\n",
+		"1\nqwertyuioppoiuytrewqplkmnjiuhbs\nz\n",
+		"1\nadsfdxvxvsdfdgxcvsdfd\nc\n",
+		"1\nhghjhgvdvkhbgtftfvgvp\nj\n",
+		"1\nasdfghjklqwertyuiop\nf\n"
+	],
+	"outputs": [
+		"YES\nNO\nNO\nYES\nYES\n",
+		"YES\nNO\nNO\nYES\nYES\n",
+		"YES\n",
+		"NO\n",
+		"NO\n",
+		"NO\n",
+		"NO\n",
+		"NO\n"
+	]
+}

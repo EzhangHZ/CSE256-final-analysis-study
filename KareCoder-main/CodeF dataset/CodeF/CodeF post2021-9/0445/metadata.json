@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1654/C",
+    "tag": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/20/2022"
+}

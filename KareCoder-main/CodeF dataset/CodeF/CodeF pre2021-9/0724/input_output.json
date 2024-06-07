@@ -1,0 +1,18 @@
+{
+	"inputs": [
+		"3 4\n**oo\noo*o\n**oo\n",
+		"3 4\n**oo\noo**\n**oo\n",
+		"2 2\noo\no*\n",
+		"1 4\noooo\n",
+		"5 4\noooo\no*oo\noooo\n**oo\nooo*\n",
+		"2 4\noooo\no*oo\n"
+	],
+	"outputs": [
+		"144\n",
+		"48\n",
+		"4\n",
+		"9\n",
+		"239616\n",
+		"200\n"
+	]
+}

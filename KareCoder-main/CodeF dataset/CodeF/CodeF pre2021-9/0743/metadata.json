@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1552/F",
+    "tag": [
+        "binary search",
+        "data structures",
+        "dp",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/25/2021"
+}

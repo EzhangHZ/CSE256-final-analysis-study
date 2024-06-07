@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1630/B",
+    "tag": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/27/2022"
+}

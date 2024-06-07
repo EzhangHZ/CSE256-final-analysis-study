@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1709/C",
+    "tag": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/21/2022"
+}

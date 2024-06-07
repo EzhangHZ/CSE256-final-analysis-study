@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1438/B",
+    "tag": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/13/2020"
+}

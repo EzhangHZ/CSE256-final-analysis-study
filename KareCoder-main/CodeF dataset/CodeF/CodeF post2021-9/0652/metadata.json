@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1674/G",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "graphs"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/02/2022"
+}

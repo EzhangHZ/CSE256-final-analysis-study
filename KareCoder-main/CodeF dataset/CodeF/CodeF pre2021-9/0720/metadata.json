@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1482/E",
+    "tag": [
+        "data structures",
+        "divide and conquer",
+        "dp"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/21/2021"
+}

@@ -1,0 +1,12 @@
+{
+	"inputs": [
+		"3\n5\nabab\nab\nabc\nabacb\nc\n3\nx\nxx\nxxx\n8\ncodeforc\nes\ncodes\ncod\nforc\nforces\ne\ncode\n",
+		"1\n3\ncodcode\ncod\na\n",
+		"5\n1\na\n1\na\n1\na\n1\na\n1\na\n"
+	],
+	"outputs": [
+		"10100\n011\n10100101\n",
+		"000\n",
+		"0\n0\n0\n0\n0\n"
+	]
+}

@@ -1,0 +1,17 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1307/D",
+    "tag": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/17/2020"
+}

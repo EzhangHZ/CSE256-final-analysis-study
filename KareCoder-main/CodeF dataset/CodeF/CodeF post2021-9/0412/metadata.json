@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1741/D",
+    "tag": [
+        "dfs and similar",
+        "divide and conquer",
+        "graphs",
+        "sortings",
+        "trees"
+    ],
+    "picture_num": "6",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/11/2022"
+}

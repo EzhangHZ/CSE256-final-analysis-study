@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1392/F",
+    "tag": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/16/2020"
+}

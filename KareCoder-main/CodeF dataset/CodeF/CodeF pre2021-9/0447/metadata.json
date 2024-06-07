@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1332/C",
+    "tag": [
+        "dfs and similar",
+        "dsu",
+        "greedy",
+        "implementation",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Mar/31/2020"
+}

@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1787/C",
+    "tag": [
+        "dp",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/29/2023"
+}

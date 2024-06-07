@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1691/D",
+    "tag": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/31/2022"
+}

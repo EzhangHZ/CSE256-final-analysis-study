@@ -1,0 +1,14 @@
+{
+	"inputs": [
+		"11\na\nba\nab\nbac\nihfcbadeg\nz\naa\nca\nacb\nxyz\nddcba\n",
+		"1\naaaaaaaaaaaaaaaaa\n",
+		"1\naaaaaaaaaaaaaaa\n",
+		"1\nbabe\n"
+	],
+	"outputs": [
+		"YES\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nNO\nNO\n",
+		"NO\n",
+		"NO\n",
+		"NO\n"
+	]
+}

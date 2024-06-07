@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1498/B",
+    "tag": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "greedy"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/29/2021"
+}

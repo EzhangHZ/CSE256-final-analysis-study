@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1316/C",
+    "tag": [
+        "constructive algorithms",
+        "math",
+        "ternary search"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/04/2020"
+}

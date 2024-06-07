@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1325/C",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "greedy",
+        "trees"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/14/2020"
+}

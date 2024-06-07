@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1494/B",
+    "tag": [
+        "bitmasks",
+        "brute force",
+        "greedy",
+        "implementation"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/02/2021"
+}

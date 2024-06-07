@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1632/D",
+    "tag": [
+        "binary search",
+        "data structures",
+        "greedy",
+        "math",
+        "number theory",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/30/2022"
+}

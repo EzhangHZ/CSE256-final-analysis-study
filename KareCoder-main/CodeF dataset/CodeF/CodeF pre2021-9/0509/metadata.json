@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1374/E1",
+    "tag": [
+        "data structures",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/28/2020"
+}

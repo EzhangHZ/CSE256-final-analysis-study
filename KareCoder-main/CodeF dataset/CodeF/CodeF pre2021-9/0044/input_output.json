@@ -1,0 +1,16 @@
+{
+	"inputs": [
+		"3\n5 3\n2 3 2 5 4\n3 4\n2 4 4\n5 4\n2 1 5 3 6\n",
+		"12\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n",
+		"13\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n3 1\n1 1 1\n",
+		"11\n5 3\n2 3 2 5 4\n3 4\n2 4 4\n5 4\n2 1 5 3 6\n5 3\n2 3 2 5 4\n3 4\n2 4 4\n5 4\n2 1 5 3 6\n5 3\n2 3 2 5 4\n3 4\n2 4 4\n5 4\n2 1 5 3 6\n5 3\n2 3 2 5 4\n3 4\n2 4 4\n",
+		"15\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n3 3\n3 3 3\n"
+	],
+	"outputs": [
+		"NO\nYES\nYES\n",
+		"YES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\n",
+		"YES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\n",
+		"NO\nYES\nYES\nNO\nYES\nYES\nNO\nYES\nYES\nNO\nYES\n",
+		"YES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\n"
+	]
+}

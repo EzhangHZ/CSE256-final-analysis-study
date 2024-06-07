@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1418/E",
+    "tag": [
+        "binary search",
+        "combinatorics",
+        "probabilities"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/14/2020"
+}

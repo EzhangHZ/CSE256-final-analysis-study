@@ -1,0 +1,40 @@
+{
+	"inputs": [
+		"3\n5\n2 1 aa\n1 2 a\n2 3 a\n1 2 b\n2 3 abca\n2\n1 5 mihai\n2 2 buiucani\n3\n1 5 b\n2 3 a\n2 4 paiu\n",
+		"1\n5\n2 1 bb\n1 2 b\n2 3 b\n1 2 c\n2 3 bcdbweakpretests\n",
+		"1\n2\n1 1 ab\n2 1 ab\n",
+		"1\n2\n1 3 c\n2 3 b\n",
+		"1\n3\n2 1 z\n2 1 a\n1 1 z\n",
+		"1\n2\n1 1 b\n2 1 b\n",
+		"1\n2\n2 1 b\n1 1 b\n",
+		"1\n2\n1 2 zz\n2 2 zz\n",
+		"1\n2\n1 1 c\n2 1 b\n",
+		"1\n2\n1 1 z\n2 1 z\n",
+		"1\n4\n1 1 b\n1 1 c\n2 1 b\n2 1 c\n",
+		"1\n2\n2 1 b\n1 2 bb\n",
+		"1\n2\n2 1 bb\n1 2 b\n",
+		"1\n2\n1 1 c\n2 1 c\n",
+		"1\n2\n1 3 c\n2 3 c\n",
+		"1\n2\n2 1 a\n1 1 z\n",
+		"1\n8\n2 7 z\n1 2 xpt\n2 5 aosu\n2 3 veel\n1 3 dnx\n1 8 tgly\n2 5 rqlmvchcir\n1 10 qklu\n"
+	],
+	"outputs": [
+		"YES\nNO\nYES\nNO\nYES\nNO\nYES\nNO\nNO\nYES\n",
+		"YES\nYES\nYES\nYES\nYES\n",
+		"NO\nYES\n",
+		"NO\nYES\n",
+		"YES\nYES\nYES\n",
+		"NO\nYES\n",
+		"YES\nYES\n",
+		"NO\nYES\n",
+		"NO\nYES\n",
+		"NO\nYES\n",
+		"NO\nNO\nYES\nYES\n",
+		"YES\nYES\n",
+		"YES\nYES\n",
+		"NO\nYES\n",
+		"NO\nYES\n",
+		"YES\nNO\n",
+		"YES\nYES\nYES\nYES\nYES\nYES\nYES\nYES\n"
+	]
+}

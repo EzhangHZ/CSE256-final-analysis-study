@@ -1,0 +1,18 @@
+{
+    "difficulty": "*2300",
+    "url": "https://codeforces.com/problemset/problem/1494/D",
+    "tag": [
+        "constructive algorithms",
+        "data structures",
+        "dfs and similar",
+        "divide and conquer",
+        "dsu",
+        "greedy",
+        "sortings",
+        "trees"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/02/2021"
+}

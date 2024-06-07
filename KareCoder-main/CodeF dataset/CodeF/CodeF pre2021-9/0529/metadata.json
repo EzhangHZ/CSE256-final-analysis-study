@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1555/D",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/30/2021"
+}

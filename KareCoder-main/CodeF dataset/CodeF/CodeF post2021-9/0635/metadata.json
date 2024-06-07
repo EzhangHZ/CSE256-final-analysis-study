@@ -1,0 +1,18 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1574/D",
+    "tag": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "hashing",
+        "implementation"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/20/2021"
+}

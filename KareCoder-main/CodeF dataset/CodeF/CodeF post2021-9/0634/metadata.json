@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1567/D",
+    "tag": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/05/2021"
+}

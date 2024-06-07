@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1725/G",
+    "tag": [
+        "binary search",
+        "geometry",
+        "math"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "128 megabytes",
+    "date": "Sep/04/2022"
+}

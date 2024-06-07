@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1714/G",
+    "tag": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "trees"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/01/2022"
+}

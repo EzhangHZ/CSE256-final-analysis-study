@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1562/B",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/26/2021"
+}

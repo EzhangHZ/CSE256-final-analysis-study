@@ -1,0 +1,13 @@
+{
+    "difficulty": "*800",
+    "url": "https://codeforces.com/problemset/problem/1795/A",
+    "tag": [
+        "brute force",
+        "implementation",
+        "strings"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/16/2023"
+}

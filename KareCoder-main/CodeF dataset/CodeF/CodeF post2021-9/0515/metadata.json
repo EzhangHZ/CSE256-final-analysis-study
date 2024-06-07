@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1566/D2",
+    "tag": [
+        "data structures",
+        "greedy",
+        "implementation",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/12/2021"
+}

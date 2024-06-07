@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1739/D",
+    "tag": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "greedy",
+        "trees"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/29/2022"
+}

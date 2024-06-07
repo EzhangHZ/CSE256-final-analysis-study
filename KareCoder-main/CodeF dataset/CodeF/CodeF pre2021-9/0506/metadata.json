@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1348/C",
+    "tag": [
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/01/2020"
+}

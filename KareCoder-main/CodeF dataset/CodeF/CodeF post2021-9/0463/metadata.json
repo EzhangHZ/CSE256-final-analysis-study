@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1761/C",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "graphs",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/20/2022"
+}

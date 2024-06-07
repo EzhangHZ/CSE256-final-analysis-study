@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1313/B",
+    "tag": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/23/2020"
+}

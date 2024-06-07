@@ -1,0 +1,12 @@
+{
+	"inputs": [
+		"3\nbaba\nba\naa\naaa\naba\nab\n",
+		"13\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\na\n",
+		"1\nabababababbb\nab\n"
+	],
+	"outputs": [
+		"baba\naaaaaa\n-1\n",
+		"a\na\na\na\na\na\na\na\na\na\na\na\na\n",
+		"-1\n"
+	]
+}

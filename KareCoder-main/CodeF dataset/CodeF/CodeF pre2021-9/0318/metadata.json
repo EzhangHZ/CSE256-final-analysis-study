@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1200",
+    "url": "https://codeforces.com/problemset/problem/1490/D",
+    "tag": [
+        "dfs and similar",
+        "divide and conquer",
+        "implementation"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/16/2021"
+}

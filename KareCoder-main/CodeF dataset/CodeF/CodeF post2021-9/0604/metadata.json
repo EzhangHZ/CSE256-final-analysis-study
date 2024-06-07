@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1647/D",
+    "tag": [
+        "constructive algorithms",
+        "dp",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/11/2022"
+}

@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1380/C",
+    "tag": [
+        "brute force",
+        "dp",
+        "greedy",
+        "implementation",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/12/2020"
+}

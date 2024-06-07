@@ -1,0 +1,17 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1697/C",
+    "tag": [
+        "binary search",
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation",
+        "strings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/12/2022"
+}

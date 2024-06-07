@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"4\n10\ncodeforces\n9\ncbacbacba\n3\naaa\n4\nbbaa\n"
+	],
+	"outputs": [
+		"cc\ncbaabc\naa\nbb\n"
+	]
+}

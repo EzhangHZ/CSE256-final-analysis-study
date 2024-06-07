@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1560/E",
+    "tag": [
+        "binary search",
+        "implementation",
+        "sortings",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3.0 s",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/18/2021"
+}

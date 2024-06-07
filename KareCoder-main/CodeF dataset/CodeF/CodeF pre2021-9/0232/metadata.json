@@ -1,0 +1,12 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1411/B",
+    "tag": [
+        "brute force",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/20/2020"
+}

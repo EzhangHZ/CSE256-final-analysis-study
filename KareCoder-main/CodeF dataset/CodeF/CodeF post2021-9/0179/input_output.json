@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"5\nbbba\naba\naaa\nabba\nabbb\n"
+	],
+	"outputs": [
+		"b b ba\na b a\na a a\nab b a\nab b b\n"
+	]
+}

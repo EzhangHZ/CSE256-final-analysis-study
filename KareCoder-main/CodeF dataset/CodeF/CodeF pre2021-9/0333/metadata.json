@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1294/C",
+    "tag": [
+        "greedy",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/22/2020"
+}

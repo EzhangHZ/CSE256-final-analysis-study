@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1325/D",
+    "tag": [
+        "bitmasks",
+        "constructive algorithms",
+        "greedy",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/14/2020"
+}

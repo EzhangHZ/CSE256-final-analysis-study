@@ -1,0 +1,16 @@
+{
+	"inputs": [
+		"4\nEEE\nEN\nENNEENE\nNENN\n",
+		"2\nEEEEEN\nEEEEEN\n",
+		"2\nEEEEEEN\nEEEEEEEN\n",
+		"2\nEEEEEN\nEE\n",
+		"1\nNEEEEEEEEEEEEEEEEEEEEEEEEEEEEENNNNEENNE\n"
+	],
+	"outputs": [
+		"YES\nNO\nYES\nYES\n",
+		"NO\nNO\n",
+		"NO\nNO\n",
+		"NO\nYES\n",
+		"YES\n"
+	]
+}

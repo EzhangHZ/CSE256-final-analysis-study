@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1676/E",
+    "tag": [
+        "binary search",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/10/2022"
+}

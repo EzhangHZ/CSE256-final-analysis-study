@@ -1,0 +1,16 @@
+{
+    "difficulty": "*800",
+    "url": "https://codeforces.com/problemset/problem/1676/C",
+    "tag": [
+        "brute force",
+        "greedy",
+        "implementation",
+        "implementation",
+        "math",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/10/2022"
+}

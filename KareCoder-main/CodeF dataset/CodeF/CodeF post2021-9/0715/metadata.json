@@ -1,0 +1,12 @@
+{
+    "difficulty": "*2900",
+    "url": "https://codeforces.com/problemset/problem/1765/J",
+    "tag": [
+        "graph matchings",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Nov/27/2022"
+}

@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1703/F",
+    "tag": [
+        "binary search",
+        "data structures",
+        "dp",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/12/2022"
+}

@@ -1,0 +1,18 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1401/D",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory",
+        "sortings",
+        "trees"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/21/2020"
+}

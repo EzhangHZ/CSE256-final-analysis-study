@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1618/G",
+    "tag": [
+        "data structures",
+        "dsu",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4.5 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Dec/14/2021"
+}

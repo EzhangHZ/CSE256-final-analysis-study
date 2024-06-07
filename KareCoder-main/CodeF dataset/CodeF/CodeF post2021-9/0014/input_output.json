@@ -1,0 +1,16 @@
+{
+	"inputs": [
+		"10\na\nb\nc\nd\ne\nf\ng\nh\ni\nj\n",
+		"26\nq\na\nz\nw\ns\nx\ne\nd\nc\nr\nf\nv\nt\ng\nb\ny\nh\nn\nu\nj\nm\ni\nk\no\nl\np\n",
+		"1\na\n",
+		"1\ns\n",
+		"2\na\na\n"
+	],
+	"outputs": [
+		"NO\nNO\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\n",
+		"NO\nNO\nNO\nNO\nYES\nNO\nYES\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nNO\nYES\nNO\nNO\n",
+		"NO\n",
+		"YES\n",
+		"NO\nNO\n"
+	]
+}

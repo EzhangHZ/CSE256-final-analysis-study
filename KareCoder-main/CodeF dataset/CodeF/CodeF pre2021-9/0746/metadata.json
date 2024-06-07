@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1415/E",
+    "tag": [
+        "constructive algorithms",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/29/2020"
+}

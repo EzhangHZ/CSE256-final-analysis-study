@@ -1,0 +1,16 @@
+{
+	"inputs": [
+		"5\n1\n4041\n4042\n8081\n8079\n",
+		"1\n2020\n",
+		"3\n2020\n2021\n4040\n",
+		"1\n2021\n",
+		"1\n4040\n"
+	],
+	"outputs": [
+		"NO\nYES\nYES\nYES\nNO\n",
+		"YES\n",
+		"YES\nYES\nYES\n",
+		"YES\n",
+		"YES\n"
+	]
+}

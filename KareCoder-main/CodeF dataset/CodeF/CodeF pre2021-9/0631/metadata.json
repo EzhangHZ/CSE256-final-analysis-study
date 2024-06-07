@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1348/D",
+    "tag": [
+        "binary search",
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/01/2020"
+}

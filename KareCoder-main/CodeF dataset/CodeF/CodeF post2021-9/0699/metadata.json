@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2500",
+    "url": "https://codeforces.com/problemset/problem/1572/B",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/18/2021"
+}

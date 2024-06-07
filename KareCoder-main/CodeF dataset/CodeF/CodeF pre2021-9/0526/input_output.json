@@ -1,0 +1,22 @@
+{
+	"inputs": [
+		"8 16\ndbcadabc\n",
+		"4 5\nabcd\n",
+		"5 10\ndcdcd\n",
+		"5 10\ncbcbc\n",
+		"4 11\nddcd\n",
+		"8 20\nccaccaca\n",
+		"4 11\nzzaz\n",
+		"5 10\nbbabb\n"
+	],
+	"outputs": [
+		"dbcadabcdbcadabc\n",
+		"aaaaa\n",
+		"dcdcdcdcdc\n",
+		"cbcbcbcbcb\n",
+		"ddcddcddcdd\n",
+		"ccaccacaccaccacaccac\n",
+		"zzazzazzazz\n",
+		"bbabbabbab\n"
+	]
+}

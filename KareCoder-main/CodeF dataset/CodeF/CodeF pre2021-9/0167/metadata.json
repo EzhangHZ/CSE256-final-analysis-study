@@ -1,0 +1,12 @@
+{
+    "difficulty": "*900",
+    "url": "https://codeforces.com/problemset/problem/1324/A",
+    "tag": [
+        "implementation",
+        "number theory"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/12/2020"
+}

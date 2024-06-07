@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1560/F2",
+    "tag": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dfs and similar",
+        "dp",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/18/2021"
+}

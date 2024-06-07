@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1389/C",
+    "tag": [
+        "brute force",
+        "dp",
+        "greedy",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/29/2020"
+}

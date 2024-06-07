@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1413/C",
+    "tag": [
+        "binary search",
+        "brute force",
+        "dp",
+        "implementation",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/25/2020"
+}

@@ -1,0 +1,16 @@
+{
+	"inputs": [
+		"5\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\n",
+		"1\naa\n",
+		"61\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\nkzaaa\ncodeforces\narchive\ny\nxxxxxx\ny\n",
+		"1\nabbdsdndsncjksdncjkdsncknsdkcnskc\n",
+		"1\ndscnjksdcnsjkvndfjkvndfjkvnkdfnv\n"
+	],
+	"outputs": [
+		"2\n5\n3\n0\n1\n",
+		"1\n",
+		"2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n2\n5\n3\n0\n1\n0\n",
+		"7\n",
+		"8\n"
+	]
+}

@@ -1,0 +1,17 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1605/D",
+    "tag": [
+        "bitmasks",
+        "constructive algorithms",
+        "dfs and similar",
+        "games",
+        "greedy",
+        "implementation",
+        "trees"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/12/2021"
+}

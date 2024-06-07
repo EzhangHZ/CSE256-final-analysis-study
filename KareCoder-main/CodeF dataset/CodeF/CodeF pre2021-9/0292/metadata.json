@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1200",
+    "url": "https://codeforces.com/problemset/problem/1472/D",
+    "tag": [
+        "dp",
+        "games",
+        "greedy",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/04/2021"
+}

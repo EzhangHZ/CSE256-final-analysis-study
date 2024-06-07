@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"5\naba\nabc\ncba\nn\ncodeforces\n"
+	],
+	"outputs": [
+		"Alice 2\nAlice 4\nAlice 4\nBob 14\nAlice 93\n"
+	]
+}

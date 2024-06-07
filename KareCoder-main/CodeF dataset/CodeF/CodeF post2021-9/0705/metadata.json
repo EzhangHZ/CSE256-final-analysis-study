@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2500",
+    "url": "https://codeforces.com/problemset/problem/1731/F",
+    "tag": [
+        "brute force",
+        "combinatorics",
+        "dp",
+        "fft",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/27/2022"
+}

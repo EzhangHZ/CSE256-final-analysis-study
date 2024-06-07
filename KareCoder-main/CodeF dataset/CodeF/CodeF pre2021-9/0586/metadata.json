@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1320/B",
+    "tag": [
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Mar/01/2020"
+}

@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1301/B",
+    "tag": [
+        "binary search",
+        "greedy",
+        "ternary search"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/13/2020"
+}

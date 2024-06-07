@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1593/C",
+    "tag": [
+        "binary search",
+        "greedy",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/13/2021"
+}

@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1660/F1",
+    "tag": [
+        "brute force",
+        "implementation",
+        "math",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/31/2022"
+}

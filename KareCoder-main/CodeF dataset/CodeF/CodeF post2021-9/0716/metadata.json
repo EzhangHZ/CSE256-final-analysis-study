@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2900",
+    "url": "https://codeforces.com/problemset/problem/1725/D",
+    "tag": [
+        "binary search",
+        "bitmasks",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Sep/04/2022"
+}

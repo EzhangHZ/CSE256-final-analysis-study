@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1630/D",
+    "tag": [
+        "constructive algorithms",
+        "dp",
+        "greedy",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/27/2022"
+}

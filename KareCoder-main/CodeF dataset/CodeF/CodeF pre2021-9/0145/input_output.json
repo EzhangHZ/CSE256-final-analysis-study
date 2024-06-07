@@ -1,0 +1,14 @@
+{
+	"inputs": [
+		"3\n4 6\n.R....\n......\n......\n.W....\n4 4\n.R.W\n....\n....\n....\n5 1\nR\nW\nR\nW\nR\n",
+		"1\n3 1\n.\nR\n.\n",
+		"1\n1 1\n.\n",
+		"1\n5 5\n.....\n.....\n.....\n.....\n....W\n"
+	],
+	"outputs": [
+		"YES\nWRWRWR\nRWRWRW\nWRWRWR\nRWRWRW\nNO\nYES\nR\nW\nR\nW\nR\n",
+		"YES\nW\nR\nW\n",
+		"YES\nR\n",
+		"YES\nWRWRW\nRWRWR\nWRWRW\nRWRWR\nWRWRW\n"
+	]
+}

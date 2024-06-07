@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1397/B",
+    "tag": [
+        "brute force",
+        "math",
+        "number theory",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/30/2020"
+}

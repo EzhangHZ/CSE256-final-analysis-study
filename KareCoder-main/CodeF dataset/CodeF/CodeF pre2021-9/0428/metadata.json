@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1415/C",
+    "tag": [
+        "brute force",
+        "dp",
+        "implementation"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/29/2020"
+}

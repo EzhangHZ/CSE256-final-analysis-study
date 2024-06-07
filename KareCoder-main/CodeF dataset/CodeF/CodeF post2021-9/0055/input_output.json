@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"6\nlollipops\nstringology\nabracadabra\ncodeforces\ntest\nf\n",
+		"1\nvdjisjifreo\n"
+	],
+	"outputs": [
+		"2\n4\n3\n4\n1\n1\n",
+		"4\n"
+	]
+}

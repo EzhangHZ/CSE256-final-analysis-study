@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2500",
+    "url": "https://codeforces.com/problemset/problem/1583/F",
+    "tag": [
+        "bitmasks",
+        "constructive algorithms",
+        "divide and conquer"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Oct/17/2021"
+}

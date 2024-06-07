@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1579/D",
+    "tag": [
+        "constructive algorithms",
+        "graphs",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/28/2021"
+}

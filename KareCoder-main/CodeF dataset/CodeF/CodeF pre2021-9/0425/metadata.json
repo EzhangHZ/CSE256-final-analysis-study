@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1316/B",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "implementation",
+        "sortings",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/04/2020"
+}

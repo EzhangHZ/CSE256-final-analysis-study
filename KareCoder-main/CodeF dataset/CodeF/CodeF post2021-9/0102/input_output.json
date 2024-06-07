@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"4\na\nsururu\nerrorgorn\nanutforajaroftuna\n"
+	],
+	"outputs": [
+		"aa\nsururuururus\nerrorgornnrogrorre\nanutforajaroftunaanutforajaroftuna\n"
+	]
+}

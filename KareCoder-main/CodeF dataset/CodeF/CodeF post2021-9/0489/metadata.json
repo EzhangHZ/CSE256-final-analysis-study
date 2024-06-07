@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1732/D1",
+    "tag": [
+        "brute force",
+        "data structures",
+        "implementation",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/23/2022"
+}

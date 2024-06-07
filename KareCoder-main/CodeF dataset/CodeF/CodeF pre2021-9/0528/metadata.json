@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1481/C",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "greedy"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/05/2021"
+}

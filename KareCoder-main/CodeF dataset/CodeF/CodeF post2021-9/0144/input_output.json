@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"8\naaaabbb\nbbaaaaabbb\naaaaaa\nabab\na\nb\naaaab\nbbaaa\n",
+		"1\nabababababababababababababababababababababababab\n"
+	],
+	"outputs": [
+		"YES\nYES\nYES\nNO\nNO\nNO\nNO\nYES\n",
+		"NO\n"
+	]
+}

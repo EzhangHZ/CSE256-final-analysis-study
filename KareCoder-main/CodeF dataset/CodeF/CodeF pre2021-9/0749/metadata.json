@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1461/E",
+    "tag": [
+        "brute force",
+        "graphs",
+        "greedy",
+        "implementation",
+        "math"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/11/2020"
+}

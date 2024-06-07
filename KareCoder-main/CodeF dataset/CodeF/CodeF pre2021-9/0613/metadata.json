@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1426/E",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "flows",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/28/2020"
+}

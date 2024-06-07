@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1788/B",
+    "tag": [
+        "constructive algorithms",
+        "greedy",
+        "implementation",
+        "math",
+        "probabilities"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/09/2023"
+}

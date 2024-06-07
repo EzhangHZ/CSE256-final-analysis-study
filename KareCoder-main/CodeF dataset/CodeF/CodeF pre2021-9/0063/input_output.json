@@ -1,0 +1,18 @@
+{
+	"inputs": [
+		"4\nLRLR\n",
+		"1\nL\n",
+		"13\nLRLLLLRRLLRLR\n",
+		"2\nLR\n",
+		"1\nR\n",
+		"12\nLLLLLLLLLLLL\n"
+	],
+	"outputs": [
+		"5\n",
+		"2\n",
+		"14\n",
+		"3\n",
+		"2\n",
+		"13\n"
+	]
+}

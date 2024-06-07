@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1666/C",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "geometry"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Apr/13/2022"
+}

@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2800",
+    "url": "https://codeforces.com/problemset/problem/1693/D",
+    "tag": [
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/16/2022"
+}

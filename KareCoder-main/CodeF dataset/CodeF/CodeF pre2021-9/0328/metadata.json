@@ -1,0 +1,12 @@
+{
+    "difficulty": "*1200",
+    "url": "https://codeforces.com/problemset/problem/1491/B",
+    "tag": [
+        "brute force",
+        "math"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/28/2021"
+}

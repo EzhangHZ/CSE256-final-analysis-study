@@ -1,0 +1,13 @@
+{
+    "difficulty": "*800",
+    "url": "https://codeforces.com/problemset/problem/1775/A1",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "implementation"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/10/2023"
+}

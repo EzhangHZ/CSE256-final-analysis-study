@@ -1,0 +1,12 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1468/D",
+    "tag": [
+        "binary search",
+        "sortings"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Dec/25/2020"
+}

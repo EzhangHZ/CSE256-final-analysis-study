@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1730/B",
+    "tag": [
+        "binary search",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math",
+        "ternary search"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/25/2022"
+}

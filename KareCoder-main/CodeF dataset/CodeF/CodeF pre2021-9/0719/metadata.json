@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1284/D",
+    "tag": [
+        "binary search",
+        "data structures",
+        "hashing",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "1024 megabytes",
+    "date": "Jan/04/2020"
+}

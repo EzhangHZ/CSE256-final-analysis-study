@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2300",
+    "url": "https://codeforces.com/problemset/problem/1698/E",
+    "tag": [
+        "brute force",
+        "combinatorics",
+        "greedy",
+        "sortings",
+        "trees",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/28/2022"
+}

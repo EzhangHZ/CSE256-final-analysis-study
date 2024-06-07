@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1627/C",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "number theory",
+        "trees"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "1.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/15/2022"
+}

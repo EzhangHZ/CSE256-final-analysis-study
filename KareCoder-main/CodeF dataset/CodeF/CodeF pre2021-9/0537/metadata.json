@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1461/D",
+    "tag": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "divide and conquer",
+        "implementation",
+        "sortings"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/11/2020"
+}

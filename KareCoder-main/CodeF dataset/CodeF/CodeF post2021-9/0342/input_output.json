@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"5\naba\nabb\nabc\naaaaa\nabcba\n"
+	],
+	"outputs": [
+		"YES\nNO\nYES\nYES\nNO\n"
+	]
+}

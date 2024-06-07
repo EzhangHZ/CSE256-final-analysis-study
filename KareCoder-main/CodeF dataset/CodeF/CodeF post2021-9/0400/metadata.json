@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1638/C",
+    "tag": [
+        "data structures",
+        "dsu",
+        "graphs",
+        "math"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/14/2022"
+}

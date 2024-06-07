@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"3\nvkcup\nabababa\nzzzzzz\n"
+	],
+	"outputs": [
+		"ckpuv\naababab\nzzzzzz\n"
+	]
+}

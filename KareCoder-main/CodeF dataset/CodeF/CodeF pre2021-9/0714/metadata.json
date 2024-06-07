@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1446/C",
+    "tag": [
+        "binary search",
+        "bitmasks",
+        "data structures",
+        "divide and conquer",
+        "dp",
+        "trees"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/15/2020"
+}

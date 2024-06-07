@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1472/G",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/04/2021"
+}

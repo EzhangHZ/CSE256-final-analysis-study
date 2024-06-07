@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1336/A",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "sortings",
+        "trees"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/15/2020"
+}

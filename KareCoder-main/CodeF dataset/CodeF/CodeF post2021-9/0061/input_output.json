@@ -1,0 +1,12 @@
+{
+	"inputs": [
+		"4\n1\na\n6\nabbaba\n6\nabbaba\n9\nbabbabbaa\n",
+		"1\n30\naaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n",
+		"1\n29\naaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n"
+	],
+	"outputs": [
+		"-1 -1\n1 2\n1 2\n1 2\n",
+		"-1 -1\n",
+		"-1 -1\n"
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1689/C",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "trees"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/10/2022"
+}

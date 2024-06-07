@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1599/C",
+    "tag": [
+        "combinatorics",
+        "math",
+        "probabilities",
+        "ternary search"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "0.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/09/2021"
+}

@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1700",
+    "url": "https://codeforces.com/problemset/problem/1702/F",
+    "tag": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/10/2022"
+}

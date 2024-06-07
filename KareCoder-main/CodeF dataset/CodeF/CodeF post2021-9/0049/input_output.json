@@ -1,0 +1,26 @@
+{
+	"inputs": [
+		"6\nXXXS XS\nXXXL XL\nXL M\nXXL XXL\nXXXXXS M\nL M\n",
+		"6\nS L\nL S\nM L\nL M\nS M\nM S\n",
+		"1\nM S\n",
+		"1\nXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXS XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXL\n",
+		"3\nM XS\nM S\nS M\n",
+		"3\nM XS\nM S\nM M\n",
+		"5\nXS XXXS\nXXL M\nXXS M\nM XXS\nXXS XXS\n",
+		"5\nM XS\nM XS\nM XS\nM XS\nM XS\n",
+		"1\nXXXXXXXXXXXXXXXXS XXXXXXXXXXS\n",
+		"15\nM M\nM L\nL M\nS M\nM S\nL L\nXL L\nL XXXXXXL\nS S\nXXXXS XXXS\nXS XXXXXXS\nM XXXS\nM XXXL\nXXXXXS XL\nXL XXXXS\n"
+	],
+	"outputs": [
+		"<\n>\n>\n=\n<\n>\n",
+		"<\n>\n<\n>\n<\n>\n",
+		">\n",
+		"<\n",
+		">\n>\n<\n",
+		">\n>\n=\n",
+		">\n>\n<\n>\n=\n",
+		">\n>\n>\n>\n>\n",
+		"<\n",
+		"=\n<\n>\n<\n>\n=\n>\n<\n=\n<\n>\n>\n<\n<\n>\n"
+	]
+}

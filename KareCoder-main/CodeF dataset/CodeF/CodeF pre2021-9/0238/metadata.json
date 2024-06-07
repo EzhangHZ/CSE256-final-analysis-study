@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1490/C",
+    "tag": [
+        "binary search",
+        "brute force",
+        "brute force",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/16/2021"
+}

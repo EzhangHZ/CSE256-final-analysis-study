@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1787/D",
+    "tag": [
+        "combinatorics",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/29/2023"
+}

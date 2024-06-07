@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1419/D2",
+    "tag": [
+        "binary search",
+        "brute force",
+        "constructive algorithms",
+        "greedy",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/19/2020"
+}

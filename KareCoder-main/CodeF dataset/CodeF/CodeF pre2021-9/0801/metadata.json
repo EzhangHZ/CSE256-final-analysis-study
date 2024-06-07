@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2900",
+    "url": "https://codeforces.com/problemset/problem/1372/E",
+    "tag": [
+        "dp",
+        "greedy",
+        "two pointers"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/11/2020"
+}

@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1648/B",
+    "tag": [
+        "brute force",
+        "constructive algorithms",
+        "data structures",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Mar/06/2022"
+}

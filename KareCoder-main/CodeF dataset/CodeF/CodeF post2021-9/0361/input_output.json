@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"3\n4 a\naaaa\n4 a\nbaaa\n4 b\nbzyx\n",
+		"1\n3 a\naba\n"
+	],
+	"outputs": [
+		"0\n\n1\n2 \n2\n4 3 \n",
+		"1\n3 \n"
+	]
+}

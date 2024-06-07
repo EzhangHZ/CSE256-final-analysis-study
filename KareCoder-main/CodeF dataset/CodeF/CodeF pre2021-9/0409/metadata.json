@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1535/C",
+    "tag": [
+        "binary search",
+        "dp",
+        "greedy",
+        "implementation",
+        "strings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/04/2021"
+}

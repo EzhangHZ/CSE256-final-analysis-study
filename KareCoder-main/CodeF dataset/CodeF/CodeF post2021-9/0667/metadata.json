@@ -1,0 +1,17 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1710/B",
+    "tag": [
+        "binary search",
+        "brute force",
+        "data structures",
+        "geometry",
+        "greedy",
+        "implementation",
+        "math"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/24/2022"
+}

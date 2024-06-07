@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1300/B",
+    "tag": [
+        "greedy",
+        "implementation",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Feb/09/2020"
+}

@@ -1,0 +1,16 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1537/F",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/18/2021"
+}

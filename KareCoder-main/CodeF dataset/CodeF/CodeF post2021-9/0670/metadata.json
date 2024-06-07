@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1729/G",
+    "tag": [
+        "combinatorics",
+        "dp",
+        "hashing",
+        "strings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Sep/12/2022"
+}

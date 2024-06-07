@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1477/C",
+    "tag": [
+        "constructive algorithms",
+        "geometry",
+        "greedy",
+        "math",
+        "sortings"
+    ],
+    "picture_num": "2",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jan/28/2021"
+}

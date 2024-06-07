@@ -1,0 +1,22 @@
+{
+	"inputs": [
+		"3\n2\n5 orange\n2 white\n",
+		"2\n2\n1 white\n2 white\n",
+		"10\n3\n1 blue\n4 red\n5 orange\n",
+		"1\n1\n1 white\n",
+		"3\n1\n7 yellow\n",
+		"1\n1\n1 yellow\n",
+		"2\n2\n1 green\n3 red\n",
+		"5\n9\n31 yellow\n30 green\n26 yellow\n13 red\n2 red\n22 white\n12 red\n6 orange\n29 blue\n"
+	],
+	"outputs": [
+		"1024\n",
+		"0\n",
+		"328925088\n",
+		"1\n",
+		"4096\n",
+		"1\n",
+		"4\n",
+		"0\n"
+	]
+}

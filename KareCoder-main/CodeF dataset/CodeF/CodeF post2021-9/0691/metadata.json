@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2300",
+    "url": "https://codeforces.com/problemset/problem/1594/E2",
+    "tag": [
+        "brute force",
+        "dp",
+        "implementation",
+        "math",
+        "trees"
+    ],
+    "picture_num": "3",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/08/2021"
+}

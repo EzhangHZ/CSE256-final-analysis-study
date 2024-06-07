@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2200",
+    "url": "https://codeforces.com/problemset/problem/1630/C",
+    "tag": [
+        "dp",
+        "greedy",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/27/2022"
+}

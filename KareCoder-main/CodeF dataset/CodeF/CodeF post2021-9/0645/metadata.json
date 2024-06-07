@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1680/E",
+    "tag": [
+        "bitmasks",
+        "dp",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/13/2022"
+}

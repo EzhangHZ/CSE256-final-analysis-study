@@ -1,0 +1,13 @@
+{
+    "difficulty": "*3100",
+    "url": "https://codeforces.com/problemset/problem/1463/F",
+    "tag": [
+        "bitmasks",
+        "dp",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/17/2020"
+}

@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1749/C",
+    "tag": [
+        "binary search",
+        "data structures",
+        "games",
+        "greedy",
+        "implementation"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/20/2022"
+}

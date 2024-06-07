@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1646/C",
+    "tag": [
+        "bitmasks",
+        "brute force",
+        "constructive algorithms",
+        "dp",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "3 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/04/2022"
+}

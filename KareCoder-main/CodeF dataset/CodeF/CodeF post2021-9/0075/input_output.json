@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"7\nab\nac\naz\nba\nbc\nzx\nzy\n"
+	],
+	"outputs": [
+		"1\n2\n25\n26\n27\n649\n650\n"
+	]
+}

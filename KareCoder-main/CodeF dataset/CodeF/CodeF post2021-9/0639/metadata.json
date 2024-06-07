@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1716/C",
+    "tag": [
+        "data structures",
+        "dp",
+        "greedy",
+        "implementation",
+        "ternary search"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/04/2022"
+}

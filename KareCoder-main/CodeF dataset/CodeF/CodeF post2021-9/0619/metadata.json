@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1659/D",
+    "tag": [
+        "constructive algorithms",
+        "data structures",
+        "greedy",
+        "implementation",
+        "math",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/17/2022"
+}

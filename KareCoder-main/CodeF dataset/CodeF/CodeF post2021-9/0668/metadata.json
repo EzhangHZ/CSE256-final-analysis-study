@@ -1,0 +1,15 @@
+{
+    "difficulty": "*2100",
+    "url": "https://codeforces.com/problemset/problem/1650/G",
+    "tag": [
+        "data structures",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "shortest paths"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/08/2022"
+}

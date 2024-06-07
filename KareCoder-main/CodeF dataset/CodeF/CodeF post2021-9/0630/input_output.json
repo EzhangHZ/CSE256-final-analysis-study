@@ -1,0 +1,16 @@
+{
+	"inputs": [
+		"1\n5\n",
+		"3\n5 4 5\n",
+		"6\n5 8 2 1 10 9\n",
+		"2\n5 12\n",
+		"3\n5 6 5\n"
+	],
+	"outputs": [
+		"Alice\n",
+		"Alice\n",
+		"Bob\n",
+		"Alice\n",
+		"Bob\n"
+	]
+}

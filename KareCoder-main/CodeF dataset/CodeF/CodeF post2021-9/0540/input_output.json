@@ -1,0 +1,8 @@
+{
+	"inputs": [
+		"2\n2\na\nab\nb\ncd\nacd\n3\nz\na\na\naa\nyakumo\nran\nyakumoran\n"
+	],
+	"outputs": [
+		"a\nz\n"
+	]
+}

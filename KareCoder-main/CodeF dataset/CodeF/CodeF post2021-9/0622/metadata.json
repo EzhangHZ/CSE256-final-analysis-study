@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1611/E2",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "shortest paths",
+        "trees"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/25/2021"
+}

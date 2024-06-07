@@ -1,0 +1,13 @@
+{
+    "difficulty": "*1000",
+    "url": "https://codeforces.com/problemset/problem/1359/A",
+    "tag": [
+        "brute force",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "May/28/2020"
+}

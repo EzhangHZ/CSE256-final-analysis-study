@@ -1,0 +1,14 @@
+{
+	"inputs": [
+		"5\n12 3\ncabccadabaac\n12 6\ncabccadabaac\n12 12\ncabccadabaac\n25 1\nabcdefghijklmnopqrstuvwxy\n10 5\nbcdxedbcfg\n",
+		"1\n18 3\naaaaaaaaaaaaaaaaaa\n",
+		"1\n1 1\na\n",
+		"3\n25 1\nabcdefghijklmnopqrstuvwxx\n25 1\nabcdefghijklmnopqrstuvwxy\n24 1\nabcdefghijklmnopqrstuvwx\n"
+	],
+	"outputs": [
+		"edb\nccbbba\nbbbbbaaaaaaa\nz\naaaaa\n",
+		"bbb\n",
+		"b\n",
+		"y\nz\ny\n"
+	]
+}

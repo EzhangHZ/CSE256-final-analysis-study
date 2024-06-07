@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1312/C",
+    "tag": [
+        "bitmasks",
+        "greedy",
+        "implementation",
+        "math",
+        "number theory",
+        "ternary search"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/09/2020"
+}

@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1774/E",
+    "tag": [
+        "dfs and similar",
+        "dp",
+        "greedy",
+        "trees"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/17/2022"
+}

@@ -1,0 +1,17 @@
+{
+    "difficulty": "*1300",
+    "url": "https://codeforces.com/problemset/problem/1661/B",
+    "tag": [
+        "bitmasks",
+        "brute force",
+        "dfs and similar",
+        "dp",
+        "graphs",
+        "greedy",
+        "shortest paths"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/09/2022"
+}

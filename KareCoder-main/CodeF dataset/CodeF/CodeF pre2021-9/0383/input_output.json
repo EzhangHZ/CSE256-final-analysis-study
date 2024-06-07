@@ -1,0 +1,10 @@
+{
+	"inputs": [
+		"3\n33\n144\n69\n",
+		"1\n1\n"
+	],
+	"outputs": [
+		"YES\nYES\nNO\n",
+		"NO\n"
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "difficulty": "*2000",
+    "url": "https://codeforces.com/problemset/problem/1610/D",
+    "tag": [
+        "combinatorics",
+        "dp",
+        "math",
+        "number theory"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/23/2021"
+}

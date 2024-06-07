@@ -1,0 +1,17 @@
+{
+    "difficulty": "*2400",
+    "url": "https://codeforces.com/problemset/problem/1463/E",
+    "tag": [
+        "constructive algorithms",
+        "dfs and similar",
+        "dsu",
+        "graphs",
+        "implementation",
+        "sortings",
+        "trees"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Dec/17/2020"
+}

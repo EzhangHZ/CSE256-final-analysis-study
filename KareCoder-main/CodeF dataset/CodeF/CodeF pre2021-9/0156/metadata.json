@@ -1,0 +1,14 @@
+{
+    "difficulty": "*900",
+    "url": "https://codeforces.com/problemset/problem/1339/A",
+    "tag": [
+        "brute force",
+        "dp",
+        "implementation",
+        "math"
+    ],
+    "picture_num": "4",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Apr/12/2020"
+}

@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1800",
+    "url": "https://codeforces.com/problemset/problem/1328/D",
+    "tag": [
+        "constructive algorithms",
+        "dp",
+        "graphs",
+        "greedy",
+        "math"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/26/2020"
+}

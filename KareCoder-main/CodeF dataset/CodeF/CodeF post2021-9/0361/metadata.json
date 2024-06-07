@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1200",
+    "url": "https://codeforces.com/problemset/problem/1594/C",
+    "tag": [
+        "brute force",
+        "greedy",
+        "math",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Oct/08/2021"
+}

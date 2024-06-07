@@ -1,0 +1,12 @@
+{
+    "difficulty": "*1600",
+    "url": "https://codeforces.com/problemset/problem/1775/C",
+    "tag": [
+        "bitmasks",
+        "math"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jan/10/2023"
+}

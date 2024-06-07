@@ -1,0 +1,16 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1547/E",
+    "tag": [
+        "data structures",
+        "dp",
+        "implementation",
+        "shortest paths",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "512 megabytes",
+    "date": "Jul/10/2021"
+}

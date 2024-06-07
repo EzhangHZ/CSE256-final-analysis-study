@@ -1,0 +1,18 @@
+{
+	"inputs": [
+		"12\nYES\nesYes\ncodeforces\nes\nse\nYesY\nesYesYesYesYesYesYe\nseY\nYess\nsY\no\nYes\n",
+		"1\nesY\n",
+		"1\nYesYesYesYesYesYesa\n",
+		"1\nali\n",
+		"1\nsYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesYesY\n",
+		"1\nccf\n"
+	],
+	"outputs": [
+		"NO\nYES\nNO\nYES\nNO\nYES\nYES\nNO\nNO\nYES\nNO\nYES\n",
+		"YES\n",
+		"NO\n",
+		"NO\n",
+		"YES\n",
+		"NO\n"
+	]
+}

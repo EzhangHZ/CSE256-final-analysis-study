@@ -1,0 +1,12 @@
+{
+    "difficulty": "*1100",
+    "url": "https://codeforces.com/problemset/problem/1609/B",
+    "tag": [
+        "implementation",
+        "strings"
+    ],
+    "picture_num": "1",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/28/2021"
+}

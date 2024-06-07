@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1500",
+    "url": "https://codeforces.com/problemset/problem/1462/E1",
+    "tag": [
+        "binary search",
+        "combinatorics",
+        "math",
+        "sortings",
+        "two pointers"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Dec/15/2020"
+}

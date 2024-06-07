@@ -1,0 +1,15 @@
+{
+    "difficulty": "*800",
+    "url": "https://codeforces.com/problemset/problem/1706/A",
+    "tag": [
+        "2-sat",
+        "constructive algorithms",
+        "greedy",
+        "string suffix structures",
+        "strings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1 second",
+    "memory limit per test": "256 megabytes",
+    "date": "Jul/18/2022"
+}

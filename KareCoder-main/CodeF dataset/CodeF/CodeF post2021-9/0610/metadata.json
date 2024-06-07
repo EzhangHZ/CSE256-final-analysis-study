@@ -1,0 +1,14 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1715/D",
+    "tag": [
+        "2-sat",
+        "bitmasks",
+        "graphs",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "1.5 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Aug/20/2022"
+}

@@ -1,0 +1,13 @@
+{
+    "difficulty": "*2500",
+    "url": "https://codeforces.com/problemset/problem/1611/G",
+    "tag": [
+        "data structures",
+        "graph matchings",
+        "greedy"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Nov/25/2021"
+}

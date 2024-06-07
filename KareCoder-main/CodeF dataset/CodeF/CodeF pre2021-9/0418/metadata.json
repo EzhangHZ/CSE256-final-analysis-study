@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1400",
+    "url": "https://codeforces.com/problemset/problem/1540/A",
+    "tag": [
+        "constructive algorithms",
+        "graphs",
+        "greedy",
+        "shortest paths",
+        "sortings"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "2 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Jun/25/2021"
+}

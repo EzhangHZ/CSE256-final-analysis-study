@@ -1,0 +1,15 @@
+{
+    "difficulty": "*1900",
+    "url": "https://codeforces.com/problemset/problem/1651/D",
+    "tag": [
+        "binary search",
+        "data structures",
+        "dfs and similar",
+        "graphs",
+        "shortest paths"
+    ],
+    "picture_num": "0",
+    "Time limit per test": "4 seconds",
+    "memory limit per test": "256 megabytes",
+    "date": "Mar/10/2022"
+}

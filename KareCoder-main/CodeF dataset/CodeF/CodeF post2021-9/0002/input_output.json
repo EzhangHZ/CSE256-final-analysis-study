@@ -1,0 +1,28 @@
+{
+	"inputs": [
+		"10\nYES\nyES\nyes\nYes\nYeS\nNoo\norZ\nyEz\nYas\nXES\n",
+		"1\nvop\n",
+		"1\nhac\n",
+		"1\nNNy\n",
+		"1\nHAC\n",
+		"1\nyeQ\n",
+		"1\nHAm\n",
+		"2\nyes\nlll\n",
+		"1\nxxx\n",
+		"1\nxxy\n",
+		"1\nDJB\n"
+	],
+	"outputs": [
+		"YES\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\nNO\n",
+		"NO\n",
+		"NO\n",
+		"NO\n",
+		"NO\n",
+		"NO\n",
+		"NO\n",
+		"YES\nNO\n",
+		"NO\n",
+		"NO\n",
+		"NO\n"
+	]
+}
