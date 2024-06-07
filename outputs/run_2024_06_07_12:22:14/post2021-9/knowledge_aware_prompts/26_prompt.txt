@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of wheels and the final digits shown on each wheel after all moves.
+
+4. Read the number of moves and the moves performed on each wheel.
+
+5. For each test case, initialize an array to store the initial sequence of the cypher.
+
+6. Apply the reverse moves for each wheel based on the final digit and the move type to find the initial digit.
+
+7. Output the initial sequence of the cypher for each test case.
+
+8. End all loops.

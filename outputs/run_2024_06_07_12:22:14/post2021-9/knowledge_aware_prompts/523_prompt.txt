@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read n and d, the number of people and number of conditions.
+  
+2. Loop d times to read each condition.
+
+3. Create a DSU (Disjoint Set Union) data structure to keep track of connections between people.
+
+4. Loop d times to merge the subsets based on the given conditions.
+
+5. Initialize a list max_acquaintances with n zeros to keep track of the maximal number of acquaintances one person can have.
+
+6. Loop from 1 to d inclusive:
+
+   7. Perform one introduction between two people who were not familiar before.
+   
+   8. Update the maximal number of acquaintances the person with the maximal possible acquaintances will have based on the updated connections by DSU. Store the maximum number of acquaintances in max_acquaintances[i-1].
+  
+9. Output d integers, each representing the maximum number of acquaintances for the person after performing i introductions and satisfying the first i conditions.
+
+10. End of the loop.
+
+By following these steps, you can efficiently calculate the maximal number of acquaintances one person can have based on the introduced conditions and performed introductions at the cryptocurrency conference.

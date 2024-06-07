@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate through each test case and perform the following steps:
+
+3. Read the length of the sequence, $n$, and the number of contiguous segments with remembered bitwise OR values, $m$.
+
+4. Iterate over the $m$ segments, each described by $l$, $r$, and $x$, where $l$ is the starting index, $r$ is the ending index, and $x$ is the bitwise OR value.
+
+5. Create a bitmask algorithm to store the set of boolean values corresponding to each element in the sequence.
+
+6. Use combinatorics to count and arrange the subsequences of the sequence to compute the possible coziness values.
+
+7. Implement a constructive algorithm to gradually build the solution by adding elements that satisfy the criteria of the remembered segments.
+
+8. Utilize dynamic programming (dp) techniques to efficiently solve the problem by breaking it down into smaller sub-problems.
+
+9. Apply math algorithms to perform arithmetic calculations, such as bitwise XOR operations and modulo operations.
+
+10. Print the coziness of the sequence modulo $10^9 + 7$ for each test case.
+
+11. End all loops.

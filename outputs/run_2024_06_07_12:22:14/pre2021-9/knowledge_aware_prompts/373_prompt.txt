@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and x, the number of favorite numbers and the distance Rabbit wants to travel.
+
+4. Read the list of n favorite numbers that are distinct.
+
+5. Calculate the minimum number of hops needed for Rabbit to get from (0,0) to (x,0) using the favorite numbers.
+
+6. Output the minimum number of hops for each test case.
+
+7. Repeat for all test cases.
+
+8. End all loops.

@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases $t$.
+
+2. Loop $t$ times to read each test case.
+
+3. Read the length of the string $n$.
+
+4. Read the string $s$ consisting only of characters 'a', 'b', and 'c'.
+
+5. Iterate through each possible substring of length at least $2$ of the given string $s$.
+
+6. For each substring, count the occurrences of 'a', 'b', and 'c'.
+
+7. Check if the substring satisfies the condition of having 'a' occurring strictly more times than 'b' and 'c'.
+
+8. If there is such a substring, output its length as the length of the smallest substring satisfying the conditions. Otherwise, output $-1$.
+
+9. End of loop.
+
+10. The implementation could involve a combination of brute force and string manipulation techniques to efficiently find the smallest substring that satisfies the given conditions.
+
+Feel free to reach out if you need further clarification or if you have any specific constraints or requirements.

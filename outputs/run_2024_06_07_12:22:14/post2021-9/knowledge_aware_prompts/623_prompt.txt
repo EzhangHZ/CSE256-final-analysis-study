@@ -1,0 +1,29 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the input permutation.
+
+4. Read the sequence b of length n.
+
+5. Initialize an array a of length n to store the final permutation.
+
+6. Determine the threshold k based on the sequence b.
+
+7. Loop through each element x in increasing order from 1 to n.
+    
+    a. If x is less than or equal to k, set b[x] to the last element a[j] (1 <= j < i) that is greater than k. If no such element exists, set b[x] to n+1.
+
+    b. If x is greater than k, set b[x] to the last element a[j] (1 <= j < i) that is less than or equal to k. If no such element exists, set b[x] to 0.
+
+8. Output the threshold k on the first line.
+
+9. Output the permutation a1, a2, ..., an on the second line.
+
+10. End loop and go to the next test case.
+
+-------------------End-------------------
+
+With this knowledge-aware prompt, you can efficiently solve the problem of reconstructing the permutation and threshold given the sequence b using constructive algorithms and data structures.

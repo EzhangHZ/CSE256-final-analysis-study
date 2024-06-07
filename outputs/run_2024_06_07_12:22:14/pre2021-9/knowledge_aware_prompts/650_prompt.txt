@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read integers $n$, $m$, and $k$.
+
+2. Read $k$ integers, representing the special fields.
+
+3. Read the connections between fields.
+
+4. Perform a depth-first search (DFS) to find the shortest path from field $1$ to field $n$ before any road is added.
+
+5. Iterate through each pair of special fields and consider adding a road between them.
+
+6. For each pair of special fields, perform another DFS to find the new shortest path after the road is added.
+
+7. Keep track of the maximum possible length of the shortest path obtained by adding a road between special fields.
+
+8. Output the maximum possible length of the shortest path after adding one road optimally.
+
+9. End.
+
+Given the problem of helping Farmer John maximize the length of the shortest path from field $1$ to field $n$ by adding one extra bidirectional road between two special fields on the farm. Use the provided knowledge description related to graphs, DFS, greedy algorithms, and shortest paths to generate the optimal approach.

@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the integer for each test case.
+
+4. Check if n is divisible by 7. If it is, print n and move to the next test case.
+
+5. Convert n to a string for easier manipulation.
+
+6. Initialize a variable min_changes as the number of changes needed to make n divisible by 7 and an empty list possible_numbers to store all resulting numbers.
+
+7. Generate all possible combinations of changing digits in n while avoiding leading zeroes. Check each combination to see if it is divisible by 7, and store those numbers in possible_numbers.
+
+8. Print any number from possible_numbers.
+
+9. End all loops.

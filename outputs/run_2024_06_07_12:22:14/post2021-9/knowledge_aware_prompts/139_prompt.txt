@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and H, the number of available weapons and initial health value of the enemy.
+
+4. Read the damage values of the weapons and store them in a list.
+
+5. Initialize a count variable to 0, representing the minimum number of times the Agent will need to use the weapons to kill the enemy.
+
+6. Iterate over the damage values, checking if the last used weapon is the same as the current weapon. If it is, increment the count by 1 and update the last used weapon to a different weapon.
+
+7. Print the final count as the output for each test case.
+
+8. End the loop for all test cases.
+
+9. Implement a binary search algorithm to efficiently search for specific elements in the list of damage values.
+
+10. Utilize the greedy algorithm to choose the best available weapon at each step without considering the long-term impact.
+
+11. Apply mathematical algorithms to perform necessary calculations related to damage values and health value of the enemy.
+
+12. Consider implementing sorting algorithms to arrange data efficiently, such as sorting the damage values in ascending order before processing them for each test case.

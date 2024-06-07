@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, t.
+
+2. Iterate t times to process each test case.
+
+3. Read the values of n, the number of elements in the sequence, and x, the initial value.
+
+4. Read the sequence of n integers, a.
+
+5. Initialize a counter for the minimum number of operations needed to sort the sequence.
+
+6. Create a sorted version of a, sorted_a, to keep track of the expected sorted sequence.
+
+7. Loop through each element, compare it with the corresponding element in sorted_a, and perform the necessary swaps if the element is greater than x.
+
+8. Check if the sequence is impossible to sort (i.e., if an element cannot be placed in the correct position). If so, set the minimum operations to -1 and break out of the loop.
+
+9. If the sequence is sortable, increment the minimum operations counter for each swap.
+
+10. Output the minimum number of operations needed to sort the sequence or -1 if it is impossible.
+
+11. End all loops.

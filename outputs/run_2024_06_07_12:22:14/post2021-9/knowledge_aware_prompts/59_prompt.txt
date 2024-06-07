@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of integers in the array $a$.
+
+4. Read n integers $a_1, a_2, ..., a_n$ describing the elements of the array $a$.
+
+5. For each test case, calculate the bitwise XOR of all elements in array $a$ to find the value of $x$.
+
+6. Output the value of $x$, as described in the statement.
+
+7. If there are multiple possible values of $x`, output any of them.
+
+8. End of loop.
+
+Now you can use this knowledge-aware prompt to solve the problem efficiently.

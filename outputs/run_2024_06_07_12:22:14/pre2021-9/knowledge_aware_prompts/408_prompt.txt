@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of cities in Berland, denoted as n.
+
+2. Read the beauty values associated with each city, stored in an array b.
+
+3. Implement a greedy algorithm to find the optimal plan for Tanya's journey to maximize the beauty value.
+
+4. Initialize a variable max_beauty to keep track of the maximum beauty value.
+
+5. Loop through the cities starting from the second city, and compare the condition $c_{i + 1} - c_i = b_{c_{i + 1}} - b_{c_i}$.
+
+6. If the condition holds, update the current beauty value and add it to max_beauty.
+
+7. Print the maximum beauty value of the journey.
+
+8. End the program.

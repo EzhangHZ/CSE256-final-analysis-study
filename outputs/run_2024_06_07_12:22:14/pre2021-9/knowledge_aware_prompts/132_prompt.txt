@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read l and r, the range of the number of cans customers can buy.
+
+4. Check if $l \ge \frac{r}{2}$. If it is, print "NO" and continue to the next test case.
+
+5. Find the smallest size of pack a such that each customer buys more cans than they wanted initially.
+
+6. If such size of pack a exists, print "YES"; otherwise, print "NO".
+
+7. End all loops.
+
+Give it a try and let me know if you need further assistance!

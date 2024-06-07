@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the binary string.
+
+4. Read the binary string s of length 2n-1 and store it.
+
+5. For each test case, construct a binary string w of length n that is similar to all substrings of s.
+
+6. To construct w, compare each substring of length n from s[1..n] to s[n..2n-1], finding the common characters.
+
+7. Assemble w with the common characters found in step 6. If there are multiple possible strings, output any of them.
+
+8. Output the constructed binary string w for each test case.
+
+9. Repeat for all test cases.
+
+---End---

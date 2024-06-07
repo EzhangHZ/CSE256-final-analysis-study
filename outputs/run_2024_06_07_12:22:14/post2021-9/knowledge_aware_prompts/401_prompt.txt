@@ -1,0 +1,26 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases $t$.
+
+2. Loop $t$ times to read each test case.
+
+3. Read integers $k$ and $x$.
+
+4. Calculate the total number of emotes you would send in the emote triangle, which is the sum of integers from $1$ to $k$, denoted as $total_emotes$.
+
+5. Check if $total_emotes$ is greater than or equal to $x$. If true, print $k$ as the number of messages before getting banned and move to the next test case.
+
+6. Initialize a variable $messages_sent$ to $0$ to keep track of the messages sent.
+
+7. Initialize a variable $current_emotes$ to $0$ to keep track of the total emotes sent in the current message.
+
+8. Loop through $i$ from $1$ to $2k-1$:
+    - Add $i$ to $current_emotes$.
+    - If $current_emotes$ is greater than or equal to $x$, print $i$ as the number of messages before getting banned and break the loop.
+    - Increment $messages_sent$ by $1$.
+
+9. If the loop completes without breaking, print $2k-1$ as the number of messages sent before completing the emote triangle.
+
+10. End loop and move to the next test case.
+
+Feel free to ask if you have any questions or need further clarification!

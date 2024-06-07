@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate over each test case:
+
+   a. Read the resulting binary string, $s$, and the integer $x$.
+   
+   b. Initialize an empty string $w$ of length equal to $|s|$.
+   
+   c. Loop through each character position $i$ from $1$ to $|s|$:
+   
+      - Determine the value of $w_{i}$ based on the conditions provided.
+   
+   d. If a valid string $w$ can be reconstructed, print $w$; otherwise, print $-1$.
+
+3. End of loop.
+
+4. Suggested algorithmic approaches for reconstructing the binary string $w$ may include brute force methods or constructive algorithms. 
+
+5. Consider using a greedy approach or 2-SAT algorithm depending on the complexities involved. 
+
+6. Implement the solution considering the constraints and the nature of the problem.
+
+7. End of prompt.

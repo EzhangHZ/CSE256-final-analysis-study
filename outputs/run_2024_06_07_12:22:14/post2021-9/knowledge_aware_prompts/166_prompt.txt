@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the sequence a.
+
+4. Read the elements of the sequence a and store them in a list.
+
+5. Initialize a counter variable ops to 0 to count the operations.
+
+6. Loop through all pairs of numbers in the sequence and for each pair (a_i, a_j):
+     - If a_i equals a_j, change one of them to 0 and increment ops by 1.
+     - If a_i is not equal to a_j, change both a_i and a_j to min(a_i, a_j) and increment ops by 2.
+
+7. Print the value of ops as the minimum number of operations to change all numbers in the sequence to 0.
+
+8. End loop.
+
+This prompt is designed to help you efficiently calculate the minimum number of operations required to change all numbers in a given sequence to 0.

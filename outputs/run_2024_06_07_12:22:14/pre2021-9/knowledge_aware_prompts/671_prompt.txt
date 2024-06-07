@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read integers $n$ and $k$ where $2 \leq k \leq n \leq 2 \cdot 10^5$ representing the size of the array $a$ and the size of the subsequence.
+
+2. Read the elements of the array $a$ represented by $n$ integers $a_1, a_2, \ldots, a_n$ where $1 \leq a_i \leq 10^9$.
+
+3. Initialize two variables: $low$ = 1 and $high$ = $10^9$ for binary search.
+
+4. While $low \leq high$, perform binary search to find the minimum cost of subsequence of size $k$.
+
+5. Inside the binary search process, for each mid value, check if it is possible to form a subsequence of size $k$ with the cost $\leq$ mid. Update $low$ or $high$ accordingly.
+
+6. Finally, output the minimum cost of a subsequence of size $k$.
+
+**Note:** 
+
+- Binary search will help find the minimum cost efficiently due to the monotonic property of the cost function.
+  
+- Proper implementation of the binary search and subsequence generation is crucial to optimize the process and find the correct solution efficiently.

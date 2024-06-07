@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read integers N and M representing the number of rows and columns in the grid.
+
+2. Each tile in the grid contains a number, arranged as described in the problem statement.
+
+3. Define a tight domino as two different tiles in the grid that touch by their sides with a difference of exactly 1.
+
+4. Count the number of distinct tight dominoes in the grid.
+
+5. Calculate the number of distinct tight dominoes in the grid based on the given rows and columns N and M.
+
+6. Output an integer representing the number of distinct tight dominoes in the grid.
+
+7. End.

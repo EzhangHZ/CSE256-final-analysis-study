@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate over each test case.
+
+3. Read the integers $n$, $a$, and $b$ representing the number of unconquered kingdoms, costs for changing the capital's location, and cost for conquering a kingdom, respectively.
+
+4. Read the positions of the unconquered kingdoms, $x_1, x_2, \ldots, x_n$.
+
+5. Calculate and output the minimum total cost to conquer all kingdoms.
+
+6. Check if the sum of $n$ over all test cases does not exceed $2 \cdot 10^5$.
+
+7. End of the loop.
+
+-----
+
+Given the scenario of an ambitious king aiming to become the Emperor of The Reals by first conquering the integers, your task is to develop a solution that minimizes the total cost of conquering all kingdoms with strategic moves. Your implementation should consider the best actions available to the king, factoring in the costs associated with changing the capital's location and conquering kingdoms at optimal positions. This problem involves a blend of mathematical analysis, optimization strategies, and algorithmic efficiency to achieve the desired outcome.

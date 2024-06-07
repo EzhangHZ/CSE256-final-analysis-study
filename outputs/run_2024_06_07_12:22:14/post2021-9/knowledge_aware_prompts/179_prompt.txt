@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read the string s representing the names of capybaras.
+
+4. Since the gardener wrote down the names without spaces, our goal is to split the string s into three distinct strings a, b, and c in a way that satisfies the conditions mentioned.
+
+5. If there exists any way to split s into three strings a, b, and c such that either a ≤ b and c ≤ b or b ≤ a and b ≤ c, print these strings separated by spaces. If multiple solutions exist, print any of them.
+
+6. If it's not possible to split s into three valid strings, print ":(".
+
+7. End all loops and processing steps.
+
+Feel free to adjust the prompt structure or provide additional details as needed.

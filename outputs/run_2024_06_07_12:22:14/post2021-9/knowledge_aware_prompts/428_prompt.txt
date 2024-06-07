@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of members in the group excluding Beppa.
+
+4. Read the list of IDs of members sorted by decreasing times of last seen online at 9:00 and store them in a list a.
+
+5. Read the list of IDs of members sorted by decreasing times of last seen online at 22:00 and store them in a list b.
+
+6. Initialize two pointers i and j to 0.
+
+7. Initialize an empty set online_members.
+
+8. While i < n and j < n:
+
+    a. If a[i] == b[j], increment both i and j.
+
+    b. If a[i] != b[j], add a[i] to online_members and increment i.
+
+9. Print the size of online_members which represents the minimum number of members that must have been online between 9:00 and 22:00.
+
+10. End all loops.

@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the length of the array and the target sum.
+
+4. Read the elements of the array and store them in a list a.
+
+5. Compute the possibilities of reordering the array elements and checking if the sum matches the target sum m.
+
+6. If a valid reordering exists, print "YES"; otherwise, print "NO".
+
+7. End all loops.

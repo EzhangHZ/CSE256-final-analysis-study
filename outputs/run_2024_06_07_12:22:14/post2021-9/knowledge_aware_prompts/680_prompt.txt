@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate over each test case:
+
+    2.1 Read the number of dishes, $n$, and the amount of food to eat from each dish, $m$.
+    
+    2.2 Read the masses of fish and meat for each dish.
+    
+    2.3 Compute the balance value by calculating the absolute difference between the total mass of fish and total mass of meat for all dishes.
+    
+    2.4 Output the minimal balance value that can be achieved.
+    
+    2.5 Iterate over each dish:
+    
+        2.5.1 For each dish, determine the grams of fish and meat the taster should eat to minimize the balance.
+        
+        2.5.2 Output the grams of fish and meat to be eaten from each dish.
+        
+3. Repeat for all test cases.
+
+4. End the process.

@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the length of the array and its sum respectively.
+
+4. If n is 1, print 0 and continue to the next test case.
+
+5. If n is 2, print min(2, m) and continue to the next test case.
+
+6. If n is greater than 2, first fill the array with 1s and then distribute the remaining sum (m - n) across the array indexes starting from the second one. To maximize the sum of the absolute differences between adjacent elements, alternate the values (increase, decrease, increase, decrease...).
+
+7. Calculate the maximum possible value of $\sum\limits_{i=1}^{n-1} |a_i - a_{i+1}|$ for the constructed array a.
+
+8. Print the answer calculated in step 7 for each test case.
+
+9. End all loops.

@@ -1,0 +1,61 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases $t$.
+
+2. Loop $t$ times to process each test case.
+
+3. Read the integer $n$, the number of bags with candies.
+
+4. For each test case, construct a valid sequence of operations to make all bags contain an equal amount of candies.
+
+5. Determine the number of operations $m$ needed.
+
+6. Output $m$ on the first line followed by $m$ positive integers $a_1, a_2, \dots, a_m$, where $a_j$ represents the bag chosen for the $j$-th operation.
+
+7. End all loops.
+
+8. Along the process, use constructive algorithms to build the sequence of operations step-by-step until all bags contain an equal number of candies.
+
+9. Math algorithms may be used to calculate the total number of candies added during each operation efficiently.
+
+# Problem:
+
+You are given $n$ bags with candies, where the $i$-th bag initially contains $i$ candies. Your task is to create a sequence of operations to equalize the number of candies in all bags.
+
+Each operation involves choosing one bag and adding a specific amount of candies to all other bags.
+
+You need to find a valid sequence of operations for each test case such that the candies in all bags are equal in the end.
+
+-----Input-----
+
+Each test contains multiple test cases.
+
+The first line of input contains the number of test cases $t$ ($1 \le t \le 100$).
+
+The subsequent lines of each test case contain a single integer $n$ ($2 \le n \le 100$) representing the number of bags.
+
+-----Output-----
+
+For each test case, print two lines:
+
+1. The number of operations $m$ and the sequence of operations denoted by $m$ positive integers $a_1, a_2, \dots, a_m$.
+
+2. The sequence of operations specifies which bag to choose for each operation.
+
+-----Examples-----
+
+Input
+2
+2
+3
+Output
+1
+2
+5
+3 3 3 1 2
+
+-----Note-----
+
+In the first case, adding $1$ candy to all bags except the second one leads to the final arrangement of $[2, 2]$ candies.
+
+In the second case, you perform multiple operations to achieve the equalization of candies in all bags by choosing specific bags and adding the correct number of candies.

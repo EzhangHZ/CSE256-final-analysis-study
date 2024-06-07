@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, l, r, and s for each test case.
+
+4. Check if it is possible to find a permutation of numbers from 1 to n that satisfies the condition. If it's not possible, print -1 and move to the next test case.
+
+5. If it's possible, find any permutation p that fits the condition, where $s = p_l + p_{l+1} + \ldots + p_r$.
+
+6. Output the permutation p on a separate line.
+
+7. End all loops.

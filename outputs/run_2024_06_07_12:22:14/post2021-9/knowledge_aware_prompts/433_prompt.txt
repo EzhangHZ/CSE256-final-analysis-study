@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and k, the length of the binary string and the maximum number of operations allowed.
+
+4. Read the binary string s of length n.
+
+5. Initialize min_sum as the sum of all $d_i$, where $d_i$ are the pair of adjacent elements in the binary string.
+
+6. If k is 0, print min_sum and continue to the next test case.
+
+7. Loop through the binary string and calculate the sum of all $d_i$.
+
+8. If k is less than the number of ones in the binary string, find the positions of 1s and calculate the potential decrease in $f(s)$.
+
+9. Print the minimum value of $f(s)$ that can be achieved with at most k operations.
+
+10. End the loop.
+
+You have successfully created a knowledge-aware prompt based on the problem description and provided knowledge description.

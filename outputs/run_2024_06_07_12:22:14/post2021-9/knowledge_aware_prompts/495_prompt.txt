@@ -1,0 +1,11 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+2. Loop through each test case.
+3. Read the positive integer $x$ and the number of allowed operations $k$.
+4. For each test case, find the minimum positive number that can be obtained from $x$ by removing a digit $k$ times.
+5. Remove digits from $x$ by selecting the smallest digits first to minimize the resulting number.
+6. If after $k$ operations the resulting number has leading zeroes, remove them to ensure it is a positive integer.
+7. Output the minimum positive number obtained after the operations for each test case. 
+
+This problem can be efficiently solved using a greedy approach to iteratively remove digits to minimize the resulting number.

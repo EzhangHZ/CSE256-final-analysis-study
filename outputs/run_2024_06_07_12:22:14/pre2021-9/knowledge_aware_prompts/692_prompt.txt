@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read n, m, and k, the number of rows, columns in the grid, and the total distance Bashar wants to run.
+
+2. Check if the total distance Bashar wants to run is greater than the total number of roads in the grid. If it is, print "NO" and end.
+
+3. Implement a graph-based constructive algorithm approach to generate a sequence of moves for Bashar to run exactly k kilometers without visiting the same road twice.
+
+4. Start Bashar at the top-left cell of the grid and create a sequence of steps using up (U), down (D), left (L), and right (R) moves. Ensure Bashar does not go outside the grid and finishes at any cell.
+
+5. If a valid sequence of steps is generated, print "YES" on the first line, followed by the number of steps (a) and the details of each step.
+
+6. Output "NO" if it is impossible for Bashar to run exactly k kilometers in the given grid.
+
+7. Ensure the total number of steps does not exceed 3000 for Bashar's convenience in remembering the moves.

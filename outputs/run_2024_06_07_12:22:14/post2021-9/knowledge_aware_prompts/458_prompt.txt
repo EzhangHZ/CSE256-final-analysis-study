@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test cases.
+
+3. Read n, the number of bricks.
+
+4. Read the weights of the bricks and store them in a list a.
+
+5. Sort the list a in non-decreasing order.
+
+6. Calculate the maximum possible final score as follows:
+    - If n is odd, calculate the score as (a[n//2+1] - a[n//2]) + (a[n//2] - a[n//2-1]).
+    - If n is even, calculate the score as (a[n//2] - a[n//2-1]) + (a[n//2+1] - a[n//2]).
+
+7. Repeat steps 2-6 for all test cases.
+
+8. Output the maximum possible final score for each test case.
+
+This prompt is related to constructive algorithms and sortings which are useful in solving optimization problems and arranging data efficiently.

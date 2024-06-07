@@ -1,0 +1,13 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, t.
+2. Iterate over each test case.
+3. Read the length of the song, n, and the sequence of integers representing the notes.
+4. Create a set to store unique elements in the sequence.
+5. Initialize a variable to count the number of elements to be increased for maximal diversity.
+6. Iterate over the sequence of notes:
+   - If the current element is already in the set, increment the count of elements to be increased.
+   - Otherwise, add the current element to the set.
+7. Output the total number of unique elements in the sequence plus the count of elements to be increased.
+
+Now it's your turn to implement this problem-solving prompt!

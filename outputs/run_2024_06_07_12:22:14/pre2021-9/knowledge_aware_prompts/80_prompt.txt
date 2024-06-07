@@ -1,0 +1,13 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read k, the percentage of magic essence in a good potion.
+
+4. Check if k is equal to 100. If it is, print 1 and continue to the next test case.
+
+5. If k is less than or equal to 50, print 100 - k. Else, print k.
+
+6. End all loops.

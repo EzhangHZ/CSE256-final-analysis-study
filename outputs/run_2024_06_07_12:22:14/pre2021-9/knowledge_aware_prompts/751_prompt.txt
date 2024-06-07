@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate over each test case and read the values of $n$, $k$, and $m$.
+
+3. Read the sequence $b$ of length $m$.
+
+4. Check if $m$ is greater than $n$, if so, print "NO" and move on to the next test case.
+
+5. If $m$ is equal to $n$, check if the sequence $b$ is the same as the original sequence $[1, 2, \dots, n]$, if so, print "YES", else print "NO".
+
+6. If $m$ is less than $n$, calculate the maximum number of elements that can be removed in one step, let's call it $max\_remove$.
+
+7. Iterate over the elements in $b$ and keep track of the count of elements that are not marked for removal.
+
+8. At each step while iterating over elements in $b$, check if the number of elements that can be removed without erasing the median is less than the current element in $b$. If so, print "NO" and move on to the next test case.
+
+9. If the iteration completes successfully without encountering a case where it's impossible to achieve the desired sequence $b$, print "YES" for the current test case.
+
+10. Move on to the next test case and repeat the process.
+
+Now, you can proceed with solving the problem using the provided knowledge to create the solution algorithm.

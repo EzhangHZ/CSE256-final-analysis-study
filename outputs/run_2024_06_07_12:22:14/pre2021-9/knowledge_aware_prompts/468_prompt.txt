@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer n, the number of nodes in the tree.
+
+2. Read and construct the tree by reading n-1 edges between nodes u and v.
+
+3. Implement a recursive DFS algorithm to traverse the tree and label the edges. Assign the label to each edge based on conditions to minimize the largest MEX(u,v).
+
+4. Output n-1 integers, representing the number written on each edge in the input order.
+
+5. Design the algorithm with constructive methodology to gradually build the optimal solution for labeling the tree's edges.
+
+6. You can leverage DFS and similar algorithms to efficiently traverse the tree structure and assign labels to the edges.
+
+7. Utilize the greedy algorithm to make locally optimal choices at each step for labeling the edges of the tree.
+
+8. Ensure that all written labels are distinct and within the range of 0 to n-2 inclusive.
+
+9. Handle the tree data structure efficiently to optimize the labeling process and minimize the largest MEX(u,v).
+
+10. End the algorithm to output the labeled edges for the tree dataset.

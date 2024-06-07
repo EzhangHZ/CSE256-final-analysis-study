@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the old price of the good and the maximum number of increments allowed.
+
+4. Initialize a variable max_rounded_price to n * m.
+
+5. Initialize a variable max_rounds to 0.
+
+6. Loop from 1 to m, checking each possible increment k.
+
+7. Calculate the potential new price as n * k.
+
+8. Count the number of trailing zeros in the potential new price.
+
+9. If the number of trailing zeros is greater than max_rounds, update max_rounds and max_rounded_price.
+
+10. Output the max_rounded_price for the current test case.
+
+11. End loop.
+
+12. End all loops.

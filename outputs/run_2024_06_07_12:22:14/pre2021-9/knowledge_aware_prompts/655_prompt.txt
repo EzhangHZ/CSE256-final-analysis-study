@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the size of the chessboard.
+
+4. Read a string of length n representing the initial state of the chessboard.
+
+5. Define a list dp of length n, where dp[i] represents the number of states reachable from the i-th cell.
+
+6. Initialize dp[0] to 1 if the first cell is unoccupied (0), otherwise 0.
+
+7. Loop over the cells from left to right, and update dp[i] based on the conditions mentioned in the problem statement.
+
+8. Calculate the total number of states reachable from the initial state using the calculated dp array and modulo $998,244,353$.
+
+9. Print the result for each test case.
+
+10. End all loops.

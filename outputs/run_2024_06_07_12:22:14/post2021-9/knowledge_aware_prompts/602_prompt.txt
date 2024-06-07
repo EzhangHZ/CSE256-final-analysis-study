@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of array a.
+
+4. Read n integers a_1, a_2, ..., a_n.
+
+5. Perform n-1 operations as described:
+   - For each operation, generate a new array b_i = a_{i+1} - a_{i} for 1 <= i < n.
+   - Sort b in ascending order, replace a with b, and decrease n by 1.
+
+6. Output the only integer in array a after all operations.
+
+7. Continue for each test case.
+
+Implement the necessary procedures to handle the operation of sorting and replacing elements of array a based on the given criteria. Remember the limits when performing the operations and ensure correct output for each test case.

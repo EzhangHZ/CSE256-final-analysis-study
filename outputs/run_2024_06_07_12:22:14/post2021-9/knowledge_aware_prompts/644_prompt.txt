@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer n, representing the number of terms in the infinite non-increasing sequence.
+
+2. Read n+1 integers representing the sequence a_0, a_1, ..., a_n.
+
+3. Initialize a variable to store the minimum number of operations needed, initialized to 0.
+
+4. Iterate through the sequence of a_i and perform the following steps for each a_i:
+   - Determine the number of dolls needed to move to make the white cells contain 0 dolls based on the current configuration and a_i.
+   - Increment the minimum number of operations needed based on the dolls movement required and a_i.
+
+5. Print the final answer, the minimum number of operations needed modulo 10^9+7.
+
+6. End the loop and the prompt.

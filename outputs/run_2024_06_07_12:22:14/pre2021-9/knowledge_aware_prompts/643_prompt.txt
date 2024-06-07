@@ -1,0 +1,39 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+2. Loop t times to read each test cases.
+3. Read n, the length of the array.
+4. Read the elements of the array and store them in a list a.
+5. Read q, the number of queries.
+6. Loop q times to read each query w.
+7. Initialize a list d to store the number of adjacent elements for each element in the array.
+8. Loop through each element in the array and calculate the number of adjacent elements, updating the corresponding d value.
+9. Perform the array transformation by replacing each element with the product of adjacent elements.
+10. Repeat this process for w seconds.
+11. Output the maximum value in list d after w seconds for each query.
+
+# Expected Prompt:
+
+You are given an array $a$ of length $n$. Each second the following happens: each element $a_i$ of the array is replaced by the product of all elements of the array (including itself), that are adjacent to the current value.
+
+Let $d_i$ be the number of adjacent elements to $a_i$ (including $a_i$ itself). The beauty of the array is defined as $\max_{1 \le i \le n} d_i$.
+
+You are given $q$ queries: each query is described by an integer $w$, and you have to output the beauty of the array after $w$ seconds.
+
+-----Input-----
+
+The first input line contains a single integer $t$ ($1 \le t \le 10^5)$ — the number of test cases.
+
+The first line of each test case contains a single integer $n$ ($1 \le n \le 3 \cdot 10^5$) — the length of the array.
+
+The following line contains $n$ integers $a_1, \ldots, a_n$ ($1 \le a_i \le 10^6$) — array elements.
+
+The next line contain a single integer $q$ ($1 \le q \le 3 \cdot 10^5$) — the number of queries.
+
+The following $q$ lines contain a single integer $w$ each ($0 \le w \le 10^{18}$) — the queries themselves.
+
+It is guaranteed that the sum of values $n$ over all test cases does not exceed $3 \cdot 10^5$, and the sum of values $q$ over all test cases does not exceed $3 \cdot 10^5$
+
+-----Output-----
+
+For each query output a single integer — the beauty of the array at the corresponding moment.

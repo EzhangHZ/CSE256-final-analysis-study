@@ -1,0 +1,20 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, t.
+
+2. For each test case:
+    a. Read the number of vertices, n, and edges, m.
+    b. Read the descriptions of m edges and store them.
+    c. Construct the directed graph based on the given edges.
+
+3. Implement a function using DFS to traverse the graph and determine the number of paths from vertex 1 to all other vertices.
+    a. Return 0 if there are no paths from 1 to v.
+    b. Return 1 if there is only one path from 1 to v.
+    c. Return 2 if there are multiple finite paths from 1 to v.
+    d. Return -1 if there are infinite paths from 1 to v (handling loops).
+
+4. Output the results of each test case, printing a sequence of n integers ranging from -1 to 2.
+
+5. Repeat for all t test cases.
+
+6. End the process.

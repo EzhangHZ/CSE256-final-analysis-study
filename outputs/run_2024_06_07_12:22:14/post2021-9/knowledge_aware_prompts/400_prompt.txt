@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the permutation.
+
+4. Read the elements of the permutation p.
+
+5. Create a DSU (Disjoint Set Union) data structure to keep track of connected components.
+
+6. Initialize the DSU with n elements.
+
+7. For each pair of elements (i, j) where i < j and p[i] > p[j], merge the sets containing i and j in the DSU.
+
+8. Count the number of distinct components in the DSU after processing all pairs.
+
+9. Print the number of connected components for each test case.
+
+10. End all loops.

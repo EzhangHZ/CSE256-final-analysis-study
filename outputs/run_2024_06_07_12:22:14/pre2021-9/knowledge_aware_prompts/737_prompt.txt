@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read n and M, the number of computers and the modulo.
+
+2. Define an array dp of length n to store the number of ways to turn on the computers in each state.
+
+3. Initialize dp[0] and dp[1] with 1 since there is only one way to turn on the first and second computers.
+
+4. Loop i from 2 to n-1, calculate dp[i] using the formula dp[i] = (dp[i-1] + dp[i-2]) % M.
+
+5. Calculate the total number of ways to turn on all computers as (dp[n-1] + dp[n-2]) % M.
+
+6. Print the total number of ways modulo M as the output.
+
+7. End the loop.
+
+Feel free to ask any questions or clarification if needed!

@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read x, the apartment number of the resident who answered the call.
+
+4. Calculate the total number of keypresses based on x.
+
+5. Print the total number of digits our character pressed in total for each test case.
+
+6. End loop.
+
+You can utilize the "implementation" and "math" knowledge to efficiently solve this problem and calculate the total number of keypresses.

@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read two integers c and d, representing William's favorite numbers.
+
+4. Calculate the absolute difference between c and d.
+
+5. If the difference is odd, print "-1" as it is impossible to achieve this using the described operations. Continue to the next test case.
+
+6. If c equals d, print "0" and continue to the next test case.
+
+7. Otherwise, calculate the number of operations needed to transform a and b to c and d. This involves finding a valid sequence of operations that lead to the target values.
+
+8. Output the minimal number of operations required to make a equal to c and b equal to d, or -1 if it is impossible.
+
+9. End all loops.
+
+Remember to handle negative values properly during the operations for a and b.
+
+Now, you should be able to solve the problem efficiently using the provided prompt and knowledge description.

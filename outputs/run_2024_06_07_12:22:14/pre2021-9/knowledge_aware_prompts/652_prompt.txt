@@ -1,0 +1,27 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases $t$.
+
+2. Loop $t$ times to process each test case.
+
+3. Read the number of positions $n$ and the cost of a new computer $c$.
+
+4. Read the daily earnings array $a$ with $n$ integers.
+
+5. Read the online course cost array $b$ with $n - 1$ integers.
+
+6. Initialize a variable days = 0 to track the number of days taken.
+
+7. Initialize a variable balance = 0 to track Polycarp's balance.
+
+8. Loop over each position from 1 to $n$:
+   - If Polycarp can earn tugriks that day, add to the balance.
+   - If Polycarp can move to the next position and has enough balance, deduct the course cost and move to the next position.
+
+9. Repeat step 8 until the balance is less than the cost of a new computer $c$.
+
+10. Output the total number of days taken to buy a new computer.
+
+11. End of loop.
+
+You can use the concepts of "brute force," "dp," "greedy," or "implementation" to optimize the solution further based on the constraints and requirements of the problem.

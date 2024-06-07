@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Loop $t$ times to read each test case.
+
+3. Read the number of types of candies, $n$, and the number of candies of each type.
+
+4. Check if there exists a candy type with more candies than half the total sum of candies. If there is, print "NO" and continue to the next test case.
+
+5. Initialize a variable to track the previous candy type eaten and set it to $-1$. Initialize a variable to track the maximum number of candies of the current type and set it to $0$.
+
+6. Loop through the types of candies and check if the current type has more candies than the previous maximum. If so, update the maximum and track the current candy type.
+
+7. If the maximum number of candies is greater than one, print "NO" as Vlad would have to eat two candies of the same type in a row.
+
+8. If the maximum number of candies is one for all types, print "YES".
+
+9. End the loop and continue to the next test case.
+
+Feel free to ask for further clarification or assistance!

@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of friends, and a list of integers a representing the number of candies each friend has.
+
+4. Calculate the total sum of candies in the list a.
+
+5. Check if the total sum divided by n leaves a remainder. If there is a remainder, print "-1" and continue to the next test case.
+
+6. Calculate the target number of candies each friend should have, which is the total sum divided by n.
+
+7. Initialize k (minimum value of friends needed to redistribute candies) to 0.
+
+8. Loop through the list a and increment k by 1 for each friend whose number of candies is not equal to the target number.
+
+9. Print the final value of k for the current test case.
+
+10. End all loops.

@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read the odd integer n, the initial size of the circle.
+
+2. Read n integers a1, a2, ..., an, the initial numbers in the circle.
+
+3. If n is 1, output a1 and end the program.
+
+4. Initialize a variable max_circular_value to 0.
+
+5. Loop while n is greater than 1:
+   - Calculate the circular value at index i by summing up the adjacent elements a[i-1] and a[i+1] (or a[n-1] if i is n).
+   - Delete the adjacent elements a[i-1] and a[i+1] (or a[n-1] if i is n).
+   - Replace a[i] with the circular value.
+   - Update n accordingly.
+
+6. Output the maximum possible circular value obtained.
+
+This problem can be approached using a brute force method by iteratively updating the circular value for each index, considering the adjacent elements and performing the necessary operations until only one number remains in the circle. The objective is to find the maximum possible circular value that can be achieved through these operations.

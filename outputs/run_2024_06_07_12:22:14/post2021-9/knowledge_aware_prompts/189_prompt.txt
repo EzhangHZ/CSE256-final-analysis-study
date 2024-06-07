@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the size of the array.
+
+4. Read n integers representing the elements of the array a.
+
+5. Initialize a variable operations to 0 to count the number of operations needed.
+
+6. Loop through the array a starting from index 1.
+
+7. If the current element a[i] is less than the previous element a[i-1], calculate the absolute difference diff = a[i-1] - a[i] and add it to operations.
+
+8. Update the current element a[i] to be greater than or equal to a[i-1].
+
+9. Output the total number of operations needed for each test case.
+
+10. End all loops.
+
+Now, you can implement the solution for the provided problem statement by following the steps outlined above.

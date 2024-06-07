@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read two integers, $n$ and $m$, where $2 \le n \le 3 \cdot 10^5$ and $1 \le m \le 10^{12}$.
+
+2. Create a function to calculate the greatest common divisor ($gcd$) of two numbers.
+
+3. Implement a function to check if a given array $a$ is ambiguous, i.e., if it has at least two distinct removal sequences.
+
+4. Initialize a counter variable to keep track of the number of ambiguous arrays.
+
+5. Iterate over all possible arrays $a$ of length from $1$ to $n$, where each element $a_i$ ranges from $1$ to $m$.
+
+6. For each array $a$, check if it is ambiguous using the function implemented earlier.
+
+7. If the array is ambiguous, increment the counter.
+
+8. Print the total count of ambiguous arrays modulo $998244353$ as the final output.
+
+9. End of the process.

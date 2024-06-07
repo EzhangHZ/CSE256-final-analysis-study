@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read l, r, and m for each test case.
+
+4. Calculate the possible values of a, b, and c:
+   - Start by assuming a = l, b = l, and c = l.
+   - Loop through a in the range [l, r] and for each a, calculate b and c such that n = (m - b + c) / a is a strictly positive integer.
+   - If such n is found, output the values of a, b, and c.
+   - If no such n is found for the current a, increment a and repeat the process.
+   
+5. Output the values of a, b, and c that satisfy the given conditions.
+
+6. End the loop after processing all test cases.
+
+This prompt requires the understanding of math and brute force algorithms to iteratively search for the values of a, b, and c that satisfy the mathematical equation given the constraints.

@@ -1,0 +1,37 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate through each test case:
+
+    a. Read the number of opponents, Monocarp's initial rating, and desired rating: $n$, $x$, $y$.
+    
+    b. Read the ratings of Monocarp's opponents: $a_1, a_2, \dots, a_n$.
+    
+    c. Check if it's possible for Monocarp to reach the desired rating $y$ based on initial rating $x$ and opponents' ratings. If not possible, print -1 and move to the next test case.
+    
+    d. Implement a strategy to efficiently calculate the minimum number of games Monocarp needs to play to achieve the desired rating $y$, considering the rule of playing against opponents evenly as possible.
+    
+    e. Print the minimum number of games required for the current test case.
+    
+3. End of loop.
+
+4. Implement necessary functions and logic to efficiently calculate the minimum number of games Monocarp needs to play and handle the constraints given in the problem statement.
+
+## Knowledge Description:
+
+We can make use of different algorithms and techniques to efficiently solve the problem:
+
+1. Binary search: Utilize binary search for specific scenarios where it can improve performance and optimize the search process within the given constraints.
+
+2. Greedy algorithm: Develop a greedy strategy to guide Monocarp in playing against opponents with the aim of reaching the desired rating $y in the minimum possible number of games.
+
+3. Implementation: Skillfully implement the solution by translating the algorithm into a working program while considering edge cases and ensuring proper integration.
+
+4. Math algorithms: Explore mathematical algorithms to enhance the efficiency of calculating the minimum number of games required, potentially incorporating numerical methods and optimization techniques.
+
+5. Sorting algorithms: Implement sorting algorithms to organize and process data efficiently, facilitating the handling of opponents' ratings and Monocarp's progression towards the desired rating $y.
+
+6. Two pointers technique: Apply the two pointers technique to solve specific challenges within the problem, aiding in searching, partitioning, and manipulating data effectively.
+
+By combining these algorithms and techniques, we can develop an optimized and effective solution to determine the minimum number of games Monocarp needs to play to reach the desired rating $y.

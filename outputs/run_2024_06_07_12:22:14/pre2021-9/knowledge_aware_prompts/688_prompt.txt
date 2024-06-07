@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the number of vertices in the graph and the length of the palindrome path.
+
+4. Read the characters describing the edges between the vertices and store them in a 2D list.
+
+5. Iterate through all pairs of vertices (u, v) where u != v to check if there exists a palindrome path of length m starting from vertex u and ending at vertex v.
+
+6. Use a brute force approach to try all possible paths of length m between each pair of vertices and check if the path forms a palindrome.
+
+7. If a palindrome path of length m is found, print "YES" followed by the indices of vertices in the path in the appropriate order. If multiple valid paths exist, print any of them.
+
+8. If no palindrome path of length m is found between any pair of vertices, print "NO".
+
+9. End loop.

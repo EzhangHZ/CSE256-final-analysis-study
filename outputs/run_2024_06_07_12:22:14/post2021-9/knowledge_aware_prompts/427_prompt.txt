@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read $t$, the number of test cases.
+
+2. Loop $t$ times to read each test case.
+
+3. Read $n$, $w$, and $h$, the number of cakes and dispensers, as well as the half-widths of cakes and chocolate segments.
+
+4. Read the positions of cakes centers, $a_1$ to $a_n$, and positions of dispensers, $b_1$ to $b_n$.
+
+5. Check if $a_i + w < a_{i+1} - w$ and $b_i + h < b_{i+1} - h$ for all $i$. If not, print "NO" and move on to the next test case.
+
+6. Sort the positions of cakes and dispensers in non-decreasing order to simplify the checking process.
+
+7. Loop through the cakes and dispensers, check if there exists a shift such that each cake is covered by some chocolate and no chocolate is outside the cakes. If such a shift exists, print "YES"; otherwise, print "NO".
+
+8. End all loops.

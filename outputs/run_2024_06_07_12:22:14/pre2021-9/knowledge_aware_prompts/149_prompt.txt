@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read a1, a2, a3, and a4 - the lengths of the four line segments.
+
+4. Sort the four lengths in descending order.
+
+5. Calculate the maximum area of a rectangle that can be enclosed using the given segments.
+
+6. Print the maximum area for each test case.
+
+7. End all loops.

@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer \( n \), representing the number of sections in the wall.
+
+2. Read the sequence of integers \( a_1, a_2, \dots, a_n \), where \( a_i \) is the initial durability of the \( i \)-th section.
+
+3. Initialize a variable \( shots \) to 0 to keep track of the total number of onager shots needed.
+
+4. If there are only 2 sections in the wall, print 2 as the minimum number of shots required to break at least two sections and end the prompt.
+
+5. Loop through the sections from the second to the second-to-last section. For each section:
+    - Calculate the number of shots needed to break this section and the adjacent sections. The formula is \( \max(0, a_i - a_{i-1} - a_{i+1} + 1) \), where \( a_i \) is the durability of the current section and \( a_{i-1} \) and \( a_{i+1} \) are the durabilities of the adjacent sections.
+    - Add this number of shots to the total \( shots \).
+
+6. Print the total \( shots \) as the minimum number of onager shots needed to break at least two sections of the wall and end the prompt.

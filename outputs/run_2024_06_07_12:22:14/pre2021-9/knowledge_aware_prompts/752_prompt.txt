@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the sequence.
+
+4. Read n integers representing the sequence and store them in a list.
+
+5. Calculate the length of the longest almost increasing subsequence for each test case.
+
+6. Use the concept of dynamic programming (dp) to solve the problem efficiently.
+
+7. Implement the dp algorithm to find the longest almost increasing subsequence.
+
+8. Consider using data structures like arrays or lists to store intermediate results.
+
+9. Greedy algorithm can also be considered as a heuristic approach for optimization in this problem context.
+
+10. Output the length of the longest almost increasing subsequence for each test case.
+
+11. End all loops and computations.
+
+Do you need any further clarification or details on the implementation?

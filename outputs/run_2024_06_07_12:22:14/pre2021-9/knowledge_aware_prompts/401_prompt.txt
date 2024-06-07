@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read the initial amount of planks at the company's storehouse, denoted as $n$.
+
+2. Read the lengths of the planks stored at the company's storehouse.
+
+3. Read the number of events in the company, denoted as $q$.
+
+4. Loop $q$ times to process each event description.
+
+5. For each event, determine if the required shape storages can be built from the planks available at the storehouse after the event.
+
+6. Output "YES" if two storages of the required shape can be built, and "NO" otherwise after each event.
+
+7. Implement the calculations after each event to analyze the availability of planks for building the required storages.
+
+8. Repeat steps 4-7 for all events in the company.
+
+9. End the process.
+
+Using the provided knowledge description, consider utilizing constructive algorithms, data structures, greedy algorithm, and efficient implementation strategies to construct the solution for Applejack's scenario of building square and rectangular storages.

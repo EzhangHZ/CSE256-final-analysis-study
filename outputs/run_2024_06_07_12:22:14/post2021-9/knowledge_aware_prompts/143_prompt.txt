@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the array.
+
+4. Read n integers a_i and store them in an array a.
+
+5. Initialize max_beauty to 0.
+
+6. Implement a brute force algorithm to iterate through all proper subsegments of the array.
+
+7. For each subsegment, calculate its beauty using the provided formula.
+
+8. Update max_beauty with the maximum beauty found among all proper subsegments.
+
+9. Print max_beauty for each test case.
+
+10. End all loops.

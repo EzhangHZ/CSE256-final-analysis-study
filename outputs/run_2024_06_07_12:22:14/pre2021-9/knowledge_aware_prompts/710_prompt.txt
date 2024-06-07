@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read integers n and m, indicating the lengths of arrays a and b respectively.
+
+2. Read array a, consisting of n integers.
+
+3. Read array b, sorted in ascending order and containing m integers.
+
+4. Initialize a counter variable ways to keep track of the number of ways to divide the array a.
+
+5. Implement a constructive algorithm to determine the number of ways to divide array a into m consecutive subarrays satisfying the conditions mentioned.
+
+6. Start by considering each of the subarrays formed by array b. For each subarray with minimum element b_i, find the number of ways to divide the corresponding section of array a.
+
+7. Utilize combinatorics to calculate the total number of ways by multiplying the ways for each subarray.
+
+8. Print the final count modulo 998244353 as the output.
+
+9. Make sure to consider edge cases and corner cases while implementing the solution.
+
+10. End the algorithm and output the result.

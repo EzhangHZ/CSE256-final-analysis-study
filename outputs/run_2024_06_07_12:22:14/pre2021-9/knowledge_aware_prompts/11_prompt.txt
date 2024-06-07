@@ -1,0 +1,27 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of days Polycarp solved tasks.
+
+4. Read the string of length n, representing the order in which Polycarp solved the tasks.
+
+5. Initialize a set called "solved" to keep track of tasks solved on previous days.
+
+6. Initialize a boolean variable "suspicious" to False.
+
+7. Loop through each day from 1 to n.
+
+8. Check if the current task is already in the "solved" set:
+   - If it is, set "suspicious" to True and break out of the loop.
+   - If not, add the current task to the "solved" set.
+
+9. After the loop, if "suspicious" is True, print "NO"; otherwise, print "YES".
+
+10. End all loops.
+
+
+
+Feel free to reach out if you need further assistance!

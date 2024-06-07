@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Loop $t$ times to read each test case.
+
+3. Read the coordinates $(x_i, y_i)$ of the three vertices of the triangle.
+
+4. Check if it is possible to draw a straight line (horizontal or vertical) to cut the triangle into two non-degenerate triangles.
+
+5. To check if cutting the triangle is possible, look at the relative positions of the vertices:
+    - If all the vertices lie on a horizontal line or a vertical line, print "NO" as it is not possible to cut the triangle into two non-degenerate triangles.
+    - Otherwise, print "YES" as it is possible to draw a suitable line to cut the triangle.
+
+6. Continue to the next test case.
+
+7. End all loops.

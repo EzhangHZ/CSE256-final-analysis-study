@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read x, y, and z, the three positive integers.
+
+4. Check if (x + y + z) % 2 is not zero, print "NO" and continue to the next test case.
+
+5. Calculate a as (x + y - z) / 2, b as (x + z - y) / 2, and c as (y + z - x) / 2.
+
+6. Check if a, b, and c are all positive integers, if so print "YES" followed by any valid triple of positive integers a, b, and c in any order; otherwise, print "NO".
+
+7. End all loops.

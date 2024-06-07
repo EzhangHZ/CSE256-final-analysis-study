@@ -1,0 +1,22 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the initial number of tokens.
+
+4. Read n integers representing the initial magical power of the tokens and store them in a list a.
+
+5. Initialize a variable count to 0 to keep track of the minimum number of operations needed.
+
+6. Loop through a and for each token:
+   - If the token is odd, continue to the next token.
+   - If the token is even, increment count by 1.
+   - If the token is even, perform reduction operation to make it odd and update the token's value.
+
+7. Print the final value of count for each test case.
+
+8. Repeat for all test cases.
+
+This prompt demonstrates the problem-solving approach using constructive algorithms to help Patchouli minimize the number of operations needed to make all tokens have an odd value of magical power.

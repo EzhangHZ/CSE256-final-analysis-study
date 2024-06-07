@@ -1,0 +1,29 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate through each test case:
+
+    a. Read the even integer $n$.
+    
+    b. Read the elements of the array $b$ of length $\frac{n}{2}$.
+    
+    c. Check if there are duplicate elements in $b$. If duplicates exist, print -1 and move to the next test case.
+    
+    d. Create an empty list $p$ to store the permutation.
+    
+    e. Set $p[0] = 1$ as the starting point.
+    
+    f. Iterate over the remaining indices from $1$ to $\frac{n}{2}$:
+    
+        i. Set $p[2i - 1] = b[i - 1]$ and $p[2i] = 0$.
+    
+    g. Assign $b_{\text{min}}$ as the minimum value in $b$.
+    
+    h. Iterate over all indices from 1 to $\frac{n}{2}$:
+    
+        i. If $p[2i] = 0$, find the smallest number greater than $b_{\text{min}}$ that is not present in $p$ and assign it to $p[2i]$.
+    
+    i. At this stage, $p$ should contain the lexicographically minimal permutation. Print $p$.
+    
+3. End of loop over each test case.

@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the permutation.
+
+4. For each test case, calculate the number of beautiful permutations, which have the property $\gcd(1 \cdot p_1, 2 \cdot p_2, \dots, n \cdot p_n) > 1$.
+
+5. Create a function to calculate the number of beautiful permutations modulo $998\,244\,353$.
+
+6. Use combinatorics and number theory concepts to efficiently count the beautiful permutations.
+
+7. Print the number of beautiful permutations for each test case.
+
+8. End the loop.
+
+Remember to utilize combinatorics, math algorithms, and number theory concepts to devise an efficient solution for counting the beautiful permutations in each test case.

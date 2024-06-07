@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate $t$ times to process each test case.
+
+3. Read the number of boxes, $n$.
+
+4. Iterate $n$ times to read the coordinates $(x_i, y_i)$ of each box.
+
+5. Calculate the minimum number of moves required to collect all boxes starting from $(0,0)$.
+
+6. For each box at $(x_i, y_i)$:
+    - If $x_i > 0$, calculate $x_i$ moves by moving right ($+1$ in $x$ direction).
+    - If $x_i < 0$, calculate $-x_i$ moves by moving left ($-1$ in $x$ direction).
+    - If $y_i > 0$, calculate $y_i$ moves by moving up ($+1$ in $y$ direction).
+    - If $y_i < 0$, calculate $-y_i$ moves by moving down ($-1$ in $y$ direction).
+
+7. Output the total minimum number of moves required for each test case.
+
+8. End all loops.
+
+Implement the above steps to find the minimum number of moves needed to collect all boxes in each test case starting from $(0,0)$.

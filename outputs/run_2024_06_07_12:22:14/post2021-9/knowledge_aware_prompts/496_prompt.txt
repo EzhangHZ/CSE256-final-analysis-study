@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read n, the number of rounds.
+2. Read the string s of length n containing the symbols appearing in each round.
+3. Read q, the number of controllers.
+4. Loop q times to read the numbers on the buttons of each controller.
+5. For each controller:
+    1. Initialize score to 0.
+    2. Loop through each round i from 1 to n:
+        - If s_i is '+', increase the score by a_j if button a is pressed, else increase by b_j if button b is pressed.
+        - If s_i is '-', decrease the score by a_j if button a is pressed, else decrease by b_j if button b is pressed.
+    3. If the final score is 0, print "YES"; otherwise, print "NO".
+6. End of loop for each controller.
+
+Remember to handle edge cases and boundary conditions while checking for winnability using each controller.

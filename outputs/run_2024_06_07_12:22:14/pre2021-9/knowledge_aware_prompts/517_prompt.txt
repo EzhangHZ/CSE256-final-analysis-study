@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer $n$.
+
+2. Initialize a list $subseq$ to store the longest subsequence.
+
+3. Loop from $1$ to $n-1$, calculate the product $p = (p \times i) \% n$ where $p$ is the current product.
+
+4. Check if $p \equiv 1 \pmod{n}$ and keep track of the length and elements of the subsequence that leads to $p \equiv 1 \pmod{n}$.
+
+5. Output the length of the longest subsequence found and the elements in increasing order.
+
+6. End.
+
+You may use either the greedy algorithm or number theory to approach this problem.

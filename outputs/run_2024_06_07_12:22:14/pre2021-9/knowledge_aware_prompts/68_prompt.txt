@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the lengths of the two arrays.
+
+4. Read n integers representing the first array elements and store them in a list a.
+
+5. Read m integers representing the second array elements and store them in a list b.
+
+6. Initialize a variable flag to check if a solution exists, initially set to False.
+
+7. Loop over all possible subsequences of a with increasing lengths starting from 1.
+
+8. For each subsequence of a, check if it is also a subsequence of b. If yes, set flag to True and break the loop.
+
+9. If flag is True, print "YES" and the length of the subsequence followed by the subsequence elements. If there are multiple solutions with the smallest length, print any.
+
+10. If flag is False after checking all subsequences, print "NO" indicating that there is no solution.
+
+11. End of loop.
+
+-------------------End-------------------

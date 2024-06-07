@@ -1,0 +1,29 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the array a.
+
+4. Read the elements of the array a.
+
+5. Initialize variables l_max and r_max to store the maximum values of l, r, and difference r-l-c(l,r).
+
+6. Initialize a dictionary to keep track of the last occurrence of each element in the array.
+
+7. Initialize c_max to store the maximum number of distinct elements seen so far.
+
+8. Loop through the elements of the array a.
+
+9. For the current element a[i], update the last occurrence of a[i] in the dictionary and calculate c(l,i) as the number of distinct elements in the subarray a[l:i].
+
+10. Update l and r based on the current element, c(l,i), and the dictionary of last occurrences.
+
+11. If r-l-c(l,r) is greater than r_max-l_max-c(l_max,r_max), update l_max, r_max to l, r.
+
+12. Output l_max, r_max for each test case.
+
+13. End of loop.
+
+Remember that the decision on how to handle multiple solutions is at your discretion.

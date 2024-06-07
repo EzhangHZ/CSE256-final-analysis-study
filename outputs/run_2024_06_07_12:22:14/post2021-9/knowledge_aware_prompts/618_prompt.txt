@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read the string s of length n and the integers w and m for substring length and number of queries.
+
+4. Proceed with m queries, where each query consists of integers $l_i, r_i, k_i$.
+
+5. For each query, find a pair of substrings of length w ($w$ characters in length) that satisfies the conditions:
+    - $L_1 \ne L_2$
+    - $(v(L_1, L_1+w-1) \cdot v(l_i, r_i) + v(L_2, L_2 + w - 1)) \mod 9 = k_i$
+    
+6. Output the left borders of the required substrings $L_1$ and $L_2; otherwise, output -1 -1 if no solution exists.
+
+7. If there are multiple solutions, prioritize minimizing $L_1$, and then minimize $L_2$ if still multiple solutions exist.
+
+8. End all loops.
+
+This prompt involves processing multiple queries related to finding pairs of substrings with specific properties based on the given string and conditions provided in the queries. The aim is to handle this efficiently by considering all possibilities and minimizing the values of $L_1$ and $L_2$ where applicable.

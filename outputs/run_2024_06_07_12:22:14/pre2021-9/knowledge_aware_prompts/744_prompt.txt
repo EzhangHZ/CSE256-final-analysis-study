@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read the size of arrays and the number of segments, denoted as $n$ and $q$.
+   
+2. Read the values of arrays $a$ and $b$ with $n$ elements each.
+   
+3. Read $q$ lines, each containing two integers $l_i$ and $r_i$ representing the edges of segments.
+   
+4. For each segment, determine if it is possible to equalize the values of elements in arrays $a$ and $b.
+
+5. To perform the balancing operation, select an even number of indices such that $l \le pos_1 < pos_2 < \dots < pos_k \le r$. Increment the items of array $a$ at positions $pos_1, pos_3, pos_5, \dots$ by one, and the items of array $b$ at positions $pos_2, pos_4, pos_6, \dots$ by one.
+
+6. Calculate and output the minimal number of balancing operations needed for each segment, or output "-1" if it is impossible to equalize segments of arrays.
+
+Remember to make use of appropriate data structures and dynamic programming techniques to efficiently solve this problem.

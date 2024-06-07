@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of elements in the array and the values for each element.
+
+4. Calculate the prefix sum of the array and store it in a list.
+
+5. Initialize a counter variable to keep track of the minimum number of operations needed.
+
+6. Iterate over the prefix sum list and check for the minimum number of operations required based on the absolute differences between adjacent elements.
+
+7. If changing one integer in the array can reduce the number of operations, consider that option.
+
+8. Print the minimum number of operations required for each test case.
+
+9. End all loops and processing.
+
+Do you want to work on this prompt?

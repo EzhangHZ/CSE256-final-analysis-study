@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read the coordinates of the vertices of the downtown's border, denoted by x1, y1, x2, y2, x3, y3.
+
+5. For each test case, calculate the distances between the vertices to identify the sides of the triangle.
+
+6. Use geometry algorithms to determine the unsafe parts of the downtown border by checking the intersections and validating safe paths.
+
+7. Calculate and output the total length of the unsafe parts of the downtown border for each test case.
+
+8. Ensure that the absolute or relative error of the output does not exceed $10^{-9}$.
+
+9. Continue with the next test case until all cases have been processed.
+
+This prompt focuses on utilizing geometry algorithms to analyze the properties of the given triangles in the downtown area and determine the total length of unsafe parts along the border. Proper implementation and accuracy checking are essential when generating the output results for each test case.

@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer $n$.
+
+2. Initialize a variable `result` to 0.
+
+3. Loop through all possible triples of positive integers $(a, b, c)$ where $a + b + c = n$.
+
+4. For each triple, calculate $\operatorname{lcm}(c, \gcd(a, b))$.
+
+5. Add the calculated value to `result`.
+
+6. After looping through all triples, take the modulo operation of `result` with $10^9 + 7$.
+
+7. Print the result after modulo operation.
+
+8. End the loop.

@@ -1,0 +1,24 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the binary string s.
+
+4. Read the binary string s of length n.
+
+5. Define a function f(x) that calculates the number of good extensions of a given string x.
+
+6. Initialize a variable answer to store the final answer.
+
+7. Initialize a variable mod as 998244353 for modulo operation.
+
+8. Loop from 1 to n:
+    - Calculate f(s[1, i]) for each prefix of s.
+    - Add f(s[1, i]) to the answer.
+    - Update the answer modulo mod after each addition.
+
+9. Output the answer modulo mod for each test case.
+
+10. End all loops.

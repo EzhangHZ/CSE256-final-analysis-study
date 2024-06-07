@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of groups of students.
+
+2. Loop t times to read each group of students.
+
+3. For each group, read k_i, the number of students, followed by the string s_i describing the group of students.
+
+4. Initialize a variable to track the last moment a student becomes angry as 0.
+
+5. Loop over the string s_i from right to left (end of the string to the beginning).
+
+6. If a character is "A", update the last moment a student becomes angry as the maximum between the current position and the previous last moment + 1.
+
+7. After processing the entire string for a group, output the last moment a student becomes angry.
+
+8. End the loop for each group of students.
+
+9. End all loops.
+
+This prompt provides a step-by-step approach to determine the last moment a student becomes angry for each group based on the description of the problem and the given examples.

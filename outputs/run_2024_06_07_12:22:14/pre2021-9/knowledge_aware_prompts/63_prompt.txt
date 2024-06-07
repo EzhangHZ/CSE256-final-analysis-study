@@ -1,0 +1,29 @@
+# Knowledge-Aware Prompt:
+
+1. Read $n$, the number of commands sent by Mezo.
+
+2. Read the string $s$ containing $n$ commands ('L' or 'R').
+
+3. Initialize a set $positions$ to store the different positions Zoma may end up at.
+
+4. Set the initial position of Zoma to $x = 0$.
+
+5. Loop through each command in $s$:
+    - If the command is 'L', decrement the position $x: =x - 1$.
+    - If the command is 'R', increment the position $x: =x + 1$.
+    - Add the current position $x$ to the set $positions$.
+
+6. Print the number of unique positions Zoma may end up at, which is the length of the set $positions$.
+
+7. End.
+
+**Sample Input:**
+```
+4
+LRLR
+```
+
+**Sample Output:**
+```
+5
+```

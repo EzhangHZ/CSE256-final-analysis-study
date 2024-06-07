@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of heroes, $n$.
+
+2. Read the strength of each hero, $a_i$ for $1 \leq i \leq n$.
+
+3. Read the number of dragons, $m$.
+
+4. Loop over each dragon's information.
+
+5. For each dragon, calculate the minimum number of coins needed to defeat it.
+
+6. Determine the hero needed to kill the dragon based on its defense and attack power.
+
+7. For each dragon, print the minimum number of coins required.
+
+8. Continue the loop until all dragons are defeated.
+
+By understanding the rules of the game "Slay the Dragon" and the strength of heroes and dragons, calculate the minimum number of coins needed to defeat each dragon considering one hero kills the dragon and others defend the castle.

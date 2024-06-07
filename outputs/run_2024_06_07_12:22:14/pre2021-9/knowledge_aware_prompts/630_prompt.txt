@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the size of the array a.
+
+4. Read the elements of the array a.
+
+5. Initialize a counter variable to 0 to keep track of the number of tuples.
+
+6. Loop through all possible tuples (i, j, k, l) where 1 ≤ i < j < k < l ≤ n.
+
+7. Check if a[i] = a[k] and a[j] = a[l]. If the conditions are met, increment the counter.
+
+8. Print the final count of valid tuples for each test case.
+
+9. End all loops.
+
+Given the problem statement and knowledge description, the prompt provided involves utilizing brute force to iterate through all possible tuples in the array and check for the specified conditions. Combining the use of basic counting techniques along with brute force can efficiently solve the problem at hand.

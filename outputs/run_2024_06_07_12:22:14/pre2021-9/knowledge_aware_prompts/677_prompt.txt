@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer T, representing the number of test cases.
+
+2. Iterate over each test case (n) from 1 to T.
+
+3. Read the odd integer n for each test case.
+
+4. Calculate the minimum length of a side of the square in which the 2n-gon can be embedded.
+
+5. Handle the rotation of the 2n-gon and/or the square as required.
+
+6. Print the minimum length of the side of the square with absolute or relative error not exceeding $10^{-6}$.
+
+7. Continue with each test case until all T cases are processed.
+
+8. End the program after processing all the test cases.

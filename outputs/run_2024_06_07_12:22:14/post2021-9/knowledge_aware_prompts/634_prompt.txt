@@ -1,0 +1,13 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read s and n, the sum and number of integers to be written on the board.
+
+4. To maximize Alice's sum, iterate from the largest possible number down to 1 and assign it to one of the integers to be written on the board. Update s accordingly.
+
+5. Print the n positive integers on the board that maximize Alice's sum. 
+
+6. End all loops.

@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the length of the combo string and the number of tries.
+
+4. Read the string s consisting of n lowercase Latin letters.
+
+5. Read m integers p representing the positions of mistakes during each try.
+
+6. Create a list ans of length 26 initialized with all zeros to store the number of times each button is pressed.
+
+7. Loop through all test cases.
+
+8. Loop through all tries, keeping track of the starting index of the combo in each try.
+
+9. Calculate the number of times each button is pressed by incrementing the corresponding index in ans.
+
+10. Print the values in ans for each test case.
+
+11. End all loops.

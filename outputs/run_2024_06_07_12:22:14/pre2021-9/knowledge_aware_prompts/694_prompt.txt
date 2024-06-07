@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of points to visit.
+
+4. Read the list of positions r and c for n points in the triangle.
+
+5. Create a graph that represents the connections between points in the triangle, based on the activation of edges.
+
+6. Implement a shortest path algorithm to find the minimum cost path passing through all points in arbitrary order.
+
+7. Output the minimum cost of the path for each test case.
+
+8. Repeat for all test cases.

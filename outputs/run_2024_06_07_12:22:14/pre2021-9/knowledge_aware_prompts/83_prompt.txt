@@ -1,0 +1,29 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read px and py, the coordinates of Planetforces.
+
+4. Read the list of orders s.
+
+5. Initialize variables x and y to 0.
+
+6. Loop through each character in s:
+   - If the character is "U", increment y by 1.
+   - If the character is "D", decrement y by 1.
+   - If the character is "R", increment x by 1.
+   - If the character is "L", decrement x by 1.
+
+7. Calculate the remaining distance to reach Planetforces by subtracting px from x and py from y. Let dx = px - x and dy = py - y.
+
+8. Check if it is possible to delete some orders from s to adjust the final position x and y to reach Planetforces.
+   - If dx is positive, check if 'R' orders can be deleted to reduce dx.
+   - If dx is negative, check if 'L' orders can be deleted to reduce dx.
+   - If dy is positive, check if 'U' orders can be deleted to reduce dy.
+   - If dy is negative, check if 'D' orders can be deleted to reduce dy.
+
+9. If it is possible to delete orders and reach Planetforces, print "YES"; otherwise, print "NO".
+
+10. End all loops.

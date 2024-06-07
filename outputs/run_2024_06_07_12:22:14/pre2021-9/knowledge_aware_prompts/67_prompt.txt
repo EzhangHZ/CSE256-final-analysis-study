@@ -1,0 +1,26 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of reviewers in the testcase.
+
+4. Read the types of reviewers as r1, r2, ..., rn in the same order they entered the site.
+
+5. Initialize count_first_server and count_second_server as 0, representing the total number of upvotes each server can gather.
+
+6. Loop through each reviewer type:
+    - If the reviewer is of type 1, increment count_first_server by 1.
+    - If the reviewer is of type 2, increment count_second_server by 1.
+    - If the reviewer is of type 3, check which server has more downvotes and send the reviewer to that server. Then increment the respective server's count by 1.
+
+7. Calculate the total maximum number of upvotes by adding count_first_server and count_second_server.
+
+8. Print the total maximum number of upvotes for each testcase.
+
+9. End the loop.
+
+10. Move to the next testcase or finish the program.
+
+Remember, as a movie director, your goal is to maximize the number of upvotes for your movie by strategically sending reviewers to the servers.

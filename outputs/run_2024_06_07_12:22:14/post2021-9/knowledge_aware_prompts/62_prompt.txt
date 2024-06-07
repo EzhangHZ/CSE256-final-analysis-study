@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the number of benches and initial energy.
+
+4. Read the distances a_i between each pair of benches.
+
+5. Initialize energy_needed to 0.
+
+6. Loop through each distance a_i:
+   - Calculate the energy needed to travel that distance.
+   - If the energy needed is greater than m, calculate the energy to restore to reach the next bench without running out of energy.
+
+7. After the loop, output the total energy_needed for the current test case.
+
+8. Repeat for all test cases.
+
+By implementing the steps above, you will be able to determine the minimum amount of energy you have to restore to reach the final bench in each test case efficiently.

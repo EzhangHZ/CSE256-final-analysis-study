@@ -1,0 +1,13 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, m, r, and c for each test case.
+
+4. Calculate the minimum number of seconds needed for the prisoners to reach cell (r, c) optimally.
+
+5. Output the minimum number of seconds for each test case.
+
+6. End loop.

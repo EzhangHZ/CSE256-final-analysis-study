@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the number of friends and the number of days to play.
+
+4. Loop m times to read the available friends on each day.
+
+5. Create a dictionary to keep track of how many times each friend is chosen.
+
+6. Loop through the available friends on each day and choose a friend such that nobody is chosen strictly more than (m+1)//2 times.
+
+7. If a valid solution exists, print "YES" followed by the chosen friends for each day. If no such solution exists, print "NO".
+
+8. End all loops.

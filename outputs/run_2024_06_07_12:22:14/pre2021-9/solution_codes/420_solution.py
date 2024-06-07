@@ -1,0 +1,1 @@
+Yes, I can work on this prompt. I will write the solution code based on the provided problem statement and the knowledge-aware prompt. Let's begin with the solution implementation.

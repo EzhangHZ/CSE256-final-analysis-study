@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of participants.
+
+4. Read n integers representing the numbers chosen by each participant and store them in a list a.
+
+5. Create a dictionary to keep track of the count of each number chosen by participants.
+
+6. Loop through the list a and update the counts of each number in the dictionary.
+
+7. Loop through the list a again and check if the count of a number is 1 and it is the minimum unique number.
+
+8. If found, print the index of the participant who chose that number as the winner. If not found, print -1.
+
+9. End all loops.

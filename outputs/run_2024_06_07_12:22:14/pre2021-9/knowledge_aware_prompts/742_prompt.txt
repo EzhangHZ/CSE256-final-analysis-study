@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and k, representing the sum of digits and the step size.
+
+4. Initialize a variable min_x to store the minimum x value meeting the constraint, initially set to -1.
+
+5. Implement a brute force algorithm to find the smallest non-negative integer x such that the sum of digits from x to x+k equals n.
+
+6. For each candidate x, calculate f(x) + f(x+1) + ... + f(x+k) and compare it with the given n.
+
+7. If the sum matches n, update min_x if the current x is smaller.
+
+8. Output the minimum x that meets the constraint or -1 if no such x exists.
+
+9. End all loops.
+
+Does this prompt capture the essence of the problem correctly?

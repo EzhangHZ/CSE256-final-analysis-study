@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read integers $n$ and $m$, representing the length of permutations and the prime number modulo respectively.
+
+2. Calculate the sum of happiness for all permutations of length $n$ modulo the prime number $m$.
+
+3. Loop through all permutations of length $n$.
+
+4. For each permutation, determine the number of framed segments.
+
+5. Sum up the happiness values across all permutations.
+
+6. Print the result modulo the prime number $m$ as the output.
+
+7. Understand combinatorics and mathematics algorithms to efficiently compute and iterate through permutations.
+
+8. Implement efficient algorithms to handle factorial computations and modulo operations on large numbers.

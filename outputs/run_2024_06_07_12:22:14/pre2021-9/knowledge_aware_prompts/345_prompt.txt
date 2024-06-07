@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read a, b, n, and m - the number of vanilla cookies, chocolate cookies, guests of the first type, and guests of the second type respectively.
+
+4. Check if each test case input satisfies the conditions (0 ≤ a, b, n, m ≤ 10^18, and n + m ≠ 0). If not, skip that test case.
+
+5. Implement a greedy algorithm to determine if there exists a valid order of guests such that no guest gets angry.
+
+6. For each guest, calculate the type of cookie they choose based on the current number of vanilla and chocolate cookies.
+
+7. If there is at least one cookie of the selected type, let the guest eat one cookie. Otherwise, return "No" as the guest will get angry.
+
+8. Continue this process for all guests in a given order.
+
+9. If all guests can eat cookies without getting angry, print "Yes" for that test case; otherwise, print "No".
+
+10. Repeat this process for all test cases.
+
+11. End.

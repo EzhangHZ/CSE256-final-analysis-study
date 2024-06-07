@@ -1,0 +1,20 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer t, denoting the number of test cases.
+
+2. Iterate t times to process each test case.
+
+3. Read the integer k for each test case.
+
+4. Initialize a variable count to 0.
+
+5. Start a loop to generate positive integers that Polycarp likes:
+   - Increment count by 1 in each iteration.
+   - Check if count is not divisible by 3 and does not end with the digit 3.
+   - If the conditions are met, increment the sequence number by 1.
+
+6. Once the k-th element in the sequence is generated, print it.
+
+7. Repeat the process for each test case.
+
+8. End all loops.

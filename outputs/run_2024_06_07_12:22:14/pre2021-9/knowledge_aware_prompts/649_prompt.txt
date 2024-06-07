@@ -1,0 +1,8 @@
+# Knowledge-Aware Prompt:
+
+1. Read n, the length of the string.
+2. Read the string s of length n.
+3. Initialize a variable swaps to 0 to keep track of the number of swaps needed.
+4. Loop through the first half of the string (n//2 times).
+5. Compare the characters at positions i and n-i-1. If they are not equal, increment swaps by abs(i - (n-i-1)).
+6. Print the value of swaps as the minimum number of swaps required to reverse the string.

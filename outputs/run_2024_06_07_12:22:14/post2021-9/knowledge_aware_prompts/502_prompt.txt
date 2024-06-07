@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop over each test case:
+
+   a. Read n and k, the number of vertices in the tree and the number of operations.
+   
+   b. Read the descriptions of n-1 edges connecting vertices in the tree.
+   
+   c. Build the tree data structure based on the input.
+   
+   d. Apply k operations on the tree to remove leaves iteratively.
+   
+   e. Count and output the number of vertices remaining in the tree after the operations.
+
+3. End loop.

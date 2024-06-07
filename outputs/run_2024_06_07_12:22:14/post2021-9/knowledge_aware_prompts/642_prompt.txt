@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, x, and y, the length of the strings and costs per operation.
+
+4. Read the binary strings a and b, each of length n.
+
+5. Initialize a counter variable for each test case to keep track of the minimum cost needed.
+
+6. Check if the binary strings a and b are equal. If they are, print 0 and move on to the next test case.
+
+7. Initialize a table dp of length n+1, where dp[i] represents the minimum cost needed to make prefixes of length i of a equal to prefixes of length i of b.
+
+8. Apply dynamic programming to update dp table with the minimum cost needed for each prefix.
+
+9. Initialize a greedy algorithm to iterate through indices l and r, updating the minimum cost when necessary based on the prefixes of a and b.
+
+10. If it is not possible to make a equal to b, print -1. Otherwise, print the minimum cost needed.
+
+11. End all loops and move to the next test case.
+
+Remember to carefully analyze and design the algorithms to efficiently solve the problem.

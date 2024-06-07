@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read the input integer $n$, denoting the number of elements in the multiset.
+
+2. Read the second line containing $n$ integers $a_1, a_2, ..., a_n$, representing the initial count of each element in the multiset.
+
+3. Determine the minimum number of operations required to delete all elements from the multiset.
+
+4. Apply two types of operations as described:
+   - Operation 1: Choose two integers $l$ and $r$, then remove one occurrence of $l$, one occurrence of $l + 1$, ..., one occurrence of $r$ from the multiset.
+   - Operation 2: Choose two integers $i$ and $x$, then remove $x$ occurrences of $i$ from the multiset.
+
+5. Output the minimum number of operations required to delete all elements from the multiset.
+
+6. Analyze the problem using data structures, divide and conquer, dynamic programming, and greedy algorithms to optimize the solution.
+
+7. Efficiently design a solution based on the knowledge of data structures and algorithms mentioned above to tackle the problem of deleting all elements from the multiset with minimum operations.

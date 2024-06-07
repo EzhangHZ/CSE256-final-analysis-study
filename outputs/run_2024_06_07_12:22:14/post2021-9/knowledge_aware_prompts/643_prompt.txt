@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read $n$ and $k$, the length of the string and the number of 1s in the substring.
+
+2. Read the binary string $s$.
+
+3. Initialize a counter variable to keep track of the number of different strings.
+
+4. If $k$ is 0, output 1 as the only string that can be obtained is the original string $s$ itself.
+
+5. Otherwise, loop through all possible substrings of length $k$ that consist of 1s.
+
+6. For each substring, calculate the number of ways to rearrange the 1s within the substring (factorial of the number of 1s in the substring).
+
+7. Multiply the number of ways with the number of ways to rearrange the remaining characters in the string.
+
+8. Increment the counter by the result calculated in the previous step.
+
+9. After looping through all substrings, output the final counter modulo $998244353$ as the number of different strings that can be obtained from $s$ by performing the operation at most once.

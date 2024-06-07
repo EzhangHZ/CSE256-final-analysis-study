@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of vertices in the tree.
+
+4. Read the weights of each vertex and store them in a list.
+
+5. Read n-1 edges connecting the vertices to form the tree.
+
+6. Implement data structures to represent the tree, such as adjacency list or tree data structure.
+
+7. For each k from 1 to n-1, calculate the maximal value of a k-coloring of the tree.
+
+8. Use greedy algorithms to optimize the assignment of colors to edges for each k-value.
+
+9. Calculate the value of connected components and subgraphs based on the assigned colors.
+
+10. Print the maximal value of a k-coloring for each k in a single line separated by spaces for each test case.
+
+11. End all loops and output the results.
+
+This prompt involves utilizing data structures to represent the tree, implementing greedy algorithms for optimization, and applying sorting techniques to solve the maximal value of a k-coloring problem in tree structures.

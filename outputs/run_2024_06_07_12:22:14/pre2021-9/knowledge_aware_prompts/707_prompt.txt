@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and k, the length of lists and the minimum required total intersection.
+
+4. Read l1 and r1, the initial segment for [al_i, ar_i].
+
+5. Read l2 and r2, the initial segment for [bl_i, br_i].
+
+6. Check if the initial total intersection I is already greater or equal to k. If it is, print "0" and continue to the next test case.
+
+7. Calculate the minimum number of steps needed to make I greater or equal to k by extending the segments in the lists. Keep track of the sum of lengths of intersections of corresponding pairs of segments.
+
+8. Print the minimum number of steps needed for each test case.
+
+9. End all loops.

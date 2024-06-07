@@ -1,0 +1,13 @@
+# Knowledge-Aware Prompt:
+
+1. Read integers n and k, representing the number of rounds in the tournament and the number of outcomes that sponsors can change.
+
+2. Determine the minimum number of the winner in the tournament, which Madoka can get regardless of changes in sponsors. This involves setting up the tournament grid and considering the possible outcomes of matches.
+
+3. Utilize combinatorics and constructive algorithms to calculate the minimum number of the winner modulo 10^9 + 7. 
+
+4. Output the computed integer as the final result.
+
+5. Consider using math algorithms for necessary calculations throughout the process.
+
+Implement the algorithm and compute the minimum number of the winner in the tournament based on the provided input constraints and guidelines.

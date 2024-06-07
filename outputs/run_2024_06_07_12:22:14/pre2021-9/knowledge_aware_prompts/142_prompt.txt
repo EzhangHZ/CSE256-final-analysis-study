@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of daughters, necklaces, and bracelets.
+
+4. Read the brightnesses of the necklaces and store them in an array a.
+
+5. Read the brightnesses of the bracelets and store them in an array b.
+
+6. Create two empty arrays x and y to store the brightnesses of necklaces and bracelets for each daughter.
+
+7. Sort the arrays a and b in non-decreasing order.
+
+8. Assign the smallest value of a to the first daughter, and the smallest value of b to the second daughter. Continue this assignment in a constructive manner to ensure the sums x_i + y_i are pairwise distinct.
+
+9. Print the brightnesses of the necklaces for each daughter in array x.
+
+10. Print the brightnesses of the bracelets for each daughter in array y.
+
+11. Repeat steps 2-10 for all test cases.
+
+This prompt utilizes the knowledge of constructive algorithms, sorting, and arrays to efficiently distribute the gifts to Kuroni's daughters while ensuring the uniqueness of total brightnesses received by each daughter.

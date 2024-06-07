@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer t, denoting the number of test cases.
+
+2. Loop over each test case and read the integers n and k, representing the length of sequence a and its maximum, respectively.
+
+3. Check if within the range k $\leq$ n < 2k and if k $\leq$ $10^5$ holds true. If not, proceed to the next test case.
+
+4. Create a sequence a according to the description.
+
+5. Construct a permutation p of size k that maximizes sequence b lexicographically, considering the total number of inversions.
+
+6. Output the permutation p for each test case.
+
+7. Repeat steps 2-6 for all test cases.
+
+8. End all loops.

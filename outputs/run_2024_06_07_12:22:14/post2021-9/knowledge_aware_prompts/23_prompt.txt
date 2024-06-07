@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the total number of blocks for the pedestal.
+
+4. Define the constraints: $6 \le n \le 10^5$.
+
+5. Find the minimum height for the platform of the 1-st place given n blocks.
+
+6. Develop a constructive algorithm to build the pedestal with the given constraints.
+
+7. Use greedy approach to select the best available option at each step for the pedestal construction.
+
+8. Output 3 numbers $h_2$, $h_1$, $h_3$ representing the platform heights for the 2-nd, 1-st, and 3-rd places on the pedestal.
+
+9. Ensure $h_1 + h_2 + h_3 = n$ and $0 < h_3 < h_2 < h_1$.
+
+10. If multiple solutions exist with minimum $h_1$, output any of them.
+
+11. End loop after processing all test cases.

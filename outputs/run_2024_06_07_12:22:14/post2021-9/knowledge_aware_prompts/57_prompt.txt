@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of stages in the playoff tournament.
+
+4. Initialize a variable "winner" with the value 1 to keep track of the current winner's index.
+
+5. Loop n times, representing each stage of the tournament.
+
+6. Set the new "winner" value based on the current logic of determining the winner in each stage.
+
+7. Print the final "winner" value after all stages are completed.
+
+8. End all loops.

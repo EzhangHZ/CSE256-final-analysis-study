@@ -1,0 +1,79 @@
+# Problem:
+
+Polycarp has a poor memory. Each day he can remember no more than $3$ of different letters.
+
+Polycarp wants to write a non-empty string of $s$ consisting of lowercase Latin letters, taking minimum number of days. In how many days will he be able to do it?
+
+Polycarp initially has an empty string and can only add characters to the end of that string.
+
+For example, if Polycarp wants to write the string "lollipops," he will do it in $2$ days:
+
+- On the first day, Polycarp will memorize the letters "l," "o," "i" and write "lolli."
+- On the second day, Polycarp will remember the letters "p," "o," "s," add "pops" to the resulting line and get the line "lollipops."
+
+If Polycarp wants to write the string "stringology," he will do it in $4$ days:
+
+- On the first day, part "str" will be written.
+- On the second day, part "ing" will be written.
+- On the third day, part of "olog" will be written.
+- On the fourth day, part of "y" will be written.
+
+For a given string $s$, print the minimum number of days it will take Polycarp to write it.
+
+-----Input-----
+
+The first line of input data contains a single integer $t$ ($1 \le t \le 10^4$) — the number of test cases.
+
+Each test case consists of a non-empty string $s$ consisting of lowercase Latin letters (the length of the string $s$ does not exceed $2 \cdot 10^5$) — the string Polycarp wants to construct.
+
+It is guaranteed that the sum of string lengths $s$ over all test cases does not exceed $2 \cdot 10^5$.
+
+
+-----Output-----
+
+For each test case, print a single number — minimum number of days it will take Polycarp to write the string $s$ from memory.
+
+-----Examples-----
+
+Input
+6
+lollipops
+stringology
+abracadabra
+codeforces
+test
+f
+
+Output
+2
+4
+3
+4
+1
+1
+
+-----Note-----
+
+None
+
+# Knowledge Description:
+
+"greedy": The greedy algorithm is a heuristic approach that selects the best available option at each step without considering the long-term impact. It is useful for optimization problems where finding an exact solution is intractable, but may not always lead to the optimal solution. Greedy algorithms are easy to implement and efficient.
+
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to process each test case.
+
+3. Read the non-empty string s for each test case.
+
+4. Initialize a counter variable days to 1.
+
+5. Loop through each character in the string s and keep track of the distinct characters Polycarp memorizes.
+
+6. Increment the days counter whenever Polycarp needs to memorize more than 3 distinct characters.
+
+7. Output the final count of days for each test case.
+
+8. End of loop.

@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, c, and q, representing the initial length of string s, the number of copy-pasting operations, and the number of queries, respectively.
+
+4. Read the initial string s of length n.
+
+5. Loop c times to read the copy-pasting operations, each described by two integers l and r.
+
+6. Perform the copy-pasting operations on string s according to the given l and r values.
+
+7. Loop q times to read the queries, each containing an integer k.
+
+8. For each query, print the k-th letter of the final string s.
+
+End of loop for each test case.

@@ -1,0 +1,22 @@
+# Knowledge-Aware Prompt:
+
+1. Read n, the number of bosses, and k, the number of resets allowed.
+
+2. Read the point increments of the n bosses and store them in a list c.
+
+3. Initialize variables max_score and temp_score to track the maximum score and temporary score.
+
+4. Loop through each boss:
+    a. Calculate the temporary score by adding the boss bonus to Wabbit's score.
+    b. Update the boss bonus by adding the point increment of the current boss.
+    
+5. If k is greater than 0, consider the possibility of resetting:
+    a. Loop through each boss again:
+        i. Calculate the temporary score by adding the boss bonus to Wabbit's score.
+        ii. Update the boss bonus by adding the point increment of the current boss.
+        iii. If the temporary score is greater than the max_score, update max_score.
+        iv. Reset the boss bonus to 0.
+   
+6. Print the maximum score, max_score, that Wabbit can obtain by defeating all n bosses.
+
+7. End the loop and output the result.

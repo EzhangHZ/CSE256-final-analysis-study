@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read l and r, the range of the array.
+
+4. Read the elements of the array a and store them.
+
+5. Calculate the xor of all elements in the array.
+
+6. The secret integer x is the xor value calculated in step 5.
+
+7. Output the integer x.
+
+8. End the loop.

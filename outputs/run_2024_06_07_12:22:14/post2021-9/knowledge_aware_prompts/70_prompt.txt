@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of digits Monocarp remembers were not used in the password.
+
+4. Read the n different integers representing the digits not used in the password.
+
+5. Calculate the number of different 4-digit sequences that meet the constraints considering Monocarp's password requirements.
+
+6. Print the number of different sequences for each test case.
+
+7. End loop.

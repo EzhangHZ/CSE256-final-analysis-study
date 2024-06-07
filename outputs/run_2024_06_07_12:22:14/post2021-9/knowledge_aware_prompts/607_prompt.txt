@@ -1,0 +1,71 @@
+# Problem:
+
+This problem is a complicated version of D1, but it has significant differences, so read the whole statement.
+
+Polycarp has an array of $n$ ($n$ is even) integers $a_1, a_2, \dots, a_n$. Polycarp conceived of a positive integer $k$. After that, Polycarp began performing the following operations on the array: take an index $i$ ($1 \le i \le n$) and reduce the number $a_i$ by $k$.
+
+After Polycarp performed some (possibly zero) number of such operations, it turned out that at least half of the numbers in the array became the same. Find the maximum $k$ at which such a situation is possible, or print $-1$ if such a number can be arbitrarily large.
+
+
+-----Input-----
+
+The first line contains one integer $t$ ($1 \le t \le 10$) — the number of test cases. Then $t$ test cases follow.
+
+Each test case consists of two lines. The first line contains an even integer $n$ ($4 \le n \le 40$) ($n$ is even). The second line contains $n$ integers $a_1, a_2, \dots a_n$ ($-10^6 \le a_i \le 10^6$).
+
+It is guaranteed that the sum of all $n$ specified in the given test cases does not exceed $100$.
+
+
+-----Output-----
+
+For each test case output on a separate line an integer $k$ ($k \ge 1$) — the maximum possible number that Polycarp used in operations on the array, or $-1$, if such a number can be arbitrarily large.
+
+
+-----Examples-----
+
+Input
+4
+6
+48 13 22 -15 16 35
+8
+-1 0 1 -1 0 1 -1 0
+4
+100 -1000 -1000 -1000
+4
+1 1 1 1
+Output
+13
+2
+-1
+-1
+
+
+-----Note-----
+
+None
+
+# Knowledge Description:
+
+"brute force":"Brute force is a straightforward approach to problem-solving that exhaustively searches all possible solutions. It involves systematically testing each possible solution until the correct one is found. This approach is often used when the problem size is small, or when other methods are not feasible. Brute force can be computationally expensive and impractical for large-scale problems, but it is guaranteed to find the optimal solution, if one exists. It is commonly used in algorithm design for testing and benchmarking."
+
+"math":"Math algorithms are computational procedures used to perform mathematical operations, such as arithmetic, geometry, calculus, and algebra. They are used to solve mathematical problems and model real-world phenomena. Math algorithms include numerical methods, optimization techniques, and statistical analysis. They are essential in fields such as computer graphics, cryptography, finance, and engineering."
+
+"number theory":"Number theory is a branch of mathematics focused on the properties and relationships of numbers, particularly integers. Number theory algorithms are used to solve problems such as finding the factors of a number, determining whether a number is prime, or calculating the greatest common divisor or least common multiple of two numbers. Number theory algorithms can be simple or complex, and may require specialized techniques such as modular arithmetic or the Euclidean algorithm. Number theory is used in a variety of applications, including cryptography, data encryption, and computer security."
+
+# Knowledge-Aware Prompt:
+
+1.Read t, the number of test cases.
+
+2.Loop t times to read each test case.
+
+3.Read n, the size of the array, and the array a.
+
+4.Initialize max_k as -1.
+
+5.Loop from 1 to the maximum absolute value in a. For each k value, check if reducing half or more elements by k leaves at least half of them equal. Update max_k if it's a valid k.
+
+6.Output max_k after the loop completes.
+
+7.Repeat the process for all test cases.
+
+8.End the loop.

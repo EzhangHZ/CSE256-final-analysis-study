@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the permutation.
+
+4. Read the elements of the permutation and store them in a list a.
+
+5. Check if the permutation is already sorted. If sorted, output 0 and continue to the next test case.
+
+6. Implement a constructive algorithm to find the minimum number of special exchanges needed to sort the permutation.
+
+7. Keep track of the number of exchanges required.
+
+8. Loop through the permutation and find the segments that need to be exchanged.
+
+9. Perform special exchanges on the identified segments to sort the permutation.
+
+10. Output the minimum number of special exchanges needed for each test case.
+
+11. End all loops.

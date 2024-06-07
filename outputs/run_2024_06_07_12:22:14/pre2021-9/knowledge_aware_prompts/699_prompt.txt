@@ -1,0 +1,10 @@
+# Knowledge-Aware Prompt:
+
+1. Read the initial length of the array, n.
+2. Read the initial array elements, a1, a2, ..., an.
+3. Initialize a counter variable, length, to 0.
+4. Loop through the array elements from index 1 to n-1.
+5. Check if the current element is equal to the next element.
+6. If they are equal, increment the current element by 1 and update the array.
+7. Increase the length count by 1.
+8. After processing all elements, print the final minimum possible length obtained.

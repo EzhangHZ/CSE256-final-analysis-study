@@ -1,0 +1,23 @@
+# Knowledge-Aware Prompt:
+
+1. Read q, the number of test cases.
+
+2. Loop q times to read each test case.
+
+3. Read n, the length of strings s and t.
+
+4. Read string s and string t.
+
+5. Check if the number of 'a's in s is not equal to the number of 'a's in t. If it is not equal, print "NO" and continue to the next test case.
+
+6. Check if the number of 'b's in s is not equal to the number of 'b's in t. If it is not equal, print "NO" and continue to the next test case.
+
+7. Check if the number of 'c's in s is not equal to the number of 'c's in t. If it is not equal, print "NO" and continue to the next test case.
+
+8. Initialize a variable diff to 0.
+
+9. Loop over the characters of s and t simultaneously, if a pair of characters at the same position is not the same, update diff based on the conditions mentioned in the problem.
+
+10. After the loop, if diff is even, print "YES"; otherwise, print "NO".
+
+11. End all loops.

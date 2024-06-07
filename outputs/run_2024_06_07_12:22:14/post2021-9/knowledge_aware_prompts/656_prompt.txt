@@ -1,0 +1,11 @@
+# Knowledge-Aware Prompt:
+
+1. Read N and P, the total number of maps in the game and the probability Johnny wants to achieve.
+
+2. Calculate the probability of not playing any of the maps Johnny studied, which is (1 - P).
+
+3. Determine the minimum number of maps Johnny needs to study to achieve the desired probability P. This can be calculated by the formula: $N - \lceil N * (1 - P) \rceil$.
+
+4. Output the minimum number of maps Johnny needs to study.
+
+5. End the process.

@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, m, and k - the field size and the minimum size of the ticks.
+
+4. Read the field description and store it.
+
+5. Check if there are any cells that cannot be part of any ticks due to the position or surrounding cells. If found, print "NO" and continue to the next test case.
+
+6. Loop through the field to find ticks of sizes at least k. Paint the cells black accordingly.
+
+7. If all ticks can be drawn as per the conditions, print "YES"; otherwise, print "NO".
+
+8. End all loops.

@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, m, and k, the size of the board and the number of cards.
+
+4. Read the array a representing the numbers written on the cards.
+
+5. Create a set s and initialize it with values from 1 to k.
+
+6. Create two dictionaries, d1 and d2, to track the position of cards on the board.
+
+7. Loop through the array a and update the positions of the cards in dictionaries d1 and d2.
+
+8. Check if the positions of cards in d1 and d2 are valid based on the rules mentioned in the problem statement.
+
+9. If all conditions are met, print "YA"; otherwise, print "TIDAK".
+
+10. End all loops.

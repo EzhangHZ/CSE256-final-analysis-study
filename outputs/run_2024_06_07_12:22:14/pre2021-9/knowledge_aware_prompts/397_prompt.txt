@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the string level, and the string representing the level.
+
+4. Initialize a variable to count the minimum number of moves needed to complete the level.
+
+5. Start from the left end of the string and find the first sheep position and its index.
+
+6. Move all subsequent sheep to the right, increasing the move count by the difference between the current sheep's index and the previous one.
+
+7. Continue this process until all sheep are lined up in the string level.
+
+8. Print the total number of moves needed to complete the level for each test case.
+
+9. End all loops.

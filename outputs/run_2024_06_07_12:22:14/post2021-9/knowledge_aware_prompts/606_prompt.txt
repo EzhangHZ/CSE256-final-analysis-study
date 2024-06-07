@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read the depth of the well, `n`.
+
+2. Read the maximum jump heights for each meter below ground level in the form of a list, `a`.
+
+3. Read the distances Gorf will slip down if he takes a break for each meter below ground level in the form of a list, `b`.
+
+4. Implement a dynamic programming approach to calculate the minimum number of jumps needed for Gorf to reach ground level.
+
+5. Create a DP array of size `n+1` initialized with a large value, except for the starting position which is set to 0.
+
+6. Iterate over each height below ground level, updating the DP values based on the minimum jumps required to reach that height.
+
+7. Keep track of the jumps taken and the sequence of depths reached before each jump.
+
+8. If Gorf can't reach ground level (DP[n] is still a large value), print `-1`. Otherwise, print the minimum number of jumps needed and the sequence of depths reached before each jump.
+
+9. End the program.
+
+Choose the appropriate algorithm and data structure to efficiently solve the problem of Gorf reaching ground level from a certain depth in the well.

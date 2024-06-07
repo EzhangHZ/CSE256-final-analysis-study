@@ -1,0 +1,36 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases $t$.
+
+2. Iterate over each test case.
+
+3. Read the dimensions of the grid $n$ and $m$.
+
+4. Check if it is impossible to reach $(n, m)$ directly. If so, print $-1$ and move to the next test case.
+
+5. For reachable cases, calculate the minimum number of moves required to reach $(n, m)$ from $(1, 1)$ without moving in the same direction consecutively.
+
+6. Print the minimum number of moves for each test case.
+
+7. Continue until all test cases are processed.
+
+Input
+```
+6
+1 1
+2 1
+1 3
+4 2
+4 6
+10 5
+```
+
+Output
+```
+0
+1
+-1
+6
+10
+17
+```

@@ -1,0 +1,69 @@
+# Problem:
+
+Skier rides on a snowy field. Its movements can be described by a string of characters 'S', 'N', 'W', 'E' (which correspond to $1$ meter movement in the south, north, west or east direction respectively).
+
+It is known that if he moves along a previously unvisited segment of a path (i.e. this segment of the path is visited the first time), then the time of such movement is $5$ seconds. If he rolls along previously visited segment of a path (i.e., this segment of the path has been covered by his path before), then it takes $1$ second.
+
+Find the skier's time to roll all the path.
+
+
+-----Input-----
+
+The first line contains an integer $t$ ($1 \le t \le 10^4$) — the number of test cases in the input. Then $t$ test cases follow.
+
+Each set is given by one nonempty string of the characters 'S', 'N', 'W', 'E'. The length of the string does not exceed $10^5$ characters.
+
+The sum of the lengths of $t$ given lines over all test cases in the input does not exceed $10^5$.
+
+
+-----Output-----
+
+For each test case, print the desired path time in seconds.
+
+
+-----Examples-----
+
+Input
+5
+NNN
+NS
+WWEN
+WWEE
+NWNWS
+Output
+15
+6
+16
+12
+25
+
+
+-----Note-----
+
+None
+
+# Knowledge Description:
+
+"data structures":"Data structures are arrangements of data in a computer's memory that enable efficient access, storage, and manipulation of information. They provide a means for organizing and managing data, and are essential for efficient algorithm design. Examples of data structures include arrays, linked lists, stacks, queues, trees, and graphs. Each data structure has its own advantages and disadvantages, and selecting the appropriate structure depends on the nature of the data and the operations to be performed on it."
+
+"implementation":"Implementation is the process of translating a design or specification into a working program. It involves writing code, compiling and testing the program, and integrating it with other systems. Implementation also includes documenting the code and providing user support. Good implementation requires attention to detail, adherence to coding standards, and the ability to adapt to changing requirements. Effective implementation leads to a reliable and maintainable software system."
+
+# Knowledge-Aware Prompt:
+
+1.Read t, the number of test cases.
+
+2.Loop t times to read each test case string.
+
+3.Initialize time variable as 0 to store the total time.
+
+4.Initialize a set to keep track of visited segments.
+
+5.Loop through the characters in the string:
+   - If the current segment is unvisited, add 5 seconds to the time and mark it as visited.
+   - If the current segment is already visited, add 1 second to the time.
+
+6.Print the final time for the test case.
+
+7.Repeat for all test cases.
+
+8.End.

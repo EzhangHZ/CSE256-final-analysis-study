@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read three distinct integers a, b, and c.
+
+4. Determine the medium number between a, b, and c.
+
+5. Output the medium number for each test case.
+
+6. End loop.
+
+This prompt involves determining the medium number between three distinct integers in each test case and outputting the result. The medium number is defined as the number that is neither the minimum nor the maximum of the given three numbers.

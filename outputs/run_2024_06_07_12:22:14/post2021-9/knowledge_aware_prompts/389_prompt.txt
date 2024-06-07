@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer $t$, denoting the number of test cases.
+
+2. Loop through each test case.
+
+3. Read the integer $n$, the length of the array.
+
+4. Read the elements of the array $a$ with length $n$.
+
+5. For each test case, determine if there exist three distinct indices $i$, $j$, $k$ such that $a_i + a_j + a_k$ ends in the digit $3$.
+
+6. Implement a brute force approach to exhaustively search all possible combinations of $i$, $j$, $k$ within the given array.
+
+7. Output "YES" if there exist such distinct indices $i$, $j$, $k$ satisfying the constraint, and "NO" otherwise.
+
+8. Repeat the process for all test cases.
+
+-------------------End-------------------

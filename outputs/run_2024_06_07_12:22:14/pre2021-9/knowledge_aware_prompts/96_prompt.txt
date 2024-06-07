@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read n and q, the length of the song and the number of questions.
+
+2. Read the string s representing the song.
+
+3. Read q lines, each containing two integers l and r representing the bounds of a question.
+
+4. Iterate through each question.
+
+5. For each question, consider the substring of the song from the l-th to the r-th letter.
+
+6. Repeat each letter in the subsegment k times, where k is the index of the corresponding letter in the alphabet.
+
+7. Calculate the length of the resulting string and output it.
+
+8. End all loops.

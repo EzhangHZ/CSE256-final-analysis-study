@@ -1,0 +1,13 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+2. Iterate through each test case.
+3. Read the length of the array, $n$.
+4. Read the elements of the array, $a_i$, where $1 \leq i \leq n$ and $|a_i| \leq 2$.
+5. Initialize variables to keep track of the maximum product, $max_product$, and the indices to remove elements from the beginning and end, $start$ and $end$.
+6. Implement a brute force approach to try all possible combinations of removing elements from the beginning and end.
+7. Calculate the product of the array elements after removing $x$ elements from the beginning and $y$ elements from the end.
+8. Update $max_product$ and the indices $start$ and $end$ if a higher product is found.
+9. Output the values of $start$ and $end$ that result in the maximum product of elements for each test case.
+
+Now, you can write a program that follows this prompt to solve the problem efficiently.

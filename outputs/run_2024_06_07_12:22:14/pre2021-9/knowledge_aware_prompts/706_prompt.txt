@@ -1,0 +1,13 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read x, y, a, and b representing the number of red candies, blue candies, red candies per gift set, and blue candies per gift set, respectively.
+
+4. Calculate the maximum number of gift sets Polycarp can make using the formula: $min(x//a, y//b)$, where "//" denotes integer division.
+
+5. Output the result from step 4 for each test case.
+
+6. End all loops.

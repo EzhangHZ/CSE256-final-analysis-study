@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of songs.
+
+4. Read n integers representing the genres of the songs and store them in a list a.
+
+5. Initialize a new list del_songs to store the deleted songs.
+
+6. Loop through the songs based on the rules provided: calculate gcd between the last listened song and current song, if gcd is 1, delete the last listened song.
+
+7. Continue this process until all songs are processed based on the rules.
+
+8. Print the number of deleted songs and the deleted songs in order.
+
+9. Repeat for each test case.
+
+10. End of loop.

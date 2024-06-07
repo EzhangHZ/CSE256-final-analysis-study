@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integers $n$ and $k$, representing the number of cities and industry cities, respectively.
+
+2. Read the details of the $n-1$ roads connecting the cities.
+
+3. Construct a tree data structure based on the given roads.
+
+4. Implement a DFS (depth-first search) algorithm to traverse the tree and calculate the sum of happinesses for all envoys.
+
+5. Keep track of the number of tourism cities on each envoy's path and compute their cumulative happiness.
+
+6. As Linova plans to choose exactly $k$ cities for industry development, focus on selecting the optimal $k$ cities that maximize the sum of happinesses.
+
+7. Utilize dynamic programming (DP) to store intermediate results and optimize the solution for selecting the industry cities.
+
+8. Output the maximum possible sum of happinesses of all envoys based on the chosen cities for industry development.
+
+9. Consider using greedy algorithms and sorting techniques for further optimization if necessary.
+
+10. End all loops and algorithms to finalize the queen's decision on city development strategy.

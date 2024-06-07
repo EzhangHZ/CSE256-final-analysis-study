@@ -1,0 +1,57 @@
+# Problem:
+
+Given an array $a$ of $n$ integers, you are allowed to perform the following operation on it as many times as you want:
+
+Choose $2$ indices $i$ and $j$ where $1 \le i < j \le n$ and replace $a_k$ for all $i \leq k \le j$ with $|a_i - a_j|$.
+
+Print the maximum sum of all the elements of the final array that you can obtain in such a way.
+
+
+-----Input-----
+
+The first line contains a single integer $t$ ($1 \le t \le 10^5$) — the number of test cases.
+
+For each test case:
+
+The first line contains a single integer $n$ ($2 \le n \le 2 \cdot 10^5$) — the length of the array $a$.
+
+The second line contains $n$ integers $a_1, a_2, \ldots, a_n$ ($1 \le a_i \le 10^9$) — the elements of array $a$.
+
+It's guaranteed that the sum of $n$ over all test cases does not exceed $2 \cdot 10^5$.
+
+
+-----Output-----
+
+For each test case, print the sum of the final array.
+
+
+-----Examples-----
+
+Input
+3
+3
+1 1 1
+2
+9 1
+3
+4 9 5
+Output
+3
+16
+18
+
+-----Note-----
+
+In the first test case, it is not possible to achieve a sum $> 3$ by using these operations, therefore the maximum sum is $3$.
+
+In the second test case, the maximum sum achievable is $16$. By using operation $(1,2)$ the array transforms from $[9,1]$ to $[8,8]$.
+
+In the third test case, achieving a sum $> 18$ is not possible, hence the maximum sum is $18$.
+
+# Knowledge Description:
+
+Brute Force: Brute force is a straightforward approach to problem-solving that exhaustively searches all possible solutions. It involves systematically testing each possible solution until the correct one is found. Brute force can be computationally expensive but guarantees to find the optimal solution.
+
+Constructive Algorithms: Constructive algorithms build a solution step-by-step, creating an optimal or near-optimal solution gradually. They are used in optimization problems where finding a feasible solution is sufficient. Constructive algorithms start with an empty solution and iteratively add elements to achieve a feasible solution.
+
+Greedy: A greedy algorithm is a heuristic approach that selects the best available option at each step without considering the long-term impact. It is useful for optimization problems and is efficient, though it may not always lead to the optimal solution.

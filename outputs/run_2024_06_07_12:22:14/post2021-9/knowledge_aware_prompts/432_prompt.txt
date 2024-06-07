@@ -1,0 +1,31 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate over each test case:
+
+    a. Read the number of elements in the array, $n$.
+    
+    b. Read the array elements as $a_1, a_2, ..., a_n$.
+    
+    c. Initialize an empty array $b$ to store the elements of the maximum array Mihai can create.
+    
+    d. Define a function to calculate the MEX of a given set of non-negative integers.
+    
+    e. Loop while $a$ is not empty:
+    
+        i. Initialize a variable $k$ to $1$.
+        
+        ii. Find the MEX of the first $k$ elements of $a$.
+        
+        iii. Add the MEX to array $b$ and remove the chosen elements from $a$.
+        
+        iv. Increment $k$ and repeat until $a$ is empty.
+    
+    f. Print the length of the array $b$ followed by the elements of $b$.
+    
+3. End of loop.
+
+4. End.
+
+Useful knowledge for this prompt includes binary search, constructive algorithms, greedy approach, implementation, math algorithms, and two pointers technique to efficiently solve the problem at hand.

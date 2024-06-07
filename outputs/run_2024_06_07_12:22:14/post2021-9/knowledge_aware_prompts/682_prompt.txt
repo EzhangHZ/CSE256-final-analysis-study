@@ -1,0 +1,65 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read the number of dishes, n.
+
+4. Read n lines, each containing the mass of fish, mass of meat, and the total grams the taster should eat for each dish.
+
+5. For each test case, determine how much fish and meat the taster should eat from each dish to minimize variety.
+
+6. Output the minimum value of variety that can be achieved followed by n lines describing the grams of fish and meat to be eaten from each dish.
+
+7. If there are multiple correct answers, any one of them can be output.
+
+# Example:
+
+Input
+5
+
+3
+10 10 2
+9 9 0
+10 9 1
+
+2
+3 4 1
+5 1 2
+
+3
+7 2 5
+6 5 4
+5 5 6
+
+1
+13 42 50
+
+5
+5 7 12
+3 1 4
+7 3 7
+0 0 0
+4 1 5
+
+Output
+1
+1 1
+0 0
+1 0
+2
+0 1
+1 1
+2
+3 2
+0 4
+1 5
+1
+8 42
+2
+5 7
+3 1
+4 3
+0 0
+4 1

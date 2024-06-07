@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+   
+2. Loop t times to read each test case.
+
+3. Read n, the number of elements in the array.
+
+4. Read the array a consisting of n non-negative integers.
+   
+5. Create an array dp of length n+1, initialized with all zeros.
+
+6. Initialize current value of mex to 0.
+
+7. Loop over each element in the array a.
+
+8. Update dp with the current mex value.
+
+9. Update mex to the maximum of current mex or dp[a[i]].
+
+10. Calculate the number of non-empty MEX-correct subsequences of the given array using dp.
+
+11. Print the calculated result modulo $998244353$.
+
+12. Continue to the next test case until all test cases are processed.

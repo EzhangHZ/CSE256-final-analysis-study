@@ -1,0 +1,10 @@
+# Knowledge-Aware Prompt:
+
+1. Read integers $n$ and $m$.
+2. Read the sequence of $n$ positive integers $a_1, \ldots, a_n$.
+3. Read the sequence of $m$ positive integers $b_1, \ldots, b_m$.
+4. Loop through each integer $b_j$ from $1$ to $m$.
+5. For each $b_j$, calculate the greatest common divisor (GCD) of $a_i + b_j$ for $i$ from $1$ to $n$.
+6. Print the calculated GCD for each $b_j$ as an output.
+7. Repeat steps 4-6 for all $m$ integers.
+8. End the loop and the prompt.

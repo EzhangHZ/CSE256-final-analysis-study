@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integer n which signifies the number of elements in Kolya's array.
+
+2. Read the n integers representing Kolya's array into a list.
+
+3. Initialize a variable count to 0 to keep track of the minimum number of integers that need to be inserted.
+
+4. Loop through each pair of adjacent elements in the array and check if the sum of the subsegment equals 0.
+
+5. If the sum of the subsegment equals 0, calculate the absolute difference between the adjacent elements in the pair and increment the count by that difference.
+
+6. After iterating through all pairs of elements, print the final value of count as the minimum number of integers needed to be inserted into Kolya's array.
+
+7. End the process.
+
+Now you have a structured approach to help Kolya with his array modification request.

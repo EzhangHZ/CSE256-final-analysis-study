@@ -1,0 +1,29 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the number of friends and the number of pairs.
+
+4. Create a list p of size n+1 to store the pair information. Initialize all elements of p to 0.
+
+5. Loop m times to read pairs x_i and y_i, and update p[x_i] and p[y_i] to 1 indicating they are not friends.
+
+6. Initialize a counter variable count to 0 to keep track of the number of good subsegments.
+
+7. Loop over the range [1, n] as the starting friend of the subsegment.
+
+8. Inside the loop on the starting friend, use two pointers technique. Initialize two pointers, left and right, both pointing to the starting friend.
+
+9. Increment the right pointer until the subsegment [left, right] no longer satisfies the condition of being good (i.e., p elements in the subsegment are 0).
+
+10. Calculate the number of valid subsegments ending at the current right pointer position which is right - left + 1.
+
+11. Update the count by adding the number of valid subsegments just calculated.
+
+12. Continue the process with different starting friends of the subsegment until all combinations are checked.
+
+13. Print the final count calculated for each test case.
+
+14. End all loops.

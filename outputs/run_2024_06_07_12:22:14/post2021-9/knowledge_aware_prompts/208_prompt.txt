@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of cards.
+
+4. Initialize counters for white cards and black cards for Alice and Bob.
+
+5. Iterate through the deck of cards, following the dealing pattern described for Alice and Bob.
+
+6. Keep track of the number of cards dealt to Alice and Bob at each step, updating the counts of white and black cards accordingly.
+
+7. After going through all steps, calculate and print the final counts of white and black cards for Alice and Bob.
+
+8. Repeat the process for each test case.
+
+9. End all loops.

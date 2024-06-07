@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read the string s consisting of lowercase letters of the Latin alphabet.
+
+4. Initialize a counter k as 0 to store the number of red (or green) letters in a wonderful coloring.
+
+5. Iterate through each character in the string s.
+
+6. If the current character has not been encountered before, increment k by 1 as a new red (or green) letter can be painted.
+
+7. If the current character has been encountered before, skip it as it must be painted in a different color.
+
+8. Print the final value of k as the number of letters to be painted in red in a wonderful coloring.
+
+9. Repeat for all test cases.
+
+10. End all loop.

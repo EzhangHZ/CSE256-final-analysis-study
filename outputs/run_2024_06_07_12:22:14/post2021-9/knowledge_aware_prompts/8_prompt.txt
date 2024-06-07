@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of string s.
+
+4. Read string s.
+
+5. Check if the first character of s is 'T' or 't'. If not, print "NO" and continue to the next test case.
+
+6. Count the occurrences of 'i', 'm', 'u', and 'r' in s. 
+
+7. Check if the counts of each character are 0 or 1, and the sum of counts is equal to the length of s. If not, print "NO".
+
+8. If all conditions are satisfied, print "YES".
+
+9. End all loops.

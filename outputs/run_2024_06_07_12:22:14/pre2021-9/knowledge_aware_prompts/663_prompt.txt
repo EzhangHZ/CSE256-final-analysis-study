@@ -1,0 +1,15 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of array a.
+
+4. Read the elements of array a.
+
+5. Check if the XOR of all elements in array a is 0. If it is, print "DRAW" and continue to the next test case.
+
+6. Calculate the XOR of all elements in array a. If it is odd, print "WIN" as Koa can force the other player to have a lower score. If it is even, print "LOSE" as Koa can't force the other player to have a lower score.
+
+7. End all loop.

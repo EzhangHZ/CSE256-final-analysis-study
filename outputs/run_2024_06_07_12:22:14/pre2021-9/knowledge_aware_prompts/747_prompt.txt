@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n and m, the number of nodes and edges in the graph.
+
+4. Read the initial values of nodes and target values of nodes.
+
+5. Read the edges connecting the nodes.
+
+6. Perform a depth-first search (DFS) starting from a node and iterate through the connected nodes.
+
+7. Use the Disjoint Set Union (DSU) data structure to efficiently keep track of disjoint subsets.
+
+8. Use constructive algorithms to gradually build a solution to reach the target values for each node.
+
+9. If it is possible for every node to reach its target after some number of operations, print "YES"; otherwise, print "NO".
+
+10. End all loops and procedures.

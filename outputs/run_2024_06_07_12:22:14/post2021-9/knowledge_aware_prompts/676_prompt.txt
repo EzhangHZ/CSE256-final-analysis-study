@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test cases.
+
+3. Read n, the number of segments.
+
+4. Read the lengths of the n segments and store them in a list a.
+
+5. Initialize a variable curr_min_len to infinity.
+
+6. Initialize a variable curr_end to 0.
+
+7. Loop through each segment length in a:
+    - Update curr_end to be the maximum between curr_end - length and curr_end + length.
+    - Update curr_min_len to be the minimum between curr_min_len and curr_end.
+
+8. Print curr_min_len as the answer for the test case.
+
+9. End all loops.

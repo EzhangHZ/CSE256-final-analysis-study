@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of candies received by Alice and Bob.
+
+4. Read the weights of the n candies and store them in a list a.
+
+5. Check if the total weight of candies can be evenly divided by 2. If not, print "NO" and move to the next test case.
+
+6. Define a variable 'totalWeight' to store the sum of weights of all candies.
+
+7. Loop through all candies and calculate the total weight.
+
+8. If the total weight is odd, print "NO" because equal division is not possible.
+
+9. Else, apply a greedy algorithm to redistribute the candies such that both Alice and Bob have equal total weights. If possible, print "YES"; otherwise, print "NO".
+
+10. End all loops.

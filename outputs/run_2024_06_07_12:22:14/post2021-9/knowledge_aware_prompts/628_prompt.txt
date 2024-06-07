@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read the integers $n$ and $d$, where $2 \le d \le n \le 2\cdot 10^5$.
+
+2. Read the tree structure, consisting of $n-1$ edges defined by pairs of integers $u_i, v_i$ $(1 \le u_i, v_i \le n)$.
+
+3. Read the sequence of nodes $m_1$ as well as the integers $a_1, a_2, \ldots, a_{m_1}$ $(1 \le a_i \le n, a_i$ distinct).
+
+4. Read the sequence of nodes $m_2$ as well as the integers $b_1, b_2, \ldots, b_{m_2}$ $(1 \le b_i \le n, b_i$ distinct).
+
+5. Implement a DFS (depth-first search) algorithm or similar to traverse the tree structure efficiently while ensuring that the distance between the two pieces doesn't exceed $d$.
+
+6. Keep track of the minimum steps needed to move the pieces according to the given sequences of nodes.
+
+7. Output the minimum steps required.
+
+8. End the process.

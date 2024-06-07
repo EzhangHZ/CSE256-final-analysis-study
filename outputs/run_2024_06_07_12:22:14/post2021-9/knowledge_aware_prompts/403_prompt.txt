@@ -1,0 +1,27 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Loop over each test case and do the following:
+
+3. Read the value of $n$, the length of the array.
+
+4. Read the array elements $a_1, a_2, \dots, a_n$.
+
+5. Create a set to store unique elements in the array for checking permutations.
+
+6. Initialize a counter variable for the minimum number of operations needed.
+
+7. Loop over each element in the array and do the following:
+
+8. If the current element is greater than $n$ or already present in the set, increment the counter and update the set.
+
+9. End of loop.
+
+10. After the loop, check if the elements from $1$ to $n$ are present in the set.
+
+11. If all elements are present, print the counter as the minimum number of operations; otherwise, print $-1$.
+
+12. End of loop.
+
+**Ensure proper input validation and handling of edge cases.**

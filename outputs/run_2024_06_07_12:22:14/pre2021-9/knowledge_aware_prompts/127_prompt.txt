@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases $t$.
+
+2. Loop $t$ times to read each test case.
+
+3. Read the number of students $n$ and the highest possible score $m$.
+
+4. Read the scores of all students and store them in a list.
+
+5. Calculate the current average score of the class.
+
+6. Determine the maximum possible score you can assign to yourself by considering the following:
+   - To maximize your own score, set your score to $m$ if it doesn't violate the conditions.
+   - Adjust the other students' scores accordingly to maintain the average score.
+
+7. Output the highest possible score you can assign to yourself for each test case.
+
+8. Repeat the process for all test cases.
+
+9. End all loops.

@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read l and r, the range of integers forming the array.
+
+4. Calculate the bitwise AND of the array.
+
+5. Initialize a counter for the number of elements deleted to make the bitwise AND non-zero.
+
+6. Apply bitwise operations to identify the bits that need to be deleted to make the AND non-zero.
+
+7. Print the minimum number of elements that need to be deleted.
+
+8. End all loops.
+
+Now, using the provided problem and knowledge description, generate the full prompt.

@@ -1,0 +1,36 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases $t$.
+
+2. Loop $t$ times to process each test case.
+
+3. Read $n$ and $m$, the number of vertices and edges in the graph.
+
+4. Read the start and end vertices of the path, $s$ and $t$.
+
+5. Read descriptions of the edges for each test case.
+
+6. Implement a depth-first search (DFS) algorithm to traverse the graph and find paths from vertex $s$ to $t$.
+
+7. Consider all paths whose length is at most the length of the shortest path from $s$ to $t$ plus 1.
+
+8. Output the number of paths from $s$ to $t$ satisfying the length criteria, modulo $10^9 + 7$.
+
+9. Repeat for all test cases.
+
+# Problem:
+
+Given an undirected connected graph with $n$ vertices and $m$ edges. The graph contains no loops (edges from a vertex to itself) and multiple edges (i.e. no more than one edge between each pair of vertices). The vertices of the graph are numbered from $1$ to $n$.
+
+Find the number of paths from a vertex $s$ to $t$ whose length differs from the shortest path from $s$ to $t$ by no more than $1$. Consider all suitable paths, even if they pass through the same vertex or edge more than once (i.e. they are not simple).
+
+Implement the DFS algorithm to solve the problem efficiently. Remember to consider the modulo operation to handle large output values.
+
+Graph consisting of $6$ vertices and $8$ edges:
+
+- $6 \rightarrow 1$: Path length is $1$.
+- $6 \rightarrow 4 \rightarrow 1$: Path length is $2$.
+- $6 \rightarrow 2 \rightarrow 1$: Path length is $2$.
+- $6 \rightarrow 5 \rightarrow 1$: Path length is $2$.
+
+There are a total of $4$ matching paths.

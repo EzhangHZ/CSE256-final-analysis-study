@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to iterate through each test case.
+
+3. Read n, the width of the grid.
+
+4. Read the string s representing one of the rows of the grid.
+
+5. Based on the provided string of length n and its corresponding half-domino positions, determine the other row of the grid.
+
+6. Output the other row of the grid in the same format as the input string.
+
+7. Repeat the above steps for each test case.
+
+8. End the loop after processing all test cases.
+
+Now, you can use this knowledge-aware prompt to write the code for solving the problem of determining the other row of the grid based on the given input string representing one row.

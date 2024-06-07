@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of arrays a and b.
+
+4. Read array a containing n odd, distinct integers and array b containing n even, distinct integers.
+
+5. Initialize a variable operations_needed to 0.
+
+6. Loop through each index i from 1 to n-1.
+
+    a. Check if the element at index i of array a is greater than the element at index i of array b.
+    
+    b. If true, swap the elements at index i and index i+1 in array a and increment operations_needed by 1.
+    
+7. Print the final value of operations_needed for each test case.
+
+8. End all loops.

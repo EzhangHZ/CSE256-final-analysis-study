@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read l and r, the range of integers for the initial array.
+
+4. Read the final array a of length (r - l + 1).
+
+5. Iterate through all possible integers x from 0 to $2^{17}$.
+
+6. For each x, calculate the original array using the given range (l to r) and final array elements.
+
+7. Check if the calculated original array matches the final array. If it does, output x and break the loop.
+
+8. End loop and move to next test case.
+
+You may use the given algorithms and knowledge about bitmasks, brute force, data structures, and math to design an efficient solution to help Marin find the secret integer x in Gojou's game of hide-and-seek with the array.

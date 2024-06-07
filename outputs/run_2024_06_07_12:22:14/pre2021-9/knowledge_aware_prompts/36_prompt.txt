@@ -1,0 +1,14 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of regular polygons available in the market.
+
+2. Loop t times to read each regular polygon.
+
+3. Read the number of sides n for each regular polygon.
+
+4. For each regular polygon, check if it's a beautiful regular polygon:
+   - A regular n-sided polygon is considered beautiful if it can be rotated such that at least one edge is parallel to the x-axis and at least one edge is parallel to the y-axis at the same time.
+
+5. If the conditions in step 4 are met, print "YES"; otherwise, print "NO".
+
+6. End all loop.

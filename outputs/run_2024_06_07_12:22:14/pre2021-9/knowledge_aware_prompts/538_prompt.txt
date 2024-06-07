@@ -1,0 +1,59 @@
+# Problem:
+
+Every December, VK traditionally holds an event for its employees named "Secret Santa". Here's how it happens.
+
+$n$ employees numbered from $1$ to $n$ take part in the event. Each employee $i$ is assigned a different employee $b_i$, to which employee $i$ has to make a new year gift. Each employee is assigned to exactly one other employee, and nobody is assigned to themselves (but two employees may be assigned to each other). Formally, all $b_i$ must be distinct integers between $1$ and $n$, and for any $i$, $b_i \ne i$ must hold.
+
+The assignment is usually generated randomly. This year, as an experiment, all event participants have been asked who they wish to make a gift to. Each employee $i$ has said that they wish to make a gift to employee $a_i$.
+
+Find a valid assignment $b$ that maximizes the number of fulfilled wishes of the employees.
+
+
+-----Input-----
+
+Each test contains multiple test cases. The first line contains the number of test cases $t$ ($1 \le t \le 10^5$). Description of the test cases follows.
+
+Each test case consists of two lines. The first line contains a single integer $n$ ($2 \le n \le 2 \cdot 10^5$) — the number of participants of the event.
+
+The second line contains $n$ integers $a_1, a_2, \ldots, a_n$ ($1 \le a_i \le n$; $a_i \ne i$) — wishes of the employees in order from $1$ to $n$.
+
+It is guaranteed that the sum of $n$ over all test cases does not exceed $2 \cdot 10^5$.
+
+
+-----Output-----
+
+For each test case, print two lines.
+
+In the first line, print a single integer $k$ ($0 \le k \le n$) — the number of fulfilled wishes in your assignment.
+
+In the second line, print $n$ distinct integers $b_1, b_2, \ldots, b_n$ ($1 \le b_i \le n$; $b_i \ne i$) — the numbers of employees assigned to employees $1, 2, \ldots, n$.
+
+$k$ must be equal to the number of values of $i$ such that $a_i = b_i$, and must be as large as possible. If there are multiple answers, print any.
+
+
+-----Examples-----
+
+Input
+2
+3
+2 1 2
+7
+6 4 6 2 4 5 6
+Output
+2
+3 1 2
+4
+6 4 7 2 3 5 1
+
+
+# Knowledge Description:
+
+constructive algorithms: Constructive algorithms are techniques that build a solution step-by-step, gradually constructing an optimal or near-optimal solution. They are used in optimization problems where finding a feasible solution is sufficient, rather than an optimal solution. Constructive algorithms begin with an empty solution and iteratively add elements that satisfy certain criteria until a feasible solution is obtained. They are often used in combinatorial optimization problems, such as the traveling salesman problem and bin packing problem.
+
+flows: Flow algorithms are used to solve problems related to the transportation of resources through a network. They are used in a variety of applications, including traffic management, supply chain optimization, and network routing. Flow algorithms can be simple or complex, and may require specialized techniques such as Ford-Fulkerson algorithm or Dinic's algorithm. Flow algorithms can be used to solve problems such as calculating the maximum flow of a network, finding a minimum cut in a graph, or identifying bottlenecks in a system. Proper implementation of flow algorithms requires a solid understanding of graph theory and optimization methods.
+
+graphs: Graphs are mathematical structures used to represent relationships between objects. They consist of nodes or vertices connected by edges or links. Graph algorithms are used to solve problems such as finding the shortest path between two nodes, determining the connected components of a graph, or finding a cycle in a graph. Graph algorithms can be simple or complex, and may require specialized techniques such as depth-first search, breadth-first search, or Dijkstra's algorithm. Graphs are used in a variety of applications, including social networks, transportation systems, and computer networks.
+
+greedy: The greedy algorithm is a heuristic approach that selects the best available option at each step without considering the long-term impact. It is useful for optimization problems where finding an exact solution is intractable, but may not always lead to the optimal solution. Greedy algorithms are easy to implement and efficient.
+
+math: Math algorithms are computational procedures used to perform mathematical operations, such as arithmetic, geometry, calculus, and algebra. They are used to solve mathematical problems and model real-world phenomena. Math algorithms include numerical methods, optimization techniques, and statistical analysis. They are essential in fields such as computer graphics, cryptography, finance, and engineering.

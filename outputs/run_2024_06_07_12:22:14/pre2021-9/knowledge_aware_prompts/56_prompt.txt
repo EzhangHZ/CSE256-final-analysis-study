@@ -1,0 +1,19 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases, $t$.
+
+2. Iterate $t$ times to read each test case.
+
+3. Read integer $n$ for each test case.
+
+4. Define a function $S(x)$ that calculates the sum of digits of number $x$ written in decimal system.
+
+5. Identify an integer $x$ as interesting if $S(x + 1) < S(x)$.
+
+6. Implement a logic to count the number of integers $x$ such that $1 \le x \le n$ and $x$ is interesting.
+
+7. Output the count of interesting numbers for each test case.
+
+8. Proceed to the next test case until all cases are handled.
+
+This prompt involves concepts of math and number theory algorithms, focusing on the properties and relationships of numbers and calculation techniques. The task is to identify interesting numbers based on the sum of their digits and provide the count of such numbers within a given range.

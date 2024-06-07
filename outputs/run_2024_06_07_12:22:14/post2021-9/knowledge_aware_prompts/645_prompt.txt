@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the length of the board.
+
+4. Read strings s1 and s2 representing the 2 rows of the board.
+
+5. Calculate the minimum number of moves required to leave exactly one chip on the board.
+
+6. Use the algorithm to move chips efficiently while capturing any other chips in the way.
+
+7. Output the minimum number of moves required for each test case.
+
+8. Continue for all test cases.

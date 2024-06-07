@@ -1,0 +1,25 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read n, the number of vertices in the tree.
+
+4. Loop n-1 times to read the edges x and y between vertices.
+
+5. Identify the hidden vertex x that needs to be found in the tree.
+
+6. Implement a constructive algorithm to determine the minimum number of queries needed to uniquely identify x.
+
+7. Use DFS and similar algorithms to traverse the tree efficiently during the query process.
+
+8. Utilize DP (dynamic programming) techniques if necessary for optimizing the query selection process.
+
+9. Apply greedy heuristic approaches for selecting query vertices efficiently.
+
+10. Utilize tree algorithms to navigate through the tree structure and determine the optimal query strategy.
+
+11. Output the minimum number of queries needed to uniquely identify x for each test case.
+
+12. End all loops and procedures.

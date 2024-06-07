@@ -1,0 +1,21 @@
+# Knowledge-Aware Prompt:
+
+1. Read n, the number of vertices of the tree.
+
+2. Read the descriptions of the tree, consisting of n-1 lines with two integers u and v representing the indices of vertices connected by an edge.
+
+3. Read q, the number of queries.
+
+4. Loop q times to process each query.
+
+5. For each query, read k, the size of the set, and k distinct integers p1, p2, ..., pk representing the indices of the vertices in the set.
+
+6. Implement a DFS (depth-first search) algorithm to determine if the set of vertices is passable in the tree.
+
+7. Perform DFS traversal starting from each vertex in the set to check if there exists a path that passes through all vertices of the set without revisiting any edge.
+
+8. Output "YES" if the set is passable, and "NO" otherwise for each query.
+
+9. End all loops.
+
+In case you have any further questions or need clarification on the problem description, feel free to ask!

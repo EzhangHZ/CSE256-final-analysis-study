@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read t, the number of test cases.
+
+2. Loop t times to read each test case.
+
+3. Read the expression of the form a{+}b as a string, where a and b are single-digit integers.
+
+4. Parse the string to extract the integers a and b.
+
+5. Calculate the result of a{+}b.
+
+6. Print the result.
+
+7. End loop and program execution.
+
+Remember to handle cases where the input values are not within the specified range.

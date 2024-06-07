@@ -1,0 +1,31 @@
+# Knowledge-Aware Prompt:
+
+1. Read the number of test cases $t$.
+
+2. Iterate through each test case:
+
+   a. Read the values of $n$ and $k$.
+   
+   b. Implement a brute force approach to simulate the passage of particles through the $n$ consecutive 2D planes.
+   
+   c. Keep track of the particles and their decay ages in a multiset $S$.
+   
+   d. Calculate the size of the multiset $S$.
+   
+   e. Output the size of the multiset $S$ modulo $10^9+7$ for the current test case.
+
+3. End of loop.
+
+4. Analyze the efficiency and time complexity of the brute force solution compared to other potential approaches, such as dynamic programming (dp), to optimize the algorithm further for larger values of $n$ and $k`.
+
+5. Consider the role of data structures in storing intermediate results and enhancing the performance of the solution for multiple test cases.
+
+6. Explore the possibility of utilizing dynamic programming (dp) techniques to optimize the solution by breaking down the problem into smaller sub-problems and storing their solutions to avoid redundant computations.
+
+7. Incorporate appropriate data structures like arrays or matrices to store sub-problem solutions efficiently and reduce the overall time complexity of the algorithm when dealing with a large number of 2D planes and particle decay ages.
+
+8. Validate the correctness of the algorithm by comparing the results with known test cases and verifying the output against expected values within the specified constraints.
+
+9. Enhance the algorithm by considering edge cases and boundary conditions to ensure robustness and accuracy in handling different scenarios involving various values of $n$ and $k`.
+
+10. Conclude by summarizing the key learnings from implementing the brute force solution and exploring potential optimizations using dynamic programming (dp) and data structures to improve the efficiency and scalability of the algorithm for solving similar problems efficiently.

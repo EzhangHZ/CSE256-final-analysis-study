@@ -1,0 +1,17 @@
+# Knowledge-Aware Prompt:
+
+1. Read q, the number of test cases.
+
+2. Loop q times to read each test case.
+
+3. Read the non-empty string s and the non-empty string t.
+
+4. Calculate the minimum number of moves required to remove all occurrences of the string t in string s in the minimum number of moves.
+
+5. Count the number of different optimal sequences of moves that can achieve the minimum number of moves, considering sets of indices at which the removed occurrences of string t in s begin.
+
+6. Output the minimum number of moves and the number of different optimal sequences modulo $10^9 + 7$ for each test case.
+
+7. End all loops.
+
+Feel free to ask if you need further clarification or additional information!
